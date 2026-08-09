@@ -1,0 +1,13 @@
+{
+  "slug": "story-studio",
+  "path": "/Volumes/A/code/story-studio",
+  "type": "software",
+  "stack": [
+    "python"
+  ],
+  "has_git": true,
+  "status": "active",
+  "last_reviewed": "2026-07-27",
+  "doc_version": 1,
+  "catalog": "/Volumes/A/Documents/project-documentation/projects/story-studio/SUMMARY.md"
+}

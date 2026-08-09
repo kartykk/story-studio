@@ -1,0 +1,208 @@
+{
+  "phase": "smoke",
+  "timestamp": "2026-06-25T05:14:11.627057+00:00",
+  "results": [
+    {
+      "story_id": "test-crime-en",
+      "expected_genre": "crime",
+      "detected_genre": "crime",
+      "language": "English",
+      "premise": "A corrupt cop investigates a murder in Mumbai that leads to his own precinct.",
+      "title": "Precinct",
+      "logline": "A corrupt Mumbai cop must solve a murder that implicates his own precinct before his colleagues bury him alongside the evidence.",
+      "arc_type": "Man in Hole",
+      "fatal_error": "world: No JSON in response:\n```json\n{\n  \"overview\": \"Mumbai, present day — a city of 20 million souls stacked on top of each other, where the police force operates as a parallel government with its own economy of bribes, extortion, and political patronage. Within D.N. Nagar Police Station in Andheri West, a mid-rank inspector navigates a murder case that threatens to expose the precinct's entanglement with land mafia, drug runners, and local politicians — forcing him to choose between the brotherhood that feeds him and the",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0002058749996649567,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 13.61517754200031,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 7.4843954169991775,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": false,
+          "seconds": 98.01937458400062,
+          "error": "No JSON in response:\n```json\n{\n  \"overview\": \"Mumbai, present day — a city of 20 million souls stacked on top of each other, where the police force operates as a parallel government with its own economy of bribes, extortion, and political patronage. Within D.N. Nagar Police Station in Andheri West, a mid-rank inspector navigates a murder case that threatens to expose the precinct's entanglement with land mafia, drug runners, and local politicians — forcing him to choose between the brotherhood that feeds him and the"
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 34.46422595799959,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": false,
+          "seconds": 70.5546032079983,
+          "error": "Expecting ',' delimiter: line 18 column 72 (char 7803)"
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 103.05571304100158,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 36.35695708300045,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 17.555861041000753,
+          "error": ""
+        }
+      ],
+      "total_seconds": 381.1,
+      "setup_ok": false,
+      "chapter_written": false,
+      "word_count": 0,
+      "excerpt": "",
+      "quality": {
+        "total_score": null,
+        "threshold": 68,
+        "passed": false,
+        "attempt": null,
+        "axes": {
+          "emotional_resonance": null,
+          "narrative_craft": null,
+          "pacing": null,
+          "character_auth": null,
+          "genre_adherence": null
+        },
+        "top_issues": []
+      },
+      "sis": {
+        "avg": null,
+        "scene_count": 0,
+        "curve_warnings": []
+      },
+      "hook": {
+        "ok": false,
+        "issue": ""
+      },
+      "genre_violations": [],
+      "emotion": {},
+      "language_check": {
+        "ok": false,
+        "scripts": {}
+      }
+    },
+    {
+      "story_id": "test-romance-hi",
+      "expected_genre": "romance",
+      "detected_genre": "literary",
+      "language": "Hindi",
+      "premise": "दिल्ली में दो परिवारों के बीच प्रतिबंधित प्रेम कहानी — दुश्मनी से प्यार तक।",
+      "title": "विरासत",
+      "logline": "दिल्ली की दो दुश्मन परिवारों का वारिस आयान को अपने प्यार और खानदान की इज्ज़त में से एक चुनना होगा — वरना दोनों बर्बाद हो जाएंगे।",
+      "arc_type": "Cinderella",
+      "fatal_error": "world: No JSON in response:\n```json\n{\n  \"overview\": \"पुरानी दिल्ली की भूलभुलैया गलियों में दो शक्तिशाली परिवार — मलिक और राठौड़ — तीन पीढ़ियों से एक-दूसरे के खून के प्यासे हैं। उनकी दुश्मनी ने चांदनी चौक को दो हिस्सों में बाँट दिया है — एक तरफ मलिक की हवेली, दूसरी तरफ राठौड़ का किला-नुमा घर। इसी आग में आयान मलिक और सानिया राठौड़ का इश्क़ पनपता है — एक ऐसा प्यार जो या तो इस नफ़रत को ख़त्म करेगा, या इन दोनों ख़ानदानों को जड़ से उखाड़ देगा।\",\n\n  \"geography\": \"कहानी का केंद्र पुरानी दिल्ली है — चांदनी चौक, जामा मस्जिद, किनारी ",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0013775000006717164,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 19.34747675000108,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 8.419768208997993,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": false,
+          "seconds": 74.89006220900046,
+          "error": "No JSON in response:\n```json\n{\n  \"overview\": \"पुरानी दिल्ली की भूलभुलैया गलियों में दो शक्तिशाली परिवार — मलिक और राठौड़ — तीन पीढ़ियों से एक-दूसरे के खून के प्यासे हैं। उनकी दुश्मनी ने चांदनी चौक को दो हिस्सों में बाँट दिया है — एक तरफ मलिक की हवेली, दूसरी तरफ राठौड़ का किला-नुमा घर। इसी आग में आयान मलिक और सानिया राठौड़ का इश्क़ पनपता है — एक ऐसा प्यार जो या तो इस नफ़रत को ख़त्म करेगा, या इन दोनों ख़ानदानों को जड़ से उखाड़ देगा।\",\n\n  \"geography\": \"कहानी का केंद्र पुरानी दिल्ली है — चांदनी चौक, जामा मस्जिद, किनारी "
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 44.04639120900174,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": false,
+          "seconds": 53.1958819169995,
+          "error": "No JSON in response:\n```json\n{\n  \"name\": \"मेहर मल्होत्रा\",\n  \"role\": \"love interest\",\n  \"age\": \"24\",\n  \"physical_description\": \"गहरी काली आँखें जिनमें एक ठहरा हुआ तूफ़ान दिखता है; लंबे बालों की चोटी जो हमेशा बाएँ कंधे पर गिरती है; होठों पर एक ऐसी मुस्कान जो लोगों को बेचैन कर दे — क्योंकि उसमें ग़म और शरारत दोनों एक साथ रहते हैं; हाथों की उँगलियों पर हमेशा स्याही या चारकोल के निशान होते हैं क्योंकि वो पुरानी हवेलियों और गलियों के स्केच बनाती है।\",\n  \"speech_pattern\": \"ज़बान पर पंजाबी की धार और दिल्ली की तेज़ी — 'सुन "
+        },
+        {
+          "name": "beats",
+          "ok": false,
+          "seconds": 85.90362649999952,
+          "error": "Expecting ',' delimiter: line 86 column 6 (char 6609)"
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 54.10963420900225,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 24.15927662499962,
+          "error": ""
+        }
+      ],
+      "total_seconds": 364.1,
+      "setup_ok": false,
+      "chapter_written": false,
+      "word_count": 0,
+      "excerpt": "",
+      "quality": {
+        "total_score": null,
+        "threshold": 72,
+        "passed": false,
+        "attempt": null,
+        "axes": {
+          "emotional_resonance": null,
+          "narrative_craft": null,
+          "pacing": null,
+          "character_auth": null,
+          "genre_adherence": null
+        },
+        "top_issues": []
+      },
+      "sis": {
+        "avg": null,
+        "scene_count": 0,
+        "curve_warnings": []
+      },
+      "hook": {
+        "ok": false,
+        "issue": ""
+      },
+      "genre_violations": [],
+      "emotion": {},
+      "language_check": {
+        "ok": false,
+        "scripts": {}
+      }
+    }
+  ]
+}

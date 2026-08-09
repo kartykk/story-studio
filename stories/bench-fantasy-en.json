@@ -1,0 +1,393 @@
+{
+  "story_id": "bench-fantasy-en",
+  "language": "English",
+  "language_code": "en",
+  "premise": "The chosen one must save a dying kingdom from an ancient shadow curse.",
+  "logline": "A disgraced shepherd's daughter must master a forgotten magic and destroy an ancient shadow curse before her dying kingdom fades into eternal darkness.",
+  "theme": "True power is not given to the worthy — it is forged by those willing to break and rebuild themselves.",
+  "genre": "fantasy",
+  "genre_model_name": "fantasy",
+  "target_audience": "Ages 16-35, fans of epic fantasy with emotional character depth — readers of Brandon Sanderson, Sarah J. Maas, and Robin Hobb",
+  "tone": "Epic and emotionally intense, with threads of earned hope against overwhelming darkness",
+  "title": "Unbroken",
+  "title_candidates": [
+    "Unbroken",
+    "The Shepherd of Shadows",
+    "What the Darkness Left Behind",
+    "Eryndal's Last Flame",
+    "The Worthy Need Not Apply"
+  ],
+  "world": {
+    "overview": "The kingdom of Vael Morath sits in a vast highland valley surrounded by ancient mountains, slowly being consumed by the Dimming — a creeping supernatural darkness that swallows light, life, and memory at the borders and advances inward each season. The land was once sustained by a covenant between the first shepherds and the living light of the earth itself, but that covenant was broken generations ago, and now only fragments of the old magic survive in half-remembered songs and the strange, luminous wool of the dwindling highland flocks. As the Dimming closes in, the kingdom's sun grows weaker, crops fail, and people forget the names of their own dead.",
+    "geography": "Vael Morath occupies a high mountain basin called the Cradlelands — a ring of jagged peaks surrounding tiered valleys of descending elevation, with the capital city of Hearthspire at the center and pastoral grazing lands radiating outward toward the mountain passes. The outermost ring, once lush alpine meadow, is now the Dim Marches — a grey, lightless zone where the shadow curse has fully taken hold, turning the landscape into a featureless, silent void that slowly expands inward. Travel is by foot, mule, or stone-rail carts along ancient grooved roads carved into the mountainsides; the passes to the outside world have been swallowed by the Dimming, making Vael Morath effectively sealed. Climate was once temperate highland with bright, long summers, but now the seasons blur into perpetual grey twilight, and true sunlight lasts only a few hours at midday.",
+    "history": "A thousand years ago, the First Shepherds — nomadic herders with an innate connection to the living light beneath the mountains — founded Vael Morath by entering the Covenant of Flame, a pact with an entity called the Underhearth, the molten luminous spirit of the earth itself, which agreed to sustain the valley with warmth and light in exchange for the shepherds' songs, which fed it and kept it dreaming peacefully. Three hundred years ago, King Aldrevant the Builder, wanting to industrialize and expand, silenced the shepherd traditions and drove the herding clans from the inner valleys to the margins, declaring their songs superstition; without the songs, the Underhearth's dreams curdled into nightmares, and the entity's corrupted dreaming began leaking upward as the Dimming. The protagonist's clan, the Vashar, were the last to keep the old songs, but her father was publicly disgraced and exiled twenty years ago when he tried to warn the court and was framed as a traitor by political rivals, leaving the family name synonymous with madness and shame.",
+    "culture": "Vael Morath's dominant culture values industry, stone-craft, and civic order, having deliberately moved away from its pastoral roots; shepherds are now the lowest social class, seen as backwards relics clinging to dead traditions. Light is sacred in daily life — people greet each other by holding up open palms to show they 'carry no shadow,' meals begin with the lighting of a shared candle, and the worst insult is to call someone 'dim-touched,' implying they are being consumed by the curse. Clothing is layered wool and leather in muted earth tones, but everyone wears at least one piece of brightwork — polished metal jewelry or embroidery with luminous thread — as a ward against the dark. Art and music have declined as the Dimming advances; people find it harder to remember melodies, and there is a growing cultural grief that manifests as silence, as if the kingdom is forgetting how to speak about what it is losing.",
+    "politics": "Vael Morath is ruled by the Hearthspire Regency, a council of five noble houses that seized power after the last true king died without heir forty years ago; they govern through bureaucratic control of light-resources, particularly the dwindling stores of embertallow — rendered fat from the old flocks that burns with supernatural brightness. The Regency publicly denies the Dimming is supernatural, attributing it to natural climate shifts, because acknowledging the curse would mean admitting the shepherds were right and the nobility's ancestors caused the catastrophe. A desperate underground faction called the Rememberers secretly preserves shepherd lore and seeks a way to restore the Covenant, but they are hunted as seditionists. The military order known as the Pallid Watch guards the border of the Dim Marches, and soldiers who serve too long begin losing their memories and emotions, becoming hollow-eyed husks called the Faded.",
+    "economy": "The economy runs on embertallow and brightstone — a luminescent mineral mined from shallow veins that is losing its glow as the Underhearth's light fails — both controlled by the Regency, creating an artificial scarcity that keeps the noble houses powerful while common people ration light like food. Currency is the lumen, small discs of pressed brightstone, and wealth is literally measured in how much light a household can afford; the poor live in near-darkness while noble estates blaze. Shepherding, once the foundation of the kingdom, is now marginal subsistence work, but the wool of the highland flocks — particularly the rare silverhorn breed — still holds a faint natural luminescence that the Regency quietly exploits without crediting its source. Trade with the outside world ceased when the passes closed, creating increasing resource desperation and class tension as the Regency hoards light for the inner districts.",
+    "religion": "The official state faith is the Doctrine of the Sustained Flame, which teaches that light is a finite divine gift that must be carefully managed by the worthy — conveniently justifying Regency control — and that the Dimming is a test of civilization's discipline. The older, suppressed faith of the shepherds holds that light is not a resource but a relationship — that the earth is alive and dreaming, and the world's warmth comes from tending that dream through song, sacrifice, and mutual care. The shepherds practiced the Singing Vigils, rituals where herders would sing through the night at high pastures, their voices carrying down into the stone to soothe the Underhearth; these are now illegal. There is a widespread folk superstition that the dead whose names are forgotten by the living do not pass on but dissolve into the Dimming — which, terrifyingly, appears to be true, as the darkness at the margins sometimes moves with the shapes of the forgotten.",
+    "magic_or_tech": "The forgotten magic is called Hearthsong — a discipline where the practitioner learns to sing the resonant frequencies of the living earth, channeling the Underhearth's light through their own body as a conduit. The cost is devastating: each use burns the singer from the inside, leaving physical scars like cracks of light in the skin, and at higher levels the singer must sacrifice personal memories to fuel the connection — literally giving up pieces of who they are to channel enough power to push back the Dimming. No one can be taught Hearthsong from a book; it requires breaking oneself open emotionally, confronting every shame and grief and failure without flinching, because the Underhearth responds only to absolute vulnerability and truth — making the protagonist's disgrace and suffering not obstacles to power but the raw material for it. The shadow curse itself is essentially the Underhearth's power turned inside out — light curdled into consuming darkness — meaning the same magic that can heal the world could, if wielded with fear or denial, accelerate its destruction.",
+    "language": "The common tongue of Vael Morath is Valric, a grounded Germanic-sounding language with short, hard consonants for daily speech but older shepherd dialects that are more lyrical and vowel-rich, designed to carry across mountain valleys and resonate in stone. Names follow a pattern: noble houses use formal compound names (Aldrevant, Thornhelm, Caeduris) while shepherd clans use shorter, earthier names with patronymic clan markers (Lirael vas Vashar, meaning Lirael of clan Vashar; 'vas' meaning 'voice of'). The old songs are in a language called Deepvalric, which is almost incomprehensible to modern speakers and whose words physically vibrate in the throat in ways that feel unnatural — a sign that it was never a purely human language but something taught to the First Shepherds by the Underhearth itself.",
+    "unique_elements": "First, the central metaphor made literal: light is not just symbolically important but is the actual currency, fuel, weapon, and measure of life, and its scarcity drives every level of conflict from geopolitics to a mother deciding whether her children can see their dinner. Second, the magic system's requirement that power comes specifically from brokenness and vulnerability — not talent, bloodline, or training — which inverts traditional fantasy chosen-one narratives and makes the protagonist's disgrace, grief, and emotional damage the precise qualifications the world needs, embodying the theme that power is forged by those willing to shatter and remake themselves. Third, the Dimming as a curse that destroys memory as well as light, so that the kingdom is not just dying but being forgotten even by itself — creating a uniquely existential horror where the stakes are not just survival but the preservation of meaning, identity, and the knowledge that anyone ever lived at all."
+  },
+  "characters": {
+    "eirys thalen": {
+      "name": "Eirys Thalen",
+      "role": "protagonist",
+      "age": "19",
+      "physical_description": "Small-framed with sun-darkened skin and calloused shepherd's hands. A faded silver birthmark spirals across her left collarbone like a language no one can read. Her dark hair is perpetually wind-tangled, and her eyes are an unsettling pale gold — the same color as the ancient Thalenmoor lanterns that once held back the dark.",
+      "speech_pattern": "Speaks in the clipped, practical cadence of highland shepherds — drops formal articles, uses weather metaphors instinctively. Self-deprecating and deflecting when uncomfortable, often framing observations as questions. As she grows, her sentences lengthen and her voice steadies into something that sounds disturbingly like command.",
+      "tier": 1,
+      "is_pov_character": true,
+      "ghost": "At age seven, Eirys watched Crown soldiers burn her family's homestead in the Greymarch Purges, a campaign to eradicate anyone with bloodline ties to the old Lightkeeper mages. Her father was publicly branded a heretic and exiled; her mother vanished that same night and never returned. Eirys was told her parents were frauds and that their bloodline was nothing — common dirt pretending at power.",
+      "lie": "I am no one's answer. I'm a shepherd's daughter with dirty hands, and the magic people whisper about in my bloodline was either a lie or a curse — either way, it's not mine to claim.",
+      "want": "To find her missing mother, protect the few people left in her dying highland village, and push back the creeping shadow-blight long enough for someone more capable to fix things.",
+      "need": "To accept that she is the last true Lightkeeper, that her \"ordinary\" life was itself a form of exile, and that stepping into her power does not betray her father's memory — it honors it.",
+      "flaw": "Chronic self-erasure — she minimizes her own instincts, defers to louder voices, and sabotages herself at the threshold of power because she has internalized the belief that wanting more than survival is dangerous arrogance. Under pressure, this manifests as paralysis or reckless self-sacrifice disguised as pragmatism.",
+      "strength": "An uncanny ability to read living systems — weather, herds, people, magic — and sense when something is wrong before anyone else does. She listens when others talk over silence, and her empathy makes her a natural leader even when she refuses the title.",
+      "arc_type": "positive",
+      "arc_summary": "Eirys begins as a grief-worn survivor hiding in ordinariness, refusing the birthmark on her skin and the light that flickers unbidden in her palms. Through mentorship, betrayal, catastrophic failure, and the near-loss of everyone she loves, she is broken down to the truth her father tried to protect: she was never ordinary, and ordinariness was never safety — it was slow death. She rises as the last Lightkeeper, not as a chosen savior but as someone who chose back, wielding a magic that costs her memory for every shadow she burns. By the end she has saved the kingdom but lost years of her own past, standing in hard-won light as someone partly stranger to herself — powerful, grieving, and finally free.",
+      "vogler_archetype": "Hero",
+      "enneagram_type": "Type 6 (Loyalist) transforming toward Type 8 (Challenger)",
+      "mbti_type": "ISFJ",
+      "ocean_scores": {
+        "O": 0.55,
+        "C": 0.7,
+        "E": 0.3,
+        "A": 0.75,
+        "N": 0.65
+      },
+      "relationships": {},
+      "voice_id": "",
+      "voice_name": ""
+    },
+    "darveth soames": {
+      "name": "Darveth Soames",
+      "role": "mentor",
+      "age": "63",
+      "physical_description": "Tall and gaunt with a pronounced stoop, as though he has spent decades bowing under a weight no one else can see. His left hand is missing two fingers — severed cleanly at the knuckle — and the remaining three are stained permanently black from ink and reagent work. Deep-set grey eyes sit beneath a forehead latticed with ritual scarring he keeps half-hidden under a threadbare scholar's hood. A faded Lightkeeper brand on his collarbone, identical to the one Eirys's father received, though his was self-inflicted.",
+      "speech_pattern": "Speaks in the measured, parenthetical style of a man who has rehearsed every sentence before saying it aloud — layered with subclauses, qualifications, and deliberate silences. Habitually answers questions with reframed questions. Uses archaic Lowmarch academic phrasing mixed with crude shepherd idioms he picked up in hiding. Fond of the phrase 'That is the wrong question' and of trailing off mid-sentence when he decides the listener needs to finish the thought themselves.",
+      "tier": 1,
+      "is_pov_character": true,
+      "ghost": "Darveth was the last Chronicler of the Lightkeeper order — the scholar responsible for preserving their rituals, histories, and magical theory. When the Greymarch Purges began, he had forty-eight hours to warn the bloodline families. He chose instead to hide the archive, believing the knowledge was more important than any single generation of practitioners. By the time he emerged, seventeen families had been burned out or scattered — including the Thalens. He arrived at their homestead a day after the soldiers. He found seven-year-old Eirys's footprints in the ash but did not follow them.",
+      "lie": "The preservation of knowledge is worth more than the preservation of people — if the theory survives, someone will eventually arise who can use it, and sentiment only clouds the calculus of survival.",
+      "want": "To find a worthy vessel for the Lightkeeper archive before the shadow-blight renders the magic irretrievable, thereby proving that his sacrifice during the Purges was justified and not cowardice dressed in logic.",
+      "need": "To accept that his choice during the Purges was cowardice — that knowledge without the living hands to hold it is just ink — and that his debt is not repaid by teaching Eirys but by finally valuing her life above his theory.",
+      "flaw": "His past failure during the Purges has calcified into a doctrine of detachment: he treats people as instruments of a larger design and cannot see Eirys as a person rather than a proof of concept. He is further limited by his own rigid rules about how Lightkeeper magic must be taught — sequential, theoretical, controlled — which nearly kills Eirys when the blight accelerates beyond his models. His blind spot is that he cannot fathom Eirys's self-erasure because he has never doubted his own intellect, only his courage; he mistakes her hesitation for lack of understanding rather than a wound that mirrors his own.",
+      "strength": "A staggering, encyclopedic mastery of magical theory, old-kingdom history, and the precise mechanics of Lightkeeper ritual — he is quite literally the only living person who understands why the magic works, not just how. His ability to pattern-match across centuries of lore makes him indispensable when the shadow-blight behaves in ways no one alive has witnessed.",
+      "arc_type": "positive",
+      "arc_summary": "Darveth begins as a man who has successfully replaced guilt with intellectual purpose for twenty-plus years. Meeting Eirys cracks the architecture: she is living proof that his calculus was wrong, that the child he did not follow became the vessel he spent decades searching for, and that she nearly didn't survive to be found. Through teaching her, he is forced to confront that his 'preservation over people' doctrine is the same logic the Crown used to justify the Purges. In the story's crisis, he breaks his own rules — abandoning the archive to shield Eirys with his body — and is mortally wounded. He dies having chosen a person over a principle for the first time, passing not just knowledge but confession: he tells Eirys he could have warned her family and didn't. His death frees her to surpass his methods and forge her own relationship with the light.",
+      "vogler_archetype": "Mentor",
+      "enneagram_type": "Type 5 (Investigator)",
+      "mbti_type": "INTJ",
+      "ocean_scores": {
+        "O": 0.9,
+        "C": 0.85,
+        "E": 0.2,
+        "A": 0.3,
+        "N": 0.6
+      },
+      "relationships": {
+        "Eirys Thalen": "The daughter of the family he failed to warn — she is simultaneously his student, his redemption project, and his living indictment. He oscillates between genuine tenderness and clinical distance, unable to fully reconcile that teaching her is both atonement and another form of using her."
+      },
+      "voice_id": "",
+      "voice_name": ""
+    }
+  },
+  "beats": [
+    {
+      "number": 1,
+      "name": "Opening Image",
+      "description": "Eirys tends her dwindling flock on a highland ridge at dawn, but the sun barely crests the mountains — a pale, sickly disc that gives no warmth. She notices one of her ewes has wandered too close to the Dimming's edge and pulls it back, her palms flickering with an unbidden light she quickly smothers and hides. Below in the valley, the village of Caer Holm is half-empty, its lanterns burning all day against a darkness that no longer fully lifts.",
+      "act": "Act I",
+      "chapter_hint": "1"
+    },
+    {
+      "number": 2,
+      "name": "Theme Stated",
+      "description": "Eirys's elderly neighbor, blind Maren, tells her that Eirys's father once said power doesn't choose the worthy — it answers whoever is stubborn enough to stand in the fire and let it remake them. Eirys dismisses this as a dead man's wishful thinking, saying her father was branded a heretic for exactly that kind of talk. Maren replies quietly that being branded doesn't make a thing untrue — it just means the truth cost something.",
+      "act": "Act I",
+      "chapter_hint": "1-2"
+    },
+    {
+      "number": 3,
+      "name": "Set-Up",
+      "description": "The Dimming has advanced three miles in a single season, swallowing two outer farmsteads; villagers are forgetting the names of the lost. Eirys keeps Caer Holm functioning through sheer practical stubbornness — rationing candles, rotating grazing routes, reading weather no one else can read — but refuses to acknowledge the light that sparks unbidden from her hands or the birthmark on her wrist that glows faintly in darkness. She carries her exiled father's shepherd's crook, carves tally marks for every day her mother has been missing (over 4,300), and deflects every suggestion that she is anything more than a shepherd trying to keep her people fed.",
+      "act": "Act I",
+      "chapter_hint": "1-3"
+    },
+    {
+      "number": 4,
+      "name": "Catalyst",
+      "description": "A stranger collapses at the village gate — Darveth Soames, gaunt and half-mad from weeks of travel through blight-touched territory, clutching a sealed case of ancient manuscripts. He sees Eirys's birthmark and calls her by her bloodline name: Lightkeeper. He tells her the Dimming is not natural decay but an ancient shadow curse called the Unmaking, reawakened because the last Lightkeeper covenant-holder died three months ago — and Eirys is the only living heir who can renew it.",
+      "act": "Act I",
+      "chapter_hint": "3-4"
+    },
+    {
+      "number": 5,
+      "name": "Debate",
+      "description": "Eirys resists violently — her father was destroyed for this bloodline, her mother vanished because of it, and she has spent twelve years building a life predicated on being no one important. She argues that Darveth should find someone else, that the Crown will kill her if she reveals herself, and that she cannot leave Caer Holm unprotected. Meanwhile the Dimming surges overnight, swallowing the village's last good pasture, and a child in the village wakes unable to remember his own sister's name — the blight is eating memory now, not just land.",
+      "act": "Act I",
+      "chapter_hint": "4-5"
+    },
+    {
+      "number": 6,
+      "name": "Break into Two",
+      "description": "When the Dimming breaches Caer Holm's perimeter and shadow-blight tendrils reach for the children's hall, Eirys instinctively unleashes a blast of raw Lightkeeper magic that drives it back — but the effort nearly kills her because she has no training. Shaken and unable to deny what she is any longer, she agrees to travel with Darveth to the ruins of the Lightkeeper sanctum at Aeltharis, deep in blight-consumed territory, where the original covenant was forged and where alone it can be renewed. She leaves Caer Holm in Maren's care, taking her father's crook and the terrible knowledge that she may not return.",
+      "act": "Act I",
+      "chapter_hint": "6"
+    },
+    {
+      "number": 7,
+      "name": "B Story",
+      "description": "On the road, the relationship between Eirys and Darveth becomes the story's emotional spine — he is the mentor she never had, but also the man who could have warned her family and chose not to. She doesn't know this yet; she sees only a brilliant, brittle scholar who treats her like a research subject. Their bond deepens as he teaches her theory and she teaches him to read the living land, but an undercurrent of guilt poisons his every kindness, and Eirys senses something wrong in him without being able to name it. This dynamic mirrors the theme: Darveth chose knowledge over people and must learn the reverse, while Eirys must stop deferring to his authority and trust her own instincts.",
+      "act": "Act II",
+      "chapter_hint": "7-9"
+    },
+    {
+      "number": 8,
+      "name": "Fun and Games",
+      "description": "Eirys trains in Lightkeeper magic as they journey through increasingly blight-warped landscapes — learning to draw light from wool, stone, and living memory, burning small pockets of shadow and discovering that each use costs her a personal memory. She is astonishingly intuitive, often leaping past Darveth's sequential lessons to improvise techniques he's only read about. They encounter blight-twisted creatures, navigate a village trapped in a loop of forgotten time, and Eirys discovers she can read the Dimming's patterns the way she reads weather — sensing where it will surge next. For the first time, her 'ordinary' skills and her magic are the same thing, and she begins to feel, tentatively, powerful.",
+      "act": "Act II",
+      "chapter_hint": "8-13"
+    },
+    {
+      "number": 9,
+      "name": "Midpoint",
+      "description": "Eirys and Darveth reach the outer ruins of Aeltharis and Eirys successfully reignites a dormant Lightkeeper waystone, pushing the Dimming back for miles — a false victory that reveals a devastating truth. Inside the waystone's light, she finds a preserved message from her mother: her mother didn't vanish — she went to Aeltharis years ago to hold the covenant alone and has been slowly consumed by it, her memories and identity feeding the light that has kept the Dimming from accelerating sooner. Eirys now realizes the covenant doesn't just require renewal — it requires a Lightkeeper to sacrifice themselves as a living anchor. The stakes raise from 'save the kingdom' to 'save the kingdom and lose yourself doing it.'",
+      "act": "Act II",
+      "chapter_hint": "14-15"
+    },
+    {
+      "number": 10,
+      "name": "Bad Guys Close In",
+      "description": "Crown soldiers arrive, led by a Purge commander who has been tracking Darveth's movements — they want the Lightkeeper archive destroyed and Eirys captured or killed, because the Crown's power depends on the old magic staying dead. Simultaneously, the Dimming responds to the reignited waystone by accelerating massively, as if intelligent and angry, spawning shadow constructs that hunt Eirys specifically. Darveth's rigid training methods begin to fail as the blight evolves beyond his models; Eirys's magic grows unstable under stress, and she starts losing important memories — her father's face, the sound of her mother's voice. She begins to fracture, deferring to Darveth's increasingly desperate plans even as her instincts scream they're wrong.",
+      "act": "Act II",
+      "chapter_hint": "16-19"
+    },
+    {
+      "number": 11,
+      "name": "All Is Lost",
+      "description": "At the inner sanctum of Aeltharis, Eirys finds her mother — barely alive, a translucent figure woven into the covenant's light, who no longer recognizes her own daughter. As Eirys reaches for her, the Crown soldiers breach the sanctum and Darveth throws himself between Eirys and a killing blow, taking a mortal wound. Dying, he confesses: he could have warned her family during the Purges but chose to save the archive instead. Eirys is shattered — her mentor was complicit in her family's destruction, her mother is beyond saving, and the covenant demands she become what her mother became: a living sacrifice erased from her own story.",
+      "act": "Act II",
+      "chapter_hint": "20-21"
+    },
+    {
+      "number": 12,
+      "name": "Dark Night of Soul",
+      "description": "Alone in the ruined sanctum with Darveth dead and her mother dissolving into light, Eirys collapses into the lie she has always believed — she is no one, she was never meant for this, and every person who believed in her was wrong or selfish. She considers letting the Dimming take her, reasoning it would be a mercy — an end to a bloodline that has only ever brought suffering. In the darkness, she realizes she has already lost the memory of her father's last words to her, consumed by her own magic, and the grief of that loss — not the loss itself, but that she can't even feel it properly anymore — cracks something open. She understands that erasure is not humility; it is the Dimming's victory in miniature. Her father didn't hide her to keep her small. He hid her to keep her alive long enough to choose.",
+      "act": "Act II",
+      "chapter_hint": "22-23"
+    },
+    {
+      "number": 13,
+      "name": "Break into Three",
+      "description": "Eirys rejects both Darveth's method (controlled theory, sequential mastery) and the old covenant's terms (a single Lightkeeper sacrificed as anchor). Using her shepherd's instinct for reading living systems, she realizes the covenant was never meant to be held by one person — it was a compact between the light and the land's people, broken when the people forgot, not when the mages died. She doesn't need to become the anchor; she needs to reforge the covenant as a distributed bond, seeding light into every living thing in Vael Morath. She rises, takes Darveth's archive and her father's crook, and walks into the Dimming's heart — not as a sacrifice, but as a shepherd calling her flock home.",
+      "act": "Act III",
+      "chapter_hint": "23-24"
+    },
+    {
+      "number": 14,
+      "name": "Finale",
+      "description": "Eirys confronts the Unmaking at the source — the place where the original covenant was broken, now a churning void of anti-light and consumed memories. She uses everything: Darveth's theory, her mother's sacrifice as a foundation, the luminous wool of her highland sheep as a physical conduit, and her own Lightkeeper fire. She reforges the covenant not as a chain binding one mage to the earth but as a song — the old shepherd songs she grew up singing — broadcast through the waystones and carried by every living creature in the valley. The cost is immense: she burns through years of her own memories to fuel the working, losing her childhood, her mother's face, most of her father's. She defeats the Crown soldiers not with violence but by reigniting the light in the land itself, making the Purge commander confront the memories the Dimming stole from him too. The Dimming shatters, sunlight returns to Vael Morath in a wave, and the shadow curse breaks — but Eirys collapses, vast stretches of her personal history simply gone.",
+      "act": "Act III",
+      "chapter_hint": "25-28"
+    },
+    {
+      "number": 15,
+      "name": "Final Image",
+      "description": "Weeks later, Eirys stands on the same highland ridge from the opening — but now the sun is strong and warm, the grass is returning, and new lambs are nursing in green pastures. She does not remember this place the way she should; the ridge feels familiar the way a recurring dream does, not the way home does. Villagers call her Lightkeeper and she does not flinch from the name. She carries her father's crook, though she cannot remember him giving it to her, and Darveth's archive, which she is learning to read not as scripture but as a starting point. Her hands are steady, her voice carries, and when a child asks her who she is, she says her own name without hesitation — not a shepherd's daughter, not a savior, but someone who chose to stay in the fire long enough to be remade by it. The birthmark on her wrist glows softly in the daylight. She is powerful, grieving, partly stranger to herself, and finally, irrevocably free.",
+      "act": "Act III",
+      "chapter_hint": "29-30"
+    }
+  ],
+  "chapter_plan": [
+    {
+      "number": 1,
+      "title": "The Shepherd Who Swallowed Her Light",
+      "beats_covered": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "pov_character": "Eirys Thalen",
+      "location": "Caer Holm and the surrounding highland pastures of Vael Morath",
+      "summary": "Eirys struggles to keep her dying village alive under the advancing Dimming, hiding the forbidden light that sparks from her hands and refusing every sign that she is more than a shepherd's daughter. When a half-mad scholar named Darveth collapses at the gate and names her Lightkeeper — heir to the very bloodline that destroyed her family — she fights the call until the Dimming breaches Caer Holm itself and she unleashes raw magic to save the children, nearly dying in the effort. Shattered and unable to deny what she is, she leaves her home behind and walks into blight-consumed territory with a stranger she doesn't trust, carrying her father's crook and the weight of a covenant she doesn't yet understand.",
+      "emotional_goal": "The reader should feel the ache of a life built on denial finally cracking open — dread at the encroaching darkness, fierce protectiveness toward Eirys, and a gutpunch of reluctant hope as she steps into the unknown.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.72,
+      "target_emotions": {
+        "anticipation": 0.75,
+        "surprise": 0.65,
+        "joy": 0.55,
+        "fear": 0.3
+      },
+      "position_pct": 0.125,
+      "scenes": [
+        {
+          "scene_number": 1,
+          "beats_covered": [
+            "Opening Image",
+            "Theme Stated",
+            "Set-Up"
+          ],
+          "pov_character": "Eirys Thalen",
+          "location": "The highland pastures above Caer Holm, at the edge of the Dimming's advance",
+          "brief_description": "Eirys drives her flock back from the grey boundary where the grass dies mid-blade and the air smells of cold ash, pressing her palms flat against her thighs to smother the light trying to leak between her fingers. She counts the sheep, counts the children waiting at the village gate below, and tells herself this is enough — tending what remains is the only covenant that matters. When she reaches the gate, old Maret touches her arm and says quietly that the Dimming moved another ten yards closer in the night, and Eirys smiles and lies and says they have time.",
+          "emotional_goal": "Establish suffocating dread at the creeping darkness and immediate, fierce protectiveness toward Eirys — the reader should sense the immense cost of the ordinary life she is holding together through sheer will and self-erasure.",
+          "target_emotions": {
+            "anticipation": 0.75,
+            "surprise": 0.65,
+            "joy": 0.55,
+            "fear": 0.3
+          },
+          "sis_estimate": 33.2,
+          "word_count_target": 1150,
+          "narrative_mode": "Summary",
+          "approved": false
+        },
+        {
+          "scene_number": 2,
+          "beats_covered": [
+            "Catalyst",
+            "Debate",
+            "Break into Two"
+          ],
+          "pov_character": "Eirys Thalen",
+          "location": "Caer Holm village gate and the surrounding blight-consumed highland territory",
+          "brief_description": "A half-starved scholar named Darveth Soll collapses against the gate post and, before he loses consciousness, grips Eirys's wrist and calls her Lightkeeper — the title of the bloodline that destroyed her family and is spoken like a curse in Caer Holm. When the Dimming breaches the village wall that night and a pocket of children are cut off, Eirys can no longer smother what lives in her hands; she unleashes raw light that drives the blight back but nearly kills her, and wakes to find Darveth standing over her with her father's crook and a map of blighted territory. She could send him away, rebuild the lie, and pretend she is still only a shepherd — but the crack in her life has become a door, and she picks up the crook and walks through it.",
+          "emotional_goal": "Deliver the gutpunch of reluctant hope — the reader should feel the ache of Eirys's denial finally shattering and root desperately for her even as she steps toward something terrifying and unknown.",
+          "target_emotions": {
+            "anticipation": 0.75,
+            "surprise": 0.65,
+            "joy": 0.55,
+            "fear": 0.3
+          },
+          "sis_estimate": 47.9,
+          "word_count_target": 1150,
+          "narrative_mode": "Summary",
+          "approved": false
+        }
+      ],
+      "scene_interest_scores": [
+        33.2,
+        47.9
+      ],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 2,
+      "title": "The Cost of Every Candle",
+      "beats_covered": [
+        7,
+        8,
+        9
+      ],
+      "pov_character": "Eirys Thalen",
+      "location": "The blight-warped territories between Caer Holm and the outer ruins of Aeltharis",
+      "summary": "As Eirys and Darveth travel deeper into blight-consumed lands, she trains in Lightkeeper magic — discovering that each use costs her a personal memory — while their uneasy bond deepens into something resembling trust, though Darveth's guilt poisons his every kindness. She begins to merge her shepherd's instincts with her growing power, reading the Dimming like weather and improvising techniques that astonish her mentor. At the outer ruins of Aeltharis she reignites a waystone in a surge of triumph — only to find her mother's preserved message revealing that the covenant demands a Lightkeeper sacrifice themselves as a living anchor, and that her mother has been slowly consumed for years holding the darkness at bay alone.",
+      "emotional_goal": "The reader should feel exhilaration at Eirys's growing power curdle into horror — a false summit that drops away to reveal the true, devastating cost of what she's been asked to become.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.54,
+      "target_emotions": {
+        "anticipation": 0.7,
+        "joy": 0.6,
+        "trust": 0.6,
+        "fear": 0.4
+      },
+      "position_pct": 0.375,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 3,
+      "title": "Ash and Archive",
+      "beats_covered": [
+        10,
+        11,
+        12
+      ],
+      "pov_character": "Eirys Thalen",
+      "location": "The inner sanctum of Aeltharis, deep within the Dimming's heart",
+      "summary": "The Dimming accelerates in fury and Crown soldiers close in as Eirys's magic destabilizes, consuming her memories of her father's face and her mother's voice. At the inner sanctum she finds her mother — a translucent figure woven into dying light who no longer recognizes her own daughter — and in the same breath loses Darveth, who throws himself before a killing blow and dies confessing he could have warned her family during the Purges but chose the archive instead. Utterly alone, Eirys breaks — collapsing into the belief that she was never meant for this, that her bloodline is a curse, and that erasure would be mercy — until the grief of losing even the memory of grief cracks something fundamental open and she understands that self-erasure is the Dimming's truest victory, and her father hid her not to keep her small but to keep her alive long enough to choose.",
+      "emotional_goal": "The reader should feel gutted — betrayal, grief, and the nauseating vertigo of losing the ground beneath every relationship — before feeling a single, defiant ember of recognition that Eirys's refusal to disappear is itself the first act of real power.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.49,
+      "target_emotions": {
+        "fear": 0.65,
+        "anticipation": 0.65,
+        "sadness": 0.5,
+        "trust": 0.4
+      },
+      "position_pct": 0.625,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 4,
+      "title": "Unbroken",
+      "beats_covered": [
+        13,
+        14,
+        15
+      ],
+      "pov_character": "Eirys Thalen",
+      "location": "The void-heart of the Unmaking at Aeltharis, then the highland ridge above Caer Holm",
+      "summary": "Eirys rejects both Darveth's rigid method and the old covenant's demand for a single sacrifice, realizing the compact was always meant to be shared between the light and all living things. She walks into the Unmaking's churning void as a shepherd calling her flock home — using theory, her mother's sacrifice as foundation, highland wool as conduit, and the old shepherd songs broadcast through the waystones to reforge the covenant as a distributed bond seeded into every living creature in Vael Morath. The cost is immense: she burns through years of her own memories to fuel the working, shatters the Dimming, and returns sunlight to the kingdom. Weeks later she stands on her highland ridge in warm light, partly a stranger to her own life — unable to remember her father giving her the crook she carries — but steady, named, and irrevocably free.",
+      "emotional_goal": "The reader should feel the catharsis of hard-won, bittersweet victory — triumph inseparable from grief, power inseparable from loss — and a quiet, luminous certainty that Eirys is not restored but remade, and that what she chose to become is enough.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.8,
+      "target_emotions": {
+        "joy": 0.8,
+        "trust": 0.7,
+        "surprise": 0.65,
+        "anticipation": 0.5
+      },
+      "position_pct": 0.875,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    }
+  ],
+  "emotional_arc_type": "Man in Hole",
+  "suggested_character_breakdown": {},
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Shepherd Who Swallowed Her Light",
+      "content": "# Chapter 1: The Shepherd Who Swallowed Her Light\n\nThe ewe had gotten ideas again.\n\nEirys spotted her — Nell, the grey-faced matriarch with the chipped horn and the temperament of a landslide — thirty yards beyond the last living grass, standing in the place where color went to die. The old sheep's hooves rested on grey earth that had been green last week. Her jaw worked stupidly at nothing, because there was nothing there to eat. Beyond her, the world simply stopped. No horizon. No mountains. Just a wall of absence that looked like fog but smelled like the inside of a sealed tomb — cold ash and the memory of something sweet, already rotting.\n\n\"Nell.\" Eirys kept her voice low. Steady. The voice she used when a lamb was tangled in wire, when panic would only tighten the knot. \"Come on, old terror. Nothing for you out there.\"\n\nNell's ears swiveled. She did not move.\n\nEirys shifted her father's crook to her left hand and walked forward, boots crunching where the grass turned brittle and grey in a line so sharp it looked drawn by a blade. The cold hit her like a held breath — not wind-cold, not ice-cold, but the cold of a room where someone has just stopped speaking and will never speak again.\n\nHer palms prickled.\n\nShe clamped her right hand against her thigh and grabbed Nell's scruff with her left, pulling the ewe backward. Nell bleated — a thin, confused sound — and stumbled onto living grass as if waking from a dream.\n\n\"Stupid animal,\" Eirys muttered, but she was already checking Nell's eyes, her nostrils, the way her weight settled. The sheep's pupils were blown wide despite the dawn. Her wool — once the pale silver of the highland breed, faintly luminous in the way all silverhorn wool was, a glow so subtle you'd only notice it in full dark — looked flat. Dull. As if something had licked the light out of it.\n\nEirys's right palm flared.\n\nShe pressed it harder against her thigh. The heat bit through the wool of her trousers, and she felt the light trying to seep between her fingers like water through a cracked dam. She held it. Held it until her tendons ached and her breath thinned and the glow died back to the dull ember it always became if she squeezed hard enough, long enough.\n\nNobody saw. Nobody was up here but her and the flock — forty-three sheep where there had been sixty at shearing, and ninety the year before that. She counted them as she drove them back toward the ridge path: forty-three woolly backs in the grey half-dawn, moving in their loose river of breath and body heat. Forty-three. Enough. Not good, but enough.\n\nThe sun crested the Cradle peaks at last — a pale disc the color of old bone, more suggestion than star. It cast no shadows. Hadn't, properly, in two seasons. The light it gave was the light of a candle in a sick room: just enough to see by, never enough to feel warm.\n\nBelow and east, Caer Holm sat in its shallow valley like a cupped hand trying to hold water. Half the houses were dark. Not for lack of candles — the village still had candles, because Eirys had spent all autumn rendering embertallow from the flock's stores — but because the people who had lived in those houses were gone. Some to the inner valleys, chasing the retreating light. Some to the Dimming itself, when it moved faster than they could pack.\n\nThe lanterns along the main street burned in full daylight. They had burned all day, every day, for seven months.\n\nEirys brought the flock down the ridge path, her father's crook tapping the stones in the rhythm he'd taught her before she could read — *tap-tap, tap, tap-tap* — the cadence that silverhorns trusted, that settled their nerves in wind and fog. She didn't think about where she'd learned it. She didn't think about the crook's worn grip where his hand had polished the ashwood dark, or the notch at the base where he'd carved her initial when she was four.\n\nShe thought about the day. Rotate the flock to the eastern graze — still green, but barely, and she'd need to check the soil. Redistribute the candle ration now that the Haverills had left; their allotment could stretch across four households if she split it clever. Fix the stone wall on the north side where the mortar had crumbled. Talk to Eamon about his cough. Count the children.\n\nAlways count the children.\n\n---\n\n\"Moved another ten yards in the night,\" said Maren, who was waiting at the gate with her hands on her walking stick and her blind eyes aimed, as always, at something no one else could see. \"I felt it. Ground shook like something turned over in its sleep.\"\n\n\"We've time,\" Eirys said.\n\n\"You always say that.\"\n\n\"Haven't been wrong yet.\"\n\n\"Yet,\" Maren agreed, and the word sat between them with uncomfortable precision.\n\nEirys penned the flock and checked the water troughs — low again, the spring weakening as the blight crept closer to its source. She pulled her sleeve over her right wrist as she worked. The birthmark there was the shape of a thumbprint, slightly raised, and in full dark it glowed the faint amber of a banked coal. She had burned herself with forge-sparks deliberately at fourteen, trying to scar over it. The scars had healed. The mark hadn't.\n\nMaren was still at the gate when Eirys came back through, as if the old woman had been waiting for her. Which she had. Maren always waited for her, because Maren remembered things the rest of the village was slowly forgetting, and remembering had made her something between an oracle and a burden.\n\n\"Sit,\" Maren said.\n\n\"Got the north wall to—\"\n\n\"Sit, Eirys.\"\n\nEirys sat on the stone bench by the gate. The candle in the gate-lantern guttered, throwing Maren's shadow long and thin across the grey street.\n\n\"The Pell farmstead,\" Maren said. \"Do you remember the name of their youngest? The girl with the red hair?\"\n\nEirys opened her mouth. Closed it. She could see the girl — freckled, gap-toothed, always carrying a cat — but the name was like a word on the tip of her tongue that dissolved when she reached for it. The Pell farmstead had been swallowed six weeks ago. She had watched it vanish from this very ridge — one morning it was there, the next morning a wall of grey nothing stood where the fence had been.\n\n\"Lira,\" Maren said. \"Her name was Lira. I can still hear it, but only just. Another week, maybe two, and it'll be gone from me too.\" She turned her blind face toward Eirys with terrible accuracy. \"Your father said something to me once. The night before they came for him.\"\n\n\"Don't.\"\n\n\"He said power doesn't choose the worthy. It answers whoever is stubborn enough to stand in the fire and let it remake them.\"\n\nEirys stood. The bench scraped stone. \"My father was branded a heretic for exactly that kind of talk. They burned our house. They burned our name. Whatever he believed about power, it didn't save him, did it?\"\n\nMaren's silence was the silence of someone who had expected exactly this and was not discouraged by it. She reached out and found Eirys's hand with the unerring precision of long affection.\n\n\"Being branded doesn't make a thing untrue, girl. It just means the truth cost something.\"\n\nEirys pulled her hand free, gently. \"I've got a wall to mend.\"\n\nShe walked into the village with her father's crook tapping the stones and her right hand clenched in her pocket and the birthmark on her wrist pulsing with a warmth she refused to feel. Behind her, Maren sat at the gate with Lira Pell's name held in her mouth like the last ember of a fire everyone else had let go out.\n\n---\n\nHe came at dusk — though dusk was hard to distinguish from midday now, or from dawn. Just a further dimming of the dim.\n\nThe man collapsed against the gate post as if his bones had made a collective decision to stop. He was gaunt the way drought-struck cattle get gaunt — not thin but *reduced*, as if something had been eating him from the angles inward. His clothes were shredded at the hems, bleached colorless, and he clutched a leather case to his chest the way Eirys had seen mothers clutch infants during the evacuations: with the grip that says *this or nothing*.\n\nEirys reached him first. She knelt, checked his breathing — shallow, rapid — and reached for his wrist to feel his pulse.\n\nHe seized her hand.\n\nHis eyes snapped open, and they were the eyes of a man who had been running from something that did not need to chase. He stared at her wrist — at the birthmark her sleeve had ridden up to expose — and his cracked lips moved.\n\n\"Lightkeeper,\" he said.\n\nThe word hit her like a hand across the mouth.\n\n\"You're ill,\" she said, pulling her wrist back. \"Maren! I need water and—\"\n\n\"Lightkeeper.\" He said it again, louder, and two villagers on the street turned to look. The word carried. It always carried. In Caer Holm, where Eirys's father had been dragged through the square by Crown soldiers while his daughter screamed, *Lightkeeper* was not a title. It was a verdict.\n\n\"Don't say that word here,\" Eirys hissed. She hauled him upright with the strength of someone who wrestled ewes through snowdrifts, got his arm over her shoulder, and half-carried him through the gate before he could speak again.\n\nShe put him in the empty Haverills' cottage. Fed him broth. Cleaned the blight-burns on his hands — grey patches where the skin had gone papery and numb, the mark of someone who had touched the Dimming and been touched back. He muttered through the broth about manuscripts, about a covenant, about the Unmaking, and she let him mutter the way she let a fevered sheep bleat: patiently, without investing in the content.\n\nThen his fever broke, and he looked at her with clear eyes, and he told her the thing she had spent twelve years building a life to never hear.\n\n\"The Dimming is not weather. Not natural. It is a curse called the Unmaking, and it is accelerating because the last covenant-holder is dead.\" His voice was precise, measured — the voice of a man who had rehearsed this speech across miles of blighted territory. \"You are the last living heir of the Lightkeeper bloodline. You are the only one who can renew the covenant. And if you do not, this kingdom will be consumed within the year.\"\n\nEirys stood. She walked to the door. She set her hand on the frame and felt the wood shudder faintly, the way everything shuddered now — a low, constant tremor, as if the ground itself were shivering.\n\n\"My father,\" she said, \"was called a heretic and a madman for claiming our blood was special. My mother vanished twelve years ago, and I have carved a mark for every day she's been gone — four thousand, three hundred and twelve marks in the beam above my bed. I have kept this village alive with candle-wax and grazing routes and stubbornness. I am a shepherd. Find someone else.\"\n\n\"There is no one else.\"\n\n\"Then the covenant stays broken.\"\n\nShe left him in the cottage and walked out into the grey evening and pressed both palms flat against the cold stone wall until the light in them died.\n\n---\n\nThe Dimming came for Caer Holm at the third hour past midnight.\n\nEirys felt it before she heard it — a pressure drop, like the instant before a massive storm, except the air didn't move. The silence moved. It rolled through the village like a held breath becoming a scream becoming nothing, and the lanterns on the main street guttered and went dark in sequence, *pop pop pop*, as if fingers were pinching out each flame.\n\nShe was running before she was fully awake.\n\nThe north wall — the wall she'd meant to mend — was gone. Not broken. Not collapsed. *Gone*. In its place, the Dimming poured through like smoke made of silence, and it was reaching with tendrils she could almost see — long, groping fingers of absolute dark that moved with horrible purpose toward the children's hall.\n\nThe children's hall. Where seven children slept because their families had nowhere else safe.\n\nShe could hear Tommin screaming. Tommin, who was nine, and who had woken that morning unable to remember his sister Brin's name, though Brin slept in the cot beside him. Tommin, who had stared at Brin over breakfast with the panicked eyes of someone who knows they've lost something vital and cannot even remember what it was.\n\nThe tendrils reached the hall's doorframe. The wood greyed. The candle inside went out.\n\nEirys stopped running. She stopped thinking. She stopped being the shepherd who swallowed her light.\n\nShe opened her hands.\n\nIt came out of her like a shout she'd been holding for twelve years — light, raw and wild and uncontrolled, the color of dawn on snow, blazing from her palms and her wrist and the spaces between her ribs as if her skeleton were a lantern and her skin the shade. The light hit the Dimming and the Dimming *screamed* — not with sound but with recoil, the tendrils snapping back like burned fingers, the wall of darkness convulsing and retreating ten, twenty, thirty yards beyond where the north wall had stood.\n\nThe cost hit her one heartbeat later.\n\nHer knees buckled. Her vision went white, then red, then a darkness that was different from the Dimming — warmer, personal, the darkness of a body shutting down. She felt something tear loose inside her — not physical, not a muscle or a tendon, but something deeper, something that felt like a page being ripped from a book she was still reading. A memory: her mother's hand on her hair, the specific weight of it, the smell of lanolin and highland thyme. Gone. Just — gone. A space where it had been, smooth and blank as river-stone.\n\nShe hit the ground. The light died. The Dimming stayed back, cowering at the edge of its new boundary, but she could feel it gathering, patient, like an animal that had learned the shape of its prey.\n\nAbove her, the stars — what few still shone through the permanent haze — spun in slow circles.\n\nA face appeared. Darveth. The scholar. He held her father's crook in one hand and a lamp in the other, and his expression was not surprise, not triumph, but the terrible recognition of a man seeing something he had spent decades looking for and understanding that the cost of finding it was higher than he'd calculated.\n\n\"You have no training,\" he said quietly. \"That should have killed you.\"\n\n\"Might still,\" she managed.\n\n\"It will, if you stay here. The Dimming will come back. Harder. It has tasted you now.\" He knelt beside her. His voice shifted — still precise, still measured, but underneath it something cracked, something that sounded like it had been sealed for years and was leaking. \"There is a place. Aeltharis. The sanctum where the first covenant was forged. The magic can only be renewed there. I know the way. I have the texts.\"\n\n\"I can't leave them.\"\n\n\"If you stay, there will be no *them* to leave. The Dimming will take Caer Holm within a fortnight. The only protection you can give these people is to go.\"\n\nShe lay on the cold ground with the taste of iron in her mouth and a hole in her memory where her mother's touch had been, and she thought: *This is how it happens. Not with a coronation or a prophecy. With your face in the dirt and something stolen from you that you'll never get back, and a choice that isn't really a choice at all.*\n\nShe reached for the crook. His hand was on it, and for a moment they both held the ashwood shaft — his grip careful, academic; hers blistered and sure.\n\nShe pulled it from him and used it to stand.\n\n---\n\nShe left at first light — such as light was. Maren stood at the gate with the seven children gathered behind her, Tommin clutching Brin's hand as if afraid that letting go would make her disappear from his mind entirely. The villagers who remained watched from doorways, candles cupped in their palms, and Eirys memorized every face because she had learned in the night that memories could be taken, and she wanted to hold these as long as she could.\n\n\"You'll manage the eastern graze,\" she told Maren. \"Water from the deep well only — spring's compromised. Candle ration holds for six weeks if you—\"\n\n\"I kept this village alive before you were born, girl.\" Maren's blind eyes were bright. \"Go.\"\n\nEirys shifted her father's crook to her shoulder. The leather pack on her back held a change of clothes, a fire kit, a ball of silverhorn wool that still held its faint glow. Darveth waited on the road beyond the gate, his manuscript case strapped across his chest, a map of blighted territory folded in his hand.\n\nShe looked back once. Caer Holm in its shallow valley. The lanterns burning in daylight. The diminished sun catching the slate rooftops and making them gleam like dull coins.\n\nShe walked through the gate and the village fell behind her and the road wound upward into grey country where the grass died by inches and the air smelled of ash and forgetting. Darveth walked beside her without speaking. Her right palm throbbed — not with pain but with presence, a low, warm pulse like a second heartbeat, as if something inside her had woken and was listening.\n\nShe pressed her hand against her thigh, but this time, she did not squeeze."
+    }
+  ],
+  "messages": [
+    {
+      "role": "user",
+      "content": "Write Chapter 1: \"The Shepherd Who Swallowed Her Light\" (approved after quality gate)"
+    },
+    {
+      "role": "assistant",
+      "content": "# Chapter 1: The Shepherd Who Swallowed Her Light\n\nThe ewe had gotten ideas again.\n\nEirys spotted her — Nell, the grey-faced matriarch with the chipped horn and the temperament of a landslide — thirty yards beyond the last living grass, standing in the place where color went to die. The old sheep's hooves rested on grey earth that had been green last week. Her jaw worked stupidly at nothing, because there was nothing there to eat. Beyond her, the world simply stopped. No horizon. No mountains. Just a wall of absence that looked like fog but smelled like the inside of a sealed tomb — cold ash and the memory of something sweet, already rotting.\n\n\"Nell.\" Eirys kept her voice low. Steady. The voice she used when a lamb was tangled in wire, when panic would only tighten the knot. \"Come on, old terror. Nothing for you out there.\"\n\nNell's ears swiveled. She did not move.\n\nEirys shifted her father's crook to her left hand and walked forward, boots crunching where the grass turned brittle and grey in a line so sharp it looked drawn by a blade. The cold hit her like a held breath — not wind-cold, not ice-cold, but the cold of a room where someone has just stopped speaking and will never speak again.\n\nHer palms prickled.\n\nShe clamped her right hand against her thigh and grabbed Nell's scruff with her left, pulling the ewe backward. Nell bleated — a thin, confused sound — and stumbled onto living grass as if waking from a dream.\n\n\"Stupid animal,\" Eirys muttered, but she was already checking Nell's eyes, her nostrils, the way her weight settled. The sheep's pupils were blown wide despite the dawn. Her wool — once the pale silver of the highland breed, faintly luminous in the way all silverhorn wool was, a glow so subtle you'd only notice it in full dark — looked flat. Dull. As if something had licked the light out of it.\n\nEirys's right palm flared.\n\nShe pressed it harder against her thigh. The heat bit through the wool of her trousers, and she felt the light trying to seep between her fingers like water through a cracked dam. She held it. Held it until her tendons ached and her breath thinned and the glow died back to the dull ember it always became if she squeezed hard enough, long enough.\n\nNobody saw. Nobody was up here but her and the flock — forty-three sheep where there had been sixty at shearing, and ninety the year before that. She counted them as she drove them back toward the ridge path: forty-three woolly backs in the grey half-dawn, moving in their loose river of breath and body heat. Forty-three. Enough. Not good, but enough.\n\nThe sun crested the Cradle peaks at last — a pale disc the color of old bone, more suggestion than star. It cast no shadows. Hadn't, properly, in two seasons. The light it gave was the light of a candle in a sick room: just enough to see by, never enough to feel warm.\n\nBelow and east, Caer Holm sat in its shallow valley like a cupped hand trying to hold water. Half the houses were dark. Not for lack of candles — the village still had candles, because Eirys had spent all autumn rendering embertallow from the flock's stores — but because the people who had lived in those houses were gone. Some to the inner valleys, chasing the retreating light. Some to the Dimming itself, when it moved faster than they could pack.\n\nThe lanterns along the main street burned in full daylight. They had burned all day, every day, for seven months.\n\nEirys brought the flock down the ridge path, her father's crook tapping the stones in the rhythm he'd taught her before she could read — *tap-tap, tap, tap-tap* — the cadence that silverhorns trusted, that settled their nerves in wind and fog. She didn't think about where she'd learned it. She didn't think about the crook's worn grip where his hand had polished the ashwood dark, or the notch at the base where he'd carved her initial when she was four.\n\nShe thought about the day. Rotate the flock to the eastern graze — still green, but barely, and she'd need to check the soil. Redistribute the candle ration now that the Haverills had left; their allotment could stretch across four households if she split it clever. Fix the stone wall on the north side where the mortar had crumbled. Talk to Eamon about his cough. Count the children.\n\nAlways count the children.\n\n---\n\n\"Moved another ten yards in the night,\" said Maren, who was waiting at the gate with her hands on her walking stick and her blind eyes aimed, as always, at something no one else could see. \"I felt it. Ground shook like something turned over in its sleep.\"\n\n\"We've time,\" Eirys said.\n\n\"You always say that.\"\n\n\"Haven't been wrong yet.\"\n\n\"Yet,\" Maren agreed, and the word sat between them with uncomfortable precision.\n\nEirys penned the flock and checked the water troughs — low again, the spring weakening as the blight crept closer to its source. She pulled her sleeve over her right wrist as she worked. The birthmark there was the shape of a thumbprint, slightly raised, and in full dark it glowed the faint amber of a banked coal. She had burned herself with forge-sparks deliberately at fourteen, trying to scar over it. The scars had healed. The mark hadn't.\n\nMaren was still at the gate when Eirys came back through, as if the old woman had been waiting for her. Which she had. Maren always waited for her, because Maren remembered things the rest of the village was slowly forgetting, and remembering had made her something between an oracle and a burden.\n\n\"Sit,\" Maren said.\n\n\"Got the north wall to—\"\n\n\"Sit, Eirys.\"\n\nEirys sat on the stone bench by the gate. The candle in the gate-lantern guttered, throwing Maren's shadow long and thin across the grey street.\n\n\"The Pell farmstead,\" Maren said. \"Do you remember the name of their youngest? The girl with the red hair?\"\n\nEirys opened her mouth. Closed it. She could see the girl — freckled, gap-toothed, always carrying a cat — but the name was like a word on the tip of her tongue that dissolved when she reached for it. The Pell farmstead had been swallowed six weeks ago. She had watched it vanish from this very ridge — one morning it was there, the next morning a wall of grey nothing stood where the fence had been.\n\n\"Lira,\" Maren said. \"Her name was Lira. I can still hear it, but only just. Another week, maybe two, and it'll be gone from me too.\" She turned her blind face toward Eirys with terrible accuracy. \"Your father said something to me once. The night before they came for him.\"\n\n\"Don't.\"\n\n\"He said power doesn't choose the worthy. It answers whoever is stubborn enough to stand in the fire and let it remake them.\"\n\nEirys stood. The bench scraped stone. \"My father was branded a heretic for exactly that kind of talk. They burned our house. They burned our name. Whatever he believed about power, it didn't save him, did it?\"\n\nMaren's silence was the silence of someone who had expected exactly this and was not discouraged by it. She reached out and found Eirys's hand with the unerring precision of long affection.\n\n\"Being branded doesn't make a thing untrue, girl. It just means the truth cost something.\"\n\nEirys pulled her hand free, gently. \"I've got a wall to mend.\"\n\nShe walked into the village with her father's crook tapping the stones and her right hand clenched in her pocket and the birthmark on her wrist pulsing with a warmth she refused to feel. Behind her, Maren sat at the gate with Lira Pell's name held in her mouth like the last ember of a fire everyone else had let go out.\n\n---\n\nHe came at dusk — though dusk was hard to distinguish from midday now, or from dawn. Just a further dimming of the dim.\n\nThe man collapsed against the gate post as if his bones had made a collective decision to stop. He was gaunt the way drought-struck cattle get gaunt — not thin but *reduced*, as if something had been eating him from the angles inward. His clothes were shredded at the hems, bleached colorless, and he clutched a leather case to his chest the way Eirys had seen mothers clutch infants during the evacuations: with the grip that says *this or nothing*.\n\nEirys reached him first. She knelt, checked his breathing — shallow, rapid — and reached for his wrist to feel his pulse.\n\nHe seized her hand.\n\nHis eyes snapped open, and they were the eyes of a man who had been running from something that did not need to chase. He stared at her wrist — at the birthmark her sleeve had ridden up to expose — and his cracked lips moved.\n\n\"Lightkeeper,\" he said.\n\nThe word hit her like a hand across the mouth.\n\n\"You're ill,\" she said, pulling her wrist back. \"Maren! I need water and—\"\n\n\"Lightkeeper.\" He said it again, louder, and two villagers on the street turned to look. The word carried. It always carried. In Caer Holm, where Eirys's father had been dragged through the square by Crown soldiers while his daughter screamed, *Lightkeeper* was not a title. It was a verdict.\n\n\"Don't say that word here,\" Eirys hissed. She hauled him upright with the strength of someone who wrestled ewes through snowdrifts, got his arm over her shoulder, and half-carried him through the gate before he could speak again.\n\nShe put him in the empty Haverills' cottage. Fed him broth. Cleaned the blight-burns on his hands — grey patches where the skin had gone papery and numb, the mark of someone who had touched the Dimming and been touched back. He muttered through the broth about manuscripts, about a covenant, about the Unmaking, and she let him mutter the way she let a fevered sheep bleat: patiently, without investing in the content.\n\nThen his fever broke, and he looked at her with clear eyes, and he told her the thing she had spent twelve years building a life to never hear.\n\n\"The Dimming is not weather. Not natural. It is a curse called the Unmaking, and it is accelerating because the last covenant-holder is dead.\" His voice was precise, measured — the voice of a man who had rehearsed this speech across miles of blighted territory. \"You are the last living heir of the Lightkeeper bloodline. You are the only one who can renew the covenant. And if you do not, this kingdom will be consumed within the year.\"\n\nEirys stood. She walked to the door. She set her hand on the frame and felt the wood shudder faintly, the way everything shuddered now — a low, constant tremor, as if the ground itself were shivering.\n\n\"My father,\" she said, \"was called a heretic and a madman for claiming our blood was special. My mother vanished twelve years ago, and I have carved a mark for every day she's been gone — four thousand, three hundred and twelve marks in the beam above my bed. I have kept this village alive with candle-wax and grazing routes and stubbornness. I am a shepherd. Find someone else.\"\n\n\"There is no one else.\"\n\n\"Then the covenant stays broken.\"\n\nShe left him in the cottage and walked out into the grey evening and pressed both palms flat against the cold stone wall until the light in them died.\n\n---\n\nThe Dimming came for Caer Holm at the third hour past midnight.\n\nEirys felt it before she heard it — a pressure drop, like the instant before a massive storm, except the air didn't move. The silence moved. It rolled through the village like a held breath becoming a scream becoming nothing, and the lanterns on the main street guttered and went dark in sequence, *pop pop pop*, as if fingers were pinching out each flame.\n\nShe was running before she was fully awake.\n\nThe north wall — the wall she'd meant to mend — was gone. Not broken. Not collapsed. *Gone*. In its place, the Dimming poured through like smoke made of silence, and it was reaching with tendrils she could almost see — long, groping fingers of absolute dark that moved with horrible purpose toward the children's hall.\n\nThe children's hall. Where seven children slept because their families had nowhere else safe.\n\nShe could hear Tommin screaming. Tommin, who was nine, and who had woken that morning unable to remember his sister Brin's name, though Brin slept in the cot beside him. Tommin, who had stared at Brin over breakfast with the panicked eyes of someone who knows they've lost something vital and cannot even remember what it was.\n\nThe tendrils reached the hall's doorframe. The wood greyed. The candle inside went out.\n\nEirys stopped running. She stopped thinking. She stopped being the shepherd who swallowed her light.\n\nShe opened her hands.\n\nIt came out of her like a shout she'd been holding for twelve years — light, raw and wild and uncontrolled, the color of dawn on snow, blazing from her palms and her wrist and the spaces between her ribs as if her skeleton were a lantern and her skin the shade. The light hit the Dimming and the Dimming *screamed* — not with sound but with recoil, the tendrils snapping back like burned fingers, the wall of darkness convulsing and retreating ten, twenty, thirty yards beyond where the north wall had stood.\n\nThe cost hit her one heartbeat later.\n\nHer knees buckled. Her vision went white, then red, then a darkness that was different from the Dimming — warmer, personal, the darkness of a body shutting down. She felt something tear loose inside her — not physical, not a muscle or a tendon, but something deeper, something that felt like a page being ripped from a book she was still reading. A memory: her mother's hand on her hair, the specific weight of it, the smell of lanolin and highland thyme. Gone. Just — gone. A space where it had been, smooth and blank as river-stone.\n\nShe hit the ground. The light died. The Dimming stayed back, cowering at the edge of its new boundary, but she could feel it gathering, patient, like an animal that had learned the shape of its prey.\n\nAbove her, the stars — what few still shone through the permanent haze — spun in slow circles.\n\nA face appeared. Darveth. The scholar. He held her father's crook in one hand and a lamp in the other, and his expression was not surprise, not triumph, but the terrible recognition of a man seeing something he had spent decades looking for and understanding that the cost of finding it was higher than he'd calculated.\n\n\"You have no training,\" he said quietly. \"That should have killed you.\"\n\n\"Might still,\" she managed.\n\n\"It will, if you stay here. The Dimming will come back. Harder. It has tasted you now.\" He knelt beside her. His voice shifted — still precise, still measured, but underneath it something cracked, something that sounded like it had been sealed for years and was leaking. \"There is a place. Aeltharis. The sanctum where the first covenant was forged. The magic can only be renewed there. I know the way. I have the texts.\"\n\n\"I can't leave them.\"\n\n\"If you stay, there will be no *them* to leave. The Dimming will take Caer Holm within a fortnight. The only protection you can give these people is to go.\"\n\nShe lay on the cold ground with the taste of iron in her mouth and a hole in her memory where her mother's touch had been, and she thought: *This is how it happens. Not with a coronation or a prophecy. With your face in the dirt and something stolen from you that you'll never get back, and a choice that isn't really a choice at all.*\n\nShe reached for the crook. His hand was on it, and for a moment they both held the ashwood shaft — his grip careful, academic; hers blistered and sure.\n\nShe pulled it from him and used it to stand.\n\n---\n\nShe left at first light — such as light was. Maren stood at the gate with the seven children gathered behind her, Tommin clutching Brin's hand as if afraid that letting go would make her disappear from his mind entirely. The villagers who remained watched from doorways, candles cupped in their palms, and Eirys memorized every face because she had learned in the night that memories could be taken, and she wanted to hold these as long as she could.\n\n\"You'll manage the eastern graze,\" she told Maren. \"Water from the deep well only — spring's compromised. Candle ration holds for six weeks if you—\"\n\n\"I kept this village alive before you were born, girl.\" Maren's blind eyes were bright. \"Go.\"\n\nEirys shifted her father's crook to her shoulder. The leather pack on her back held a change of clothes, a fire kit, a ball of silverhorn wool that still held its faint glow. Darveth waited on the road beyond the gate, his manuscript case strapped across his chest, a map of blighted territory folded in his hand.\n\nShe looked back once. Caer Holm in its shallow valley. The lanterns burning in daylight. The diminished sun catching the slate rooftops and making them gleam like dull coins.\n\nShe walked through the gate and the village fell behind her and the road wound upward into grey country where the grass died by inches and the air smelled of ash and forgetting. Darveth walked beside her without speaking. Her right palm throbbed — not with pain but with presence, a low, warm pulse like a second heartbeat, as if something inside her had woken and was listening.\n\nShe pressed her hand against her thigh, but this time, she did not squeeze."
+    }
+  ],
+  "narrator_voice_id": "",
+  "narrator_voice_name": "",
+  "stage_complete": {
+    "language": true,
+    "premise": true,
+    "title": true,
+    "world": true,
+    "characters": true,
+    "beats": true,
+    "chapter_plan": true,
+    "scene_drafts": false
+  },
+  "created_at": "2026-06-25T11:49:57.763776",
+  "updated_at": "2026-06-25T12:03:24.581614"
+}

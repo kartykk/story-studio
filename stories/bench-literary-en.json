@@ -1,0 +1,390 @@
+{
+  "story_id": "bench-literary-en",
+  "language": "English",
+  "language_code": "en",
+  "premise": "A coming-of-age memory piece about family, identity, and Kolkata monsoons.",
+  "logline": "A young Bengali woman must reconcile her fractured memories of home or lose her sense of self entirely to the life she has built abroad.",
+  "theme": "The places and people we leave behind do not disappear — they become the hidden architecture of who we are.",
+  "genre": "literary",
+  "genre_model_name": "literary",
+  "target_audience": "Adults 25-45 who enjoy literary fiction, diaspora narratives, and introspective coming-of-age stories by writers like Jhumpa Lahiri or Arundhati Roy",
+  "tone": "Intimate, lyrical, quietly melancholic with moments of warmth and sensory richness",
+  "title": "Sediment",
+  "title_candidates": [
+    "Sediment",
+    "The Bones of Elsewhere",
+    "What the Forgetting Left",
+    "Padma, Abroad",
+    "The Country I Carry Lightly"
+  ],
+  "world": {
+    "overview": "The story moves between two worlds: the dense, river-laced landscape of a small town in West Bengal's Nadia district, and a quiet, meticulously ordered life in a mid-sized city in the American Midwest — perhaps Columbus, Ohio or Minneapolis. The protagonist, Sreelekha, inhabits the space between these two geographies, where memory operates as a third, unreliable country that she cannot stop visiting but can no longer fully enter.",
+    "geography": "The Bengal setting is a town near the Jalangi River — low-lying, humid, prone to monsoon flooding, thick with mango orchards, ponds choked with water hyacinth, and narrow lanes where the smell of wet earth and mustard oil cooking is inescapable. The American setting is defined by its opposite qualities: wide, dry suburban streets, controlled climate, the antiseptic brightness of office parks and grocery stores with fluorescent lighting. Sreelekha travels between these worlds rarely — the fourteen-year gap since her last visit is the story's central wound. The journey itself, when it finally comes, is a numbing thirty-hour chain of flights and layovers that functions as a liminal passage between selves.",
+    "history": "Sreelekha left Bengal at twenty-two on a graduate scholarship, a departure celebrated by her family as triumph. In the years since, her father died during a monsoon she experienced only through a crackling phone call; her childhood home was partially sold to settle debts she learned about too late; her mother moved to a smaller flat above a tailor's shop. A cousin's wedding she missed, a grandmother's cremation she watched via a grainy video link — these absences have calcified into guilt. In her American life, she married Neil, a kind, second-generation Indian-American man who does not speak Bengali, earned tenure in public health, and miscarried once, an event she told no one in her family about.",
+    "culture": "The Bengali world of the story is steeped in the rhythms of adda (long, unhurried conversation), the centrality of food as emotional language — the specific alchemy of her mother's posto bata, the ritual of afternoon cha with Marie biscuits — and the unspoken expectation that daughters remain tethered to home even across oceans. Art and poetry, especially Tagore, function as a shared cultural grammar her American life has no equivalent for. In her Midwestern life, culture is expressed through careful routines: Sunday farmers' markets, book clubs, dinner parties where she performs a curated version of her heritage — making fish curry for colleagues who call it 'exotic.' The tension lies in how Bengali culture treats distance as betrayal dressed in pride, while American culture treats reinvention as virtue.",
+    "politics": "There are no governments at war here — the politics are domestic and intimate. Power operates through the family matriarchy: Sreelekha's mother, Basanti, wields silence and sacrifice as instruments of control, while her older brother, Subho, who stayed, holds moral authority precisely because he never left. The immigrant community in her American city has its own quiet hierarchies — who visits India most often, whose children speak the mother tongue, who has 'kept the culture' — and Sreelekha exists at the margins of these judgments. The broader political backdrop includes India's changing landscape: her hometown is being reshaped by development, old ponds filled in for apartment blocks, which makes her memories literally uninhabitable.",
+    "economy": "Sreelekha sends money home — a standing monthly transfer that replaced conversation years ago. Her American salary as an associate professor affords her a comfortable but not lavish life: a mortgaged three-bedroom house that feels too large, a reliable car, organic groceries. Back in Nadia, her family occupies the educated but financially precarious Bengali middle class — dignity maintained through austerity, pride sourced from intellectual and cultural capital rather than wealth. The economic asymmetry between her life and her family's creates an unspoken transactional quality to love: she pays for her mother's medications, her niece's school fees, and each payment is both connection and substitution for presence.",
+    "religion": "Sreelekha's family practices a culturally embedded, loosely observed Hinduism — Durga Puja is the emotional and spiritual anchor of the year, more about community, homecoming, and the ache of the goddess's departure on Dashami than about orthodox devotion. Her mother keeps a small altar with a brass Lakshmi and a photograph of her dead husband garlanded in marigolds. Sreelekha herself has drifted from practice but cannot shake certain superstitions: she will not cut her nails after dark, still touches her elders' feet instinctively, and dreams of the Jalangi River whenever something in her life is about to break. These residual rituals are the story's quiet spiritual architecture — faith not as belief but as muscle memory.",
+    "magic_or_tech": "There is no magic, but memory functions with its own treacherous, almost supernatural logic. Sensory triggers — the smell of neem, a particular quality of late-afternoon light, the sound of rain on a tin roof heard in an ASMR video — can collapse fourteen years in an instant, pulling Sreelekha into reveries so vivid they feel more real than her present. Technology mediates her distance: WhatsApp messages that go unanswered for days carry enormous weight, video calls where her mother's face pixelates at emotional moments feel like the universe intervening. The story treats the smartphone as both lifeline and barrier — connection that paradoxically enables avoidance.",
+    "language": "Bengali is Sreelekha's mother tongue and the language of her interior life — she still counts in Bengali, still dreams in it, still swears in it when startled. English is the language of her professional and social self, precise and controlled. The erosion of her Bengali fluency — forgetting the word for 'collarbone,' losing the specific cadence of Nadia dialect — is experienced as a slow, frightening dissolution of self. Her mother speaks no English; her husband speaks no Bengali. Her niece, Tuki, speaks a Bengali already inflected with Hindi and English slang that sounds foreign to Sreelekha's ear. Names carry weight: Sreelekha becomes 'Sree' in America, a simplification that mirrors a larger flattening.",
+    "unique_elements": "First, the story is structured around sensory memory as narrative engine — scent, taste, texture, and sound do the work that plot does in other genres, with a single remembered afternoon capable of carrying more dramatic weight than years of lived experience abroad. Second, the concept of 'desh' — home, country, belonging — functions as an untranslatable emotional coordinate that Sreelekha can neither reach nor release, and the story derives its central tension from the impossibility of return to a place that has itself moved on. Third, the quiet, devastating specificity of the Bengali-immigrant emotional register — where love is expressed through feeding, grief is expressed through busyness, and the deepest wounds are carried in what is never said aloud — gives the world its distinctive texture."
+  },
+  "characters": {
+    "ananya mitra": {
+      "name": "Ananya Mitra",
+      "role": "protagonist",
+      "age": "31",
+      "physical_description": "Narrow-wristed with her mother's sharp collarbones. A faded chickenpox scar near her left eyebrow she touches when lying. Wears her hair in a loose braid that unravels by evening, as if her body refuses discipline.",
+      "speech_pattern": "Measured and slightly formal in English, as though translating from an interior Bengali she no longer fully trusts. Uses precise sensory details in place of emotional declarations — describes the weather when she means grief. At ease, her sentences loosen, fragment, trail into half-laughs. When threatened, she becomes clipped, overly articulate, almost academic — building walls out of syntax.",
+      "tier": 1,
+      "is_pov_character": true,
+      "ghost": "At fourteen, she left her grandmother's flat in North Kolkata for the last time without knowing it was the last time — the ceiling fan still turning above the narrow bed, a steel bowl of peeled oranges on the side table, her grandmother's voice calling something she cannot now recover from behind a closed door.",
+      "lie": "She believes that if she can perfectly reconstruct the sensory details of home — every smell, sound, texture — she can return to the person she was before leaving, and that person is the only real version of her.",
+      "want": "To complete a fragmented memoir-in-essays about her grandmother and her Kolkata childhood before the memories degrade further.",
+      "need": "To accept that selfhood is not a fixed place she left behind but something she carries forward, incomplete and changed — that the woman who cannot fully remember is no less real than the girl who lived it.",
+      "flaw": "She curates her past so obsessively that she falsifies it, and she mistakes this curation for honesty. She withholds herself from present relationships because intimacy threatens the interior world she has built, but she frames this withdrawal as depth rather than fear.",
+      "strength": "An extraordinary perceptual attention — she notices what others overlook, and this noticing becomes a form of tenderness, a way of loving the world even when she cannot say so directly.",
+      "arc_type": "non-linear",
+      "arc_summary": "Ananya does not arrive at resolution so much as she arrives at a different relationship with irresolution. Through failed attempts to write her grandmother back to life, a fracturing romantic relationship, and a return trip to Kolkata that delivers none of the closure she sought, she slowly releases the need for a singular true self. The memoir remains unfinished, but she stops needing it to save her.",
+      "vogler_archetype": "Hero",
+      "enneagram_type": "Type 4 (Individualist)",
+      "mbti_type": "INFP",
+      "ocean_scores": {
+        "O": 0.92,
+        "C": 0.45,
+        "E": 0.28,
+        "A": 0.55,
+        "N": 0.78
+      },
+      "relationships": {},
+      "voice_id": "",
+      "voice_name": ""
+    },
+    "subir ghosh": {
+      "name": "Subir Ghosh",
+      "role": "mentor",
+      "age": "58",
+      "physical_description": "Tall but stooped, as though apologizing for his height. Deep-set eyes behind wire-rimmed glasses that he removes when he wants to stop seeing clearly. Nicotine-stained fingers he keeps meticulously clean otherwise. A faded surgical scar bisects his left eyebrow, giving him a permanently skeptical expression he has never bothered to correct.",
+      "speech_pattern": "Speaks in long, unhurried clauses that circle a point before landing on it obliquely — professorial but never pedantic, as though lecturing is the only intimacy he trusts. Uses rhetorical questions instead of statements of feeling. Drops into Bengali proverbs when English fails him emotionally, then immediately translates them, badly, as though embarrassed. When at ease, his voice warms and he narrates anecdotes with theatrical timing, pausing to let silence do the work. When threatened, he becomes excessively generous — offers tea, books, deflections — anything to keep the conversation from reaching him.",
+      "tier": 1,
+      "is_pov_character": true,
+      "ghost": "His younger sister drowned in a pond behind their family home in Shantiniketan when he was twelve and supposed to be watching her. The specific image he cannot shed: her glass bangles, green and gold, still on the jute mat by the water's edge, arranged as though she intended to come back for them.",
+      "lie": "He believes that understanding — the analytical, intellectual mastery of grief, of literature, of human behavior — is the same as having processed it, and that if he can teach others to see their wounds clearly, he is absolved from looking at his own.",
+      "want": "To help Ananya complete her memoir, which he recognizes as the kind of project he himself has never had the courage to attempt — a surrogate act of emotional excavation performed through mentorship rather than authorship.",
+      "need": "To admit that his decades of guiding other writers toward honesty have been a sophisticated avoidance of his own, and that the book he has never written about his sister is not an aesthetic choice but a failure of nerve he must finally name.",
+      "flaw": "He confuses proximity to others' vulnerability with his own vulnerability. He is extraordinarily perceptive about everyone except himself, and he uses this perceptiveness as a shield — diagnosing others so he never has to submit to diagnosis. He mistakes generosity for intimacy and has therefore lived a life full of grateful former students and almost no equals.",
+      "strength": "A rare capacity to see what a piece of writing is actually about beneath what it claims to be about — he reads the silences, the evasions, the places where the prose turns beautiful precisely because the writer is lying. This same skill, turned toward people, makes him the only person who can challenge Ananya without making her retreat.",
+      "arc_type": "positive",
+      "arc_summary": "Through his relationship with Ananya — whose evasions mirror his own so precisely that he can no longer pretend not to recognize them — Subir is forced to confront the book he has refused to write for forty-six years. He does not complete it. But he begins it: one paragraph about green and gold bangles on a jute mat. The mentor, mentored in return by his student's stubborn refusal to let either of them off the hook, moves from understanding grief intellectually to sitting inside it without narrating his way out.",
+      "vogler_archetype": "Mentor",
+      "enneagram_type": "Type 5 (Investigator)",
+      "mbti_type": "INFJ",
+      "ocean_scores": {
+        "O": 0.9,
+        "C": 0.65,
+        "E": 0.35,
+        "A": 0.7,
+        "N": 0.6
+      },
+      "relationships": {
+        "Ananya Mitra": "Her informal mentor and former professor from a Kolkata university writing program she attended briefly at twenty-two. He recognized her talent immediately and her evasions almost as quickly. Their relationship is tender but wary — two people who see through each other and are not entirely grateful for it. He pushes her toward the emotional center of her memoir while deflecting every attempt she makes to ask him why he has never written his own."
+      },
+      "voice_id": "",
+      "voice_name": ""
+    }
+  },
+  "beats": [
+    {
+      "number": 1,
+      "name": "Opening Image",
+      "description": "Ananya sits at her desk in her Minneapolis apartment on a winter morning, trying to describe the exact smell of her grandmother's kitchen — mustard oil, iron wok, something else she cannot name. She writes and deletes the same sentence seven times. Outside, snow fills the window like static, and she realizes she can no longer remember whether the kitchen window in North Kolkata faced east or north.",
+      "act": "Act I",
+      "chapter_hint": "1"
+    },
+    {
+      "number": 2,
+      "name": "Theme Stated",
+      "description": "During a workshop session, Subir Ghosh reads one of Ananya's memoir fragments aloud and tells her, almost offhandedly, 'You write as though the girl who ate those oranges and the woman who remembers them are two different people — but sediment does not stop being the river just because it has settled.' Ananya bristles, feeling misread, but the observation lodges in her like a splinter.",
+      "act": "Act I",
+      "chapter_hint": "1-2"
+    },
+    {
+      "number": 3,
+      "name": "Set-Up",
+      "description": "We see the architecture of Ananya's carefully maintained life: her sparse apartment organized around notebooks and cassette recordings of her grandmother's voice, her arm's-length relationship with her partner Neel — a second-generation Bengali-American physician who loves her but cannot access her inner world — and her teaching job at a small college where she is admired but known by no one. She spends evenings transcribing half-audible cassette fragments, building her memoir essay by essay, each one an attempt to reconstruct a single sensory detail from childhood with forensic precision. Meanwhile, Subir, her mentor through a writers' residency program, is introduced as a man surrounded by other people's books in his cluttered campus office, the one shelf conspicuously empty where his own unwritten book should be.",
+      "act": "Act I",
+      "chapter_hint": "1-3"
+    },
+    {
+      "number": 4,
+      "name": "Catalyst",
+      "description": "Ananya receives a phone call from her mother in Kolkata: the family flat in North Kolkata — her grandmother's flat, the locus of every essay she has been writing — has been sold. The new owners will take possession in three months. If she wants anything from the flat, any object or last look, she must come now. The physical site of her memoir is about to be erased.",
+      "act": "Act I",
+      "chapter_hint": "3-4"
+    },
+    {
+      "number": 5,
+      "name": "Debate",
+      "description": "Ananya oscillates between booking a flight to Kolkata immediately and convincing herself that a return trip would contaminate her memories — that the present-day flat, altered by years and neglect, would overwrite the version she has so carefully preserved in prose. She drafts and discards emails to her mother. Neel gently suggests they go together, but Ananya recoils at the idea of him witnessing the place that exists, for her, only in language. Subir, when she confides in him, asks her a question she cannot answer: 'Are you afraid of what you'll find, or of what you won't?'",
+      "act": "Act I",
+      "chapter_hint": "4-5"
+    },
+    {
+      "number": 6,
+      "name": "Break into Two",
+      "description": "Ananya books a solo flight to Kolkata, telling Neel she needs to go alone and telling Subir she is going to finish the book — that seeing the flat one final time will give her the missing pieces. She carries a notebook full of questions for her memory: the direction the kitchen window faced, the pattern on the curtain in the hallway, the last words her grandmother called out. She enters Act II believing she is going to recover something.",
+      "act": "Act I",
+      "chapter_hint": "5-6"
+    },
+    {
+      "number": 7,
+      "name": "B Story",
+      "description": "The B Story is Ananya's deepening relationship with Subir, conducted through emails and eventually phone calls while she is in Kolkata. As she sends him drafts and field notes, Subir's feedback becomes increasingly personal — he begins, almost involuntarily, to share fragments of his own suppressed story about his sister's drowning in Shantiniketan. Their mentorship becomes a mutual excavation, each one's honesty forcing the other closer to what they have been avoiding. This relationship carries the thematic argument: that witnessing another person's evasions can become a mirror for your own.",
+      "act": "Act II",
+      "chapter_hint": "6-14"
+    },
+    {
+      "number": 8,
+      "name": "Fun and Games",
+      "description": "Ananya moves through Kolkata in a state of heightened, almost feverish perception — riding in autorickshaws through lanes she half-recognizes, eating jhalmuri from a vendor whose cart occupies the same corner it did seventeen years ago, pressing her face into her grandmother's saris still folded in a steel almirah that smells of naphthalene and sandalwood. She writes furiously, producing some of her best prose, capturing textures and sounds with stunning precision. She interviews elderly neighbors who remember her grandmother and collects details she never knew. For a brief, intoxicating stretch, the project feels alive and possible — the premise of the memoir is delivering on its promise.",
+      "act": "Act II",
+      "chapter_hint": "7-9"
+    },
+    {
+      "number": 9,
+      "name": "Midpoint",
+      "description": "Ananya finally enters her grandmother's bedroom — the room with the narrow bed, the ceiling fan, the steel bowl — and discovers it has been repainted, the bed replaced, the window fitted with new glass. The room is materially altered in ways her essays did not account for, and she cannot determine whether her memories or the room are lying. Worse, she plays the cassette recording of her grandmother's voice for an elderly neighbor, who gently corrects a detail Ananya has built an entire essay around: the song her grandmother hummed was not a Tagore song but a Nazrul geeti. The false stakes of perfect reconstruction become real stakes of self-knowledge — if her memories are unreliable, who is the person those memories composed?",
+      "act": "Act II",
+      "chapter_hint": "9-10"
+    },
+    {
+      "number": 10,
+      "name": "Bad Guys Close In",
+      "description": "The internal antagonists — Ananya's need for perfect fidelity and her fear of a mutable self — close in from all sides. She discovers more discrepancies: the kitchen window faced west, not east; the orange tree she remembers in the courtyard was actually a lemon tree at a neighbor's house. She begins to distrust every detail in her manuscript. Simultaneously, Neel calls from Minneapolis and, in a raw, frustrated conversation, tells her that she has been more intimate with a dead woman's memory than she has ever been with him — that he feels like a draft she keeps revising but never commits to. Her mother, practical and impatient, asks why she is treating the flat like a shrine when 'your Dida would have told you to live your life.' Subir, in an email responding to her latest panicked draft, writes something that cuts: 'You are not restoring a fresco, Ananya. You are painting over it and calling it archaeology.'",
+      "act": "Act II",
+      "chapter_hint": "10-12"
+    },
+    {
+      "number": 11,
+      "name": "All Is Lost",
+      "description": "Ananya sits in the empty flat the night before the new owners' final walkthrough, surrounded by her notebooks, and realizes she cannot write the essay about the last day — the day she left at fourteen — because she has fabricated so many versions of it that the original is irretrievable. The steel bowl of oranges, the voice behind the door, the turning fan: she cannot be certain any of these details are real rather than constructed. She closes her notebook. In the same week, Neel tells her over the phone, quietly and without anger, that he thinks they should take a break. The memoir and the relationship collapse in parallel — both undone by her inability to be present with what is imperfect and real.",
+      "act": "Act II",
+      "chapter_hint": "12-13"
+    },
+    {
+      "number": 12,
+      "name": "Dark Night of the Soul",
+      "description": "Ananya spends two days barely leaving her mother's guest room, not writing, not recording, staring at the water stain on the ceiling that looks like no geography she recognizes. She rereads her entire manuscript and sees, with Subir's eyes, that every essay is a beautifully constructed lie — not because the details are wrong, but because she has arranged them to serve a version of herself that never existed: the girl who was whole before she left. In a late-night phone call, Subir — moved by her silence more than her words — finally tells her about the green and gold bangles on the jute mat, his sister, the forty-six years of not writing about it. 'I have understood drowning perfectly,' he says. 'I have never once let myself get wet.' His confession does not heal her, but it breaks the isolation. She is not the only one building elaborate shelters from her own story.",
+      "act": "Act II",
+      "chapter_hint": "13-14"
+    },
+    {
+      "number": 13,
+      "name": "Break into Three",
+      "description": "On her last morning in Kolkata, Ananya returns to the flat one final time — now emptied of furniture, just walls and light — and instead of trying to remember what was there, she writes what is there now: the quality of the light on bare plaster, the sound of traffic from the lane below, the way her own shadow falls across the threshold. She writes a new essay fragment that is not about recovering the past but about standing in the gap between who she was and who she is. She does not reconstruct; she witnesses. This is the synthesis — old world and new world integrated not through perfect memory but through present attention.",
+      "act": "Act III",
+      "chapter_hint": "14-15"
+    },
+    {
+      "number": 14,
+      "name": "Finale",
+      "description": "Ananya returns to Minneapolis carrying a manuscript she now understands is unfinishable — not because she has failed but because the subject is ongoing. She meets with Subir in his office and, for the first time, they sit together not as mentor and student but as two people who have seen each other clearly. She shows him the final essay fragment — the empty room, the present-tense light — and he is quiet for a long time before saying it is the truest thing she has written. She tells him he needs to write the bangles. He nods, and she sees his hand tremble. She calls Neel — not to fix things, but to say honestly, without curating the sentence, that she does not know how to be fully present but she would like to learn, if he is willing to let her practice. The conversation is imperfect, halting, unresolved — but she stays on the line.",
+      "act": "Act III",
+      "chapter_hint": "15-17"
+    },
+    {
+      "number": 15,
+      "name": "Final Image",
+      "description": "Ananya sits at the same Minneapolis desk from the opening, winter light filling the window again. She is writing — but this time she does not delete the sentence. She writes: 'The kitchen window faced west. Or it didn't. The woman writing this does not know, and she is the only one here.' The memoir remains unfinished, open-ended, but she is no longer trying to use it to go back. The snow outside is just snow. She peels an orange, and the smell is only the smell of now.",
+      "act": "Act III",
+      "chapter_hint": "17-18"
+    }
+  ],
+  "chapter_plan": [
+    {
+      "number": 1,
+      "title": "The Kitchen Window",
+      "beats_covered": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "pov_character": "Ananya Mitra",
+      "location": "Minneapolis — Ananya's apartment, the college campus, Subir's office",
+      "summary": "Ananya struggles to reconstruct sensory memories of her grandmother's North Kolkata kitchen in her sparse Minneapolis apartment, obsessively transcribing half-audible cassette recordings and building her memoir essay by essay while holding her partner Neel and everyone else at arm's length. When Subir Ghosh, her residency mentor, observes that she writes as though the remembering woman and the remembered girl are two different people — 'sediment does not stop being the river just because it has settled' — the remark lodges in her like a splinter she cannot remove. Days later, her mother calls: the family flat has been sold, and if Ananya wants a last look, she must come now. After agonizing over whether returning will restore or contaminate her carefully preserved memories, and after refusing Neel's offer to accompany her, she books a solo flight to Kolkata, carrying a notebook full of questions for her own past.",
+      "emotional_goal": "The reader should feel the exquisite tension between longing and dread — Ananya's world is beautiful but brittle, and the phone call has introduced a crack. We should sense both the urgency of her departure and the fragility of the project she believes will save her.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.72,
+      "target_emotions": {
+        "trust": 0.5,
+        "sadness": 0.35,
+        "anticipation": 0.4
+      },
+      "position_pct": 0.125,
+      "scenes": [
+        {
+          "scene_number": 1,
+          "beats_covered": [
+            "Opening Image",
+            "Theme Stated",
+            "Set-Up"
+          ],
+          "pov_character": "Ananya Mitra",
+          "location": "Ananya's Minneapolis apartment, then Subir Ghosh's campus office",
+          "brief_description": "Ananya sits in her bare Minneapolis apartment at dawn, pressing headphones to her ears and transcribing a warped cassette recording — her grandmother's voice half-swallowed by tape hiss — while the radiator knocks and Neel sleeps behind a closed door she has not opened in days. She carries her latest essay pages to her residency mentor Subir Ghosh, who reads them carefully before observing, with quiet precision, that she writes as though the remembering woman and the remembered girl are two different people: 'sediment does not stop being the river just because it has settled.' Ananya nods, thanks him, and walks home with the remark lodged somewhere she cannot reach, already suspecting it is true and unwilling to say so.",
+          "emotional_goal": "The reader should feel the claustrophobic beauty of Ananya's self-constructed world — her discipline mistaken for devotion, her isolation mistaken for focus — and sense the first hairline fracture that Subir's words have introduced into the glass.",
+          "target_emotions": {
+            "trust": 0.5,
+            "sadness": 0.35,
+            "anticipation": 0.4
+          },
+          "sis_estimate": 32.0,
+          "word_count_target": 1150,
+          "narrative_mode": "Summary",
+          "approved": false
+        },
+        {
+          "scene_number": 2,
+          "beats_covered": [
+            "Catalyst",
+            "Debate",
+            "Break into Two"
+          ],
+          "pov_character": "Ananya Mitra",
+          "location": "Ananya's Minneapolis apartment — kitchen, then the narrow hallway outside the bedroom",
+          "brief_description": "Standing at her own kitchen window with a cup of tea gone cold, Ananya answers her mother's call and learns that the North Kolkata flat has been sold; if she wants a final visit, she must come within the week. She paces the apartment in a slow argument with herself — returning might restore the sensory details she is losing, or it might overwrite her carefully preserved memories with something coarser and present-tense — and when Neel steps into the hallway and quietly offers to come with her, she tells him no before she has finished deciding why. She opens her laptop, books a solo flight, and closes it again without telling anyone, the notebook of unasked questions already open beside her like a second passport.",
+          "emotional_goal": "The reader should feel the stomach-drop urgency of a door closing forever alongside Ananya's particular dread — not of the journey, but of what honest looking might cost her — so that her departure feels both necessary and reckless, and her refusal of Neel reads as self-protection that is also self-harm.",
+          "target_emotions": {
+            "trust": 0.5,
+            "sadness": 0.35,
+            "anticipation": 0.4
+          },
+          "sis_estimate": 44.8,
+          "word_count_target": 1150,
+          "narrative_mode": "Summary",
+          "approved": false
+        }
+      ],
+      "scene_interest_scores": [
+        32.0,
+        44.8
+      ],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 2,
+      "title": "Naphthalene and Sandalwood",
+      "beats_covered": [
+        7,
+        8,
+        9
+      ],
+      "pov_character": "Ananya Mitra",
+      "location": "Kolkata — lanes, autorickshaws, the grandmother's flat in North Kolkata; email and phone exchanges with Subir in Minneapolis",
+      "summary": "Ananya moves through Kolkata in a state of feverish sensory attention — eating jhalmuri from a vendor on the same corner, pressing her face into her grandmother's saris in the steel almirah, interviewing elderly neighbors — producing some of her most vivid prose as the memoir feels, for the first time, alive and possible. Meanwhile, her email exchanges with Subir deepen into something beyond mentorship; as she sends him drafts and field notes, he begins, almost involuntarily, to share fragments of his own suppressed story about his sister's drowning. The intoxication breaks when Ananya enters her grandmother's bedroom and finds it repainted, the bed replaced, the window refitted — and an elderly neighbor gently corrects a foundational detail of her memoir: the song her grandmother hummed was not Tagore but Nazrul. The room and her memory are telling different stories, and she cannot determine which is lying.",
+      "emotional_goal": "The reader should experience a brief, warm rush of homecoming and creative exhilaration that curdles into vertigo — the ground of Ananya's identity has shifted beneath her, and the project that was supposed to anchor her has begun to expose how much she has unknowingly invented.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.54,
+      "target_emotions": {
+        "sadness": 0.5,
+        "fear": 0.4,
+        "anger": 0.35,
+        "anticipation": 0.35
+      },
+      "position_pct": 0.375,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 3,
+      "title": "Painting Over the Fresco",
+      "beats_covered": [
+        10,
+        11,
+        12
+      ],
+      "pov_character": "Ananya Mitra",
+      "location": "Kolkata — the grandmother's flat, Ananya's mother's guest room; phone calls to Minneapolis",
+      "summary": "Discrepancies multiply — the kitchen window faced west, the orange tree was actually a neighbor's lemon tree — and Ananya begins to distrust every detail in her manuscript. Neel, in a raw phone call, tells her she has been more intimate with a dead woman's memory than with him; her mother bluntly asks why she is treating the flat like a shrine; Subir writes that she is 'painting over a fresco and calling it archaeology.' On the flat's last night before the new owners' walkthrough, Ananya realizes she cannot write the essay about the day she left at fourteen because she has fabricated so many versions that the original is gone. Neel quietly asks for a break. She retreats to her mother's guest room for two days, not writing, rereading her manuscript and seeing — with Subir's eyes — that every essay is a beautifully constructed lie built to serve a version of herself that never existed. In a late-night call, Subir finally tells her about the green and gold bangles on the jute mat, his sister, forty-six years of not writing about it. His confession does not heal her, but it breaks the isolation.",
+      "emotional_goal": "The reader should feel the full weight of the hole — grief, disorientation, and the terrifying recognition that the self Ananya has been defending may be as constructed as her prose. But Subir's confession should introduce a thin, sustaining thread of solidarity: she is not the only one drowning in her own avoidance.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.49,
+      "target_emotions": {
+        "sadness": 0.55,
+        "fear": 0.45,
+        "disgust": 0.3,
+        "anger": 0.35
+      },
+      "position_pct": 0.625,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 4,
+      "title": "Sediment",
+      "beats_covered": [
+        13,
+        14,
+        15
+      ],
+      "pov_character": "Ananya Mitra",
+      "location": "Kolkata — the emptied flat; Minneapolis — Subir's office, Ananya's apartment",
+      "summary": "On her last morning in Kolkata, Ananya returns to the flat — now stripped to bare walls and light — and instead of trying to remember what was there, she writes what is there now: plaster, traffic sound, her own shadow across the threshold. She produces a new essay fragment that does not reconstruct the past but stands in the gap between who she was and who she is. Back in Minneapolis, she and Subir sit together as equals for the first time; he reads the empty-room essay and calls it the truest thing she has written, and she tells him he needs to write the bangles — his hand trembles, and he nods. She calls Neel, not to repair things but to say, without curating the sentence, that she does not know how to be fully present but would like to learn. The conversation is halting, unresolved, but she stays on the line. At her desk again in winter light, she writes: 'The kitchen window faced west. Or it didn't. The woman writing this does not know, and she is the only one here.' She peels an orange, and the smell is only the smell of now.",
+      "emotional_goal": "The reader should feel a quiet, hard-won sense of emergence — not resolution but reorientation. The hole has not been filled; Ananya has learned to live inside it with her eyes open. There should be warmth in the imperfection, tenderness in the incompletion, and a final image that breathes rather than closes.",
+      "arc_type": "Man in Hole",
+      "target_emotion_intensity": 0.8,
+      "target_emotions": {
+        "sadness": 0.6,
+        "surprise": 0.5,
+        "trust": 0.45,
+        "anticipation": 0.4
+      },
+      "position_pct": 0.875,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    }
+  ],
+  "emotional_arc_type": "Man in Hole",
+  "suggested_character_breakdown": {},
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Kitchen Window",
+      "content": "# Chapter 1: The Kitchen Window\n\nThe sentence was wrong again.\n\nAnanya deleted it for the seventh time and watched the cursor blink against the white field of the document, patient as a metronome, measuring out the silence of her apartment. She pressed her headphones tighter against her ears. On the cassette — transferred years ago to a digital file she kept in three places, as though her grandmother's voice were a organ that could fail — the sound of oil hitting iron. A spit and hiss that lasted less than a second, followed by her grandmother saying something to someone outside the frame of the recording. The words were half-swallowed by tape hiss, by the distance between the small Sony recorder Ananya had propped on the kitchen shelf and the woman who had not known she was being preserved.\n\nShe rewound. Played it again. Oil, iron, hiss. A word that might have been *jol* — water — or might have been *chhol* — peel — or might have been nothing, just the sound of a seventy-year-old woman's throat clearing before speech. Ananya typed: *The kitchen smelled of mustard oil heated past its smoking point, of the iron karai that had seasoned itself over decades into something almostite —*\n\nShe stopped. Meteorite was wrong. She had been reaching for somethingite — the mineral quality of that pan, the way it smelled not of cooking but of the earth metals beneath cooking, a ferric underground note beneath the sharper scream of the oil. She could smell it now, or believed she could, which was either the same thing or the opposite.\n\nOutside her window, snow came down in the windless, vertical way that made Minneapolis look like a television tuned to a dead channel. Six-forty in the morning. The radiator knocked twice, its own dull domestic percussion, and behind the closed bedroom door Neel was still sleeping. She had not opened that door in — she counted — four days, slipping in after he was asleep, rising before the alarm she'd set to silent vibration against her wrist. This was not estrangement. This was simply the architecture of concentration, the necessary arrangement of a life around its real work.\n\nShe pulled the headphones off and sat with her hands flat on the desk, looking at the snow. Somewhere in her body, not her mind, a question surfaced that had been circling for weeks: the kitchen window in her grandmother's flat on Rajbari Lane. She had written it facing east in the essay about morning light. She had written it facing north in the essay about the neem tree whose branches tapped the glass during storms. Both essays were built on the window's orientation — the quality of light structured the entire prose — and she could no longer remember which direction was true. She could see the window. She could see her grandmother standing before it, backlit, grinding posto in the stone *shil nora* with a motion so practiced it looked like prayer. But the light fell from the left in some memories and from behind in others, and Ananya understood, in the clinical way she understood most things about herself, that at least one of these memories was a fabrication her mind had furnished to fill a gap.\n\nShe wrote nothing. She saved the file. She closed the laptop and carried her cold tea to the kitchen sink, where she poured it out and watched the tannin residue web the white porcelain.\n\n---\n\nSubir Ghosh's office smelled of paper the way certain churches smell of stone — not the scent of a single book but the accumulated exhalation of hundreds, stacked on every surface, wedged into shelves at angles that suggested seismic activity. Ananya sat in the cracked leather chair across from his desk and watched him read her latest pages. He read slowly, one hand resting on the manuscript, the other holding his glasses by one arm as though he might need to put them down in a hurry.\n\nShe had given him the orange essay — the one about the steel bowl of peeled oranges her grandmother kept on the bedside table, the way the white pith clung to the segments in threads she used to pull off one by one, the particular sweetness of Nagpur oranges in December that she had never found replicated in any American citrus. It was, she believed, the best thing in the manuscript. Every sentence had been tested against her memory like a key against a lock.\n\nSubir finished. He set the pages down and cleaned his glasses on his shirt, which gave him time, she knew, to choose his words. Behind him, the bookshelves rose to the ceiling in a kind of literary geology — postcolonial theory near the top, contemporary fiction at eye level, poetry crammed into the lower shelves where you had to kneel to reach it. One shelf, at his left shoulder, held nothing. Three books leaned against its single bookend like commuters waiting for a train that would not come.\n\n\"Read it aloud to me,\" he said.\n\n\"You just read it.\"\n\n\"Silently. Which means I read it in my voice. I want to hear it in yours.\"\n\nShe read it. Her voice in English was measured, slightly formal — sentences that landed on their final words with the deliberation of someone who had learned the language's rhythms second, who still, in some subterranean place, was translating. When she reached the passage about the oranges — *the segments came apart in her hands with the sound of something almost too ripe, a whisper at the seam* — she heard the prose do what she wanted it to do, felt it close around the memory like a hand.\n\nSubir was quiet. Then he leaned back and said, almost as though he were thinking aloud, \"You write as though the girl who ate those oranges and the woman who remembers them are two different people.\"\n\nAnanya set the pages on her knee. \"They are.\"\n\n\"Hmm.\" He picked up a pen, turned it between his fingers. \"But sediment does not stop being the river just because it has settled.\"\n\nShe thanked him. She gathered her pages. She walked home through the cold, and the remark came with her, not in her mind where she could have examined and dismissed it but somewhere lower, between her ribs, in the place where things that were true and unwelcome went to lodge.\n\n---\n\nThe apartment was arranged for a single purpose, and anyone entering it would have understood this, though no one entered it. The living room held a desk, a reading chair, and three filing boxes of cassette transcriptions organized by year. The kitchen held what a kitchen required and nothing more. On the refrigerator, no photographs. In the bathroom, Neel's things occupied one shelf and hers another and the space between them was clean. The bedroom — their bedroom, technically — contained a bed, a dresser, and on Ananya's nightstand a stack of notebooks held shut with rubber bands, each one devoted to a single sensory reconstruction: the sound of the Rajbari Lane *kolkata* tram, the texture of the jute *chatai* mat on her grandmother's floor, the specific gray of monsoon sky seen through a window whose orientation she could no longer verify.\n\nNeel came home at seven with takeout dal and rice from the Bangladeshi place on Nicollet Avenue, and they ate at the kitchen table with the overhead light on, which made the window a black mirror in which Ananya could see the back of his head and the still motion of her own hands with the fork.\n\n\"Workshop go well?\" he asked.\n\n\"Fine.\"\n\n\"What did Subir think of the orange piece?\"\n\n\"He liked it.\"\n\nNeel nodded. He ate the way he did most things — steadily, without performance, with a thoroughness she had once found calming and now experienced as a kind of gentle, unanswerable patience. He was a good man. She knew this the way she knew facts about distant countries — with certainty and without heat.\n\nLater, washing the containers, he said, \"You know you can tell me about it. The writing. What's hard about it.\"\n\n\"I know,\" Ananya said, and carried her notebooks to the desk, and put on her headphones, and the evening closed over the conversation like water over a dropped coin.\n\n---\n\nHer mother called on a Thursday, during office hours. Ananya's phone vibrated against a stack of student papers, and the name on the screen — *Ma* — carried its own particular weight, the gravity of a call that came not on the scheduled Sunday but midweek, unannounced, which meant something had either broken or been decided without her.\n\n\"The flat has been sold,\" her mother said. No preamble. Her mother's voice was the same voice it had always been — clipped, pragmatic, lightly hoarse — but it arrived through the phone's compression with something removed from it, some lower register that distance or technology had peeled away.\n\nAnanya sat down on the edge of her desk. \"Dida's flat.\"\n\n\"What other flat? Suresh Mama arranged the buyer. A young couple, software. They want possession in three months.\"\n\nShe heard her mother breathing, and behind the breathing, the sound of Kolkata — a car horn, a vendor's call, the particular dense murmur of a city that never fully quieted. These sounds were not for her. They leaked through the phone like light under a door.\n\n\"If you want to take anything,\" her mother said. \"If you want to see it once. Then come now. After March it will be someone else's walls.\"\n\nAnanya said she would think about it. Her mother said there was nothing to think about. They hung up, and Ananya sat for a long time in her office with the student papers ungraded and the fluorescent light buzzing its single note above her, and what she thought about was this: if she returned to Rajbari Lane and saw the flat as it was now — the water stains, the cracked plaster, the kitchen she had described with such precision from eight thousand miles away — would the present tense of the place overwrite the past tense she had so carefully built? Would the real window, facing whichever direction it truly faced, destroy the two windows she had written, both of which let in a light that no longer existed but that she could, on her best days, still feel on her forearms?\n\nShe drafted an email to her mother and deleted it. She drafted another and saved it to drafts. She walked to Subir's office, but his door was closed and the light was off, and she stood in the hallway long enough that a passing colleague asked if she was all right.\n\nAt home, Neel was reading in the living room. She told him about the flat — the words came out flat themselves, declarative, drained of the vibration she could feel in her sternum — and he looked up and said, with the careful tenderness of a man reaching for something he knew might pull away, \"I could come with you. I have leave saved.\"\n\n\"No.\"\n\nThe word was out before she had finished deciding why, and its speed revealed something she would not examine. Neel to Kolkata. Neel in her grandmother's kitchen. Neel standing in the room where the oranges had been, where the fan had turned, where her grandmother's voice still lived on a cassette that was the closest thing Ananya had to a prayer — Neel there, seeing the cracks in the plaster and the stains on the ceiling and the way the real place fell short of the place she had written, and knowing, then, that the interior country she had kept from him was not as she had described it. Was not, perhaps, as she had described it to herself.\n\n\"I need to go alone,\" she said.\n\nHe nodded. He went back to his book. She sat at her desk and opened the laptop and booked a flight — Minneapolis to Chicago to Dubai to Kolkata, thirty-one hours of transit, a liminal corridor long enough to become someone else inside — and then she opened a new notebook and began writing questions for her own memory. *Which direction did the kitchen window face? What was the pattern on the hallway curtain — paisley or floral? What were the last words Dida called out from behind the bedroom door the day I left?*\n\nShe filled two pages. She did not call Subir, but she emailed him: *I'm going. I'm going to finish the book. The flat will be gone in three months and if I don't see it now, I'll be writing from nothing.*\n\nHis reply came at midnight, four words and a question mark that she read three times before closing the laptop, unable to answer, unable to stop hearing it.\n\n*Are you afraid of what you'll find, or of what you won't?*\n\nShe packed the notebook beside her passport, the two documents that would grant her entry — one to a country, one to a self she believed was waiting for her, preserved in the exact smell of mustard oil and iron and the thing she still could not name. Outside, the snow had stopped. The window faced west. She was certain of this, at least. She was certain of this."
+    }
+  ],
+  "messages": [
+    {
+      "role": "user",
+      "content": "Write Chapter 1: \"The Kitchen Window\" (approved after quality gate)"
+    },
+    {
+      "role": "assistant",
+      "content": "# Chapter 1: The Kitchen Window\n\nThe sentence was wrong again.\n\nAnanya deleted it for the seventh time and watched the cursor blink against the white field of the document, patient as a metronome, measuring out the silence of her apartment. She pressed her headphones tighter against her ears. On the cassette — transferred years ago to a digital file she kept in three places, as though her grandmother's voice were a organ that could fail — the sound of oil hitting iron. A spit and hiss that lasted less than a second, followed by her grandmother saying something to someone outside the frame of the recording. The words were half-swallowed by tape hiss, by the distance between the small Sony recorder Ananya had propped on the kitchen shelf and the woman who had not known she was being preserved.\n\nShe rewound. Played it again. Oil, iron, hiss. A word that might have been *jol* — water — or might have been *chhol* — peel — or might have been nothing, just the sound of a seventy-year-old woman's throat clearing before speech. Ananya typed: *The kitchen smelled of mustard oil heated past its smoking point, of the iron karai that had seasoned itself over decades into something almostite —*\n\nShe stopped. Meteorite was wrong. She had been reaching for somethingite — the mineral quality of that pan, the way it smelled not of cooking but of the earth metals beneath cooking, a ferric underground note beneath the sharper scream of the oil. She could smell it now, or believed she could, which was either the same thing or the opposite.\n\nOutside her window, snow came down in the windless, vertical way that made Minneapolis look like a television tuned to a dead channel. Six-forty in the morning. The radiator knocked twice, its own dull domestic percussion, and behind the closed bedroom door Neel was still sleeping. She had not opened that door in — she counted — four days, slipping in after he was asleep, rising before the alarm she'd set to silent vibration against her wrist. This was not estrangement. This was simply the architecture of concentration, the necessary arrangement of a life around its real work.\n\nShe pulled the headphones off and sat with her hands flat on the desk, looking at the snow. Somewhere in her body, not her mind, a question surfaced that had been circling for weeks: the kitchen window in her grandmother's flat on Rajbari Lane. She had written it facing east in the essay about morning light. She had written it facing north in the essay about the neem tree whose branches tapped the glass during storms. Both essays were built on the window's orientation — the quality of light structured the entire prose — and she could no longer remember which direction was true. She could see the window. She could see her grandmother standing before it, backlit, grinding posto in the stone *shil nora* with a motion so practiced it looked like prayer. But the light fell from the left in some memories and from behind in others, and Ananya understood, in the clinical way she understood most things about herself, that at least one of these memories was a fabrication her mind had furnished to fill a gap.\n\nShe wrote nothing. She saved the file. She closed the laptop and carried her cold tea to the kitchen sink, where she poured it out and watched the tannin residue web the white porcelain.\n\n---\n\nSubir Ghosh's office smelled of paper the way certain churches smell of stone — not the scent of a single book but the accumulated exhalation of hundreds, stacked on every surface, wedged into shelves at angles that suggested seismic activity. Ananya sat in the cracked leather chair across from his desk and watched him read her latest pages. He read slowly, one hand resting on the manuscript, the other holding his glasses by one arm as though he might need to put them down in a hurry.\n\nShe had given him the orange essay — the one about the steel bowl of peeled oranges her grandmother kept on the bedside table, the way the white pith clung to the segments in threads she used to pull off one by one, the particular sweetness of Nagpur oranges in December that she had never found replicated in any American citrus. It was, she believed, the best thing in the manuscript. Every sentence had been tested against her memory like a key against a lock.\n\nSubir finished. He set the pages down and cleaned his glasses on his shirt, which gave him time, she knew, to choose his words. Behind him, the bookshelves rose to the ceiling in a kind of literary geology — postcolonial theory near the top, contemporary fiction at eye level, poetry crammed into the lower shelves where you had to kneel to reach it. One shelf, at his left shoulder, held nothing. Three books leaned against its single bookend like commuters waiting for a train that would not come.\n\n\"Read it aloud to me,\" he said.\n\n\"You just read it.\"\n\n\"Silently. Which means I read it in my voice. I want to hear it in yours.\"\n\nShe read it. Her voice in English was measured, slightly formal — sentences that landed on their final words with the deliberation of someone who had learned the language's rhythms second, who still, in some subterranean place, was translating. When she reached the passage about the oranges — *the segments came apart in her hands with the sound of something almost too ripe, a whisper at the seam* — she heard the prose do what she wanted it to do, felt it close around the memory like a hand.\n\nSubir was quiet. Then he leaned back and said, almost as though he were thinking aloud, \"You write as though the girl who ate those oranges and the woman who remembers them are two different people.\"\n\nAnanya set the pages on her knee. \"They are.\"\n\n\"Hmm.\" He picked up a pen, turned it between his fingers. \"But sediment does not stop being the river just because it has settled.\"\n\nShe thanked him. She gathered her pages. She walked home through the cold, and the remark came with her, not in her mind where she could have examined and dismissed it but somewhere lower, between her ribs, in the place where things that were true and unwelcome went to lodge.\n\n---\n\nThe apartment was arranged for a single purpose, and anyone entering it would have understood this, though no one entered it. The living room held a desk, a reading chair, and three filing boxes of cassette transcriptions organized by year. The kitchen held what a kitchen required and nothing more. On the refrigerator, no photographs. In the bathroom, Neel's things occupied one shelf and hers another and the space between them was clean. The bedroom — their bedroom, technically — contained a bed, a dresser, and on Ananya's nightstand a stack of notebooks held shut with rubber bands, each one devoted to a single sensory reconstruction: the sound of the Rajbari Lane *kolkata* tram, the texture of the jute *chatai* mat on her grandmother's floor, the specific gray of monsoon sky seen through a window whose orientation she could no longer verify.\n\nNeel came home at seven with takeout dal and rice from the Bangladeshi place on Nicollet Avenue, and they ate at the kitchen table with the overhead light on, which made the window a black mirror in which Ananya could see the back of his head and the still motion of her own hands with the fork.\n\n\"Workshop go well?\" he asked.\n\n\"Fine.\"\n\n\"What did Subir think of the orange piece?\"\n\n\"He liked it.\"\n\nNeel nodded. He ate the way he did most things — steadily, without performance, with a thoroughness she had once found calming and now experienced as a kind of gentle, unanswerable patience. He was a good man. She knew this the way she knew facts about distant countries — with certainty and without heat.\n\nLater, washing the containers, he said, \"You know you can tell me about it. The writing. What's hard about it.\"\n\n\"I know,\" Ananya said, and carried her notebooks to the desk, and put on her headphones, and the evening closed over the conversation like water over a dropped coin.\n\n---\n\nHer mother called on a Thursday, during office hours. Ananya's phone vibrated against a stack of student papers, and the name on the screen — *Ma* — carried its own particular weight, the gravity of a call that came not on the scheduled Sunday but midweek, unannounced, which meant something had either broken or been decided without her.\n\n\"The flat has been sold,\" her mother said. No preamble. Her mother's voice was the same voice it had always been — clipped, pragmatic, lightly hoarse — but it arrived through the phone's compression with something removed from it, some lower register that distance or technology had peeled away.\n\nAnanya sat down on the edge of her desk. \"Dida's flat.\"\n\n\"What other flat? Suresh Mama arranged the buyer. A young couple, software. They want possession in three months.\"\n\nShe heard her mother breathing, and behind the breathing, the sound of Kolkata — a car horn, a vendor's call, the particular dense murmur of a city that never fully quieted. These sounds were not for her. They leaked through the phone like light under a door.\n\n\"If you want to take anything,\" her mother said. \"If you want to see it once. Then come now. After March it will be someone else's walls.\"\n\nAnanya said she would think about it. Her mother said there was nothing to think about. They hung up, and Ananya sat for a long time in her office with the student papers ungraded and the fluorescent light buzzing its single note above her, and what she thought about was this: if she returned to Rajbari Lane and saw the flat as it was now — the water stains, the cracked plaster, the kitchen she had described with such precision from eight thousand miles away — would the present tense of the place overwrite the past tense she had so carefully built? Would the real window, facing whichever direction it truly faced, destroy the two windows she had written, both of which let in a light that no longer existed but that she could, on her best days, still feel on her forearms?\n\nShe drafted an email to her mother and deleted it. She drafted another and saved it to drafts. She walked to Subir's office, but his door was closed and the light was off, and she stood in the hallway long enough that a passing colleague asked if she was all right.\n\nAt home, Neel was reading in the living room. She told him about the flat — the words came out flat themselves, declarative, drained of the vibration she could feel in her sternum — and he looked up and said, with the careful tenderness of a man reaching for something he knew might pull away, \"I could come with you. I have leave saved.\"\n\n\"No.\"\n\nThe word was out before she had finished deciding why, and its speed revealed something she would not examine. Neel to Kolkata. Neel in her grandmother's kitchen. Neel standing in the room where the oranges had been, where the fan had turned, where her grandmother's voice still lived on a cassette that was the closest thing Ananya had to a prayer — Neel there, seeing the cracks in the plaster and the stains on the ceiling and the way the real place fell short of the place she had written, and knowing, then, that the interior country she had kept from him was not as she had described it. Was not, perhaps, as she had described it to herself.\n\n\"I need to go alone,\" she said.\n\nHe nodded. He went back to his book. She sat at her desk and opened the laptop and booked a flight — Minneapolis to Chicago to Dubai to Kolkata, thirty-one hours of transit, a liminal corridor long enough to become someone else inside — and then she opened a new notebook and began writing questions for her own memory. *Which direction did the kitchen window face? What was the pattern on the hallway curtain — paisley or floral? What were the last words Dida called out from behind the bedroom door the day I left?*\n\nShe filled two pages. She did not call Subir, but she emailed him: *I'm going. I'm going to finish the book. The flat will be gone in three months and if I don't see it now, I'll be writing from nothing.*\n\nHis reply came at midnight, four words and a question mark that she read three times before closing the laptop, unable to answer, unable to stop hearing it.\n\n*Are you afraid of what you'll find, or of what you won't?*\n\nShe packed the notebook beside her passport, the two documents that would grant her entry — one to a country, one to a self she believed was waiting for her, preserved in the exact smell of mustard oil and iron and the thing she still could not name. Outside, the snow had stopped. The window faced west. She was certain of this, at least. She was certain of this."
+    }
+  ],
+  "narrator_voice_id": "",
+  "narrator_voice_name": "",
+  "stage_complete": {
+    "language": true,
+    "premise": true,
+    "title": true,
+    "world": true,
+    "characters": true,
+    "beats": true,
+    "chapter_plan": true,
+    "scene_drafts": false
+  },
+  "created_at": "2026-06-25T12:03:26.245539",
+  "updated_at": "2026-06-25T12:10:06.088961"
+}

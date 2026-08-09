@@ -1,0 +1,392 @@
+{
+  "story_id": "bench-horror-es",
+  "language": "Spanish",
+  "language_code": "es",
+  "premise": "Un pueblo rural de México está maldito — fantasmas del pasado regresan cada luna llena.",
+  "logline": "Una mujer regresa a su pueblo natal y debe romper una maldición ancestral antes de que los fantasmas de sus propios pecados la consuman para siempre.",
+  "theme": "Los muertos no descansan hasta que los vivos aceptan la verdad que enterraron.",
+  "genre": "horror",
+  "genre_model_name": "horror",
+  "target_audience": "Adultos de 25-50 años, aficionados al horror gótico latinoamericano, realismo mágico y narrativa literaria oscura",
+  "tone": "Oscuro, íntimo y melancólico, con raíces en el folclore mexicano y una atmósfera de culpa y fatalismo inexorable",
+  "title": "Exhumada",
+  "title_candidates": [
+    "Exhumada",
+    "La tierra no olvida",
+    "¿Qué enterraste allí?",
+    "Los que vuelven a Atotonilco",
+    "Bienvenida a casa"
+  ],
+  "world": {
+    "overview": "San Ireneo de las Ánimas es un pueblo moribundo enclavado en una barranca de la Sierra Madre Occidental, donde los muertos nunca se fueron del todo. La niebla que sube del río cada noche trae consigo susurros, y una maldición familiar —nacida de un crimen silenciado tres generaciones atrás— ha ido devorando a cada mujer de la línea de sangre que se atreve a regresar. Ahora, la última descendiente vuelve al pueblo, perseguida por sus propios fantasmas y por los que la tierra misma se niega a soltar.",
+    "geography": "San Ireneo está hundido en una barranca profunda rodeada de cerros pelones y bosque de niebla; el río Cenizo lo parte en dos: el lado de los vivos (casas de adobe desmoronándose, la iglesia sin techo) y el lado del camposanto viejo, donde las tumbas se deslizan lentamente hacia el agua cada temporada de lluvias. El clima es húmedo y frío, con neblinas densas que suben del río al anochecer y no se disipan hasta media mañana; la única carretera de terracería se vuelve intransitable en lluvias, aislando al pueblo por semanas. Los habitantes se mueven a pie o en burro; el autobús más cercano para llegar desde la ciudad deja a los pasajeros a dos horas de caminata cuesta abajo. Hay un puente de madera podrida que cruza el río hacia el camposanto, y la gente dice que quien lo cruza de noche no siempre regresa igual.",
+    "history": "Hace tres generaciones, Refugio Amaya —la bisabuela de la protagonista— asesinó a una curandera nahua llamada Crescencia para robarle unas tierras de siembra junto al río, y enterró el cuerpo en los cimientos de su propia casa; la familia Amaya juró silencio y prosperó brevemente mientras el pueblo entero comenzó a marchitarse. Crescencia, al morir, pronunció una maldición: cada generación de mujeres Amaya cargaría con los muertos que la familia creara, y los fantasmas se alimentarían de sus culpas hasta que alguien confesara la verdad ante el río y devolviera los huesos a tierra sagrada. La abuela de la protagonista enloqueció; su madre huyó del pueblo embarazada y murió joven de una enfermedad que los doctores nunca supieron nombrar. En las últimas décadas, San Ireneo se ha vaciado: quedan menos de cuarenta habitantes, la mayoría ancianos que recuerdan demasiado y hablan muy poco.",
+    "culture": "La vida en San Ireneo gira alrededor de los muertos: se les pone un plato en la mesa cada noche, no solo en noviembre; las casas tienen altares permanentes con veladoras, copal, fotografías sepia y objetos personales de los difuntos. La comida es austera —frijoles negros, tortillas de maíz azul, quelites, atole de ceniza— y se cocina en fogón de leña; la ropa es oscura, práctica, heredada. Existe una norma social no escrita de no hablar de ciertos muertos ni de ciertas familias después del anochecer; romper este pacto de silencio se considera una invitación para que los difuntos ofendidos crucen el río. El luto aquí no termina nunca: es una forma de vida, y la alegría abierta se mira con desconfianza, como si fuera una provocación a la desgracia.",
+    "politics": "El poder real lo ejerce doña Perpetua, una anciana de noventa años que fue comadre de la abuela de la protagonista y que conoce todos los secretos del pueblo; ella controla quién habla, quién recuerda y quién olvida, y su silencio ha sido cómplice de la maldición. El cura se fue hace años y la iglesia está abandonada; en su lugar, un rezandero llamado Epifanio oficia los velorios y bendice las casas, pero responde a Perpetua. Hay una tensión latente entre los pocos habitantes que quieren que la verdad se sepa y los que creen que desenterrar el pasado traerá algo peor que la maldición misma. La protagonista, al regresar, se convierte en el centro de esta fractura: unos la ayudarán en secreto, otros intentarán expulsarla o silenciarla.",
+    "economy": "San Ireneo sobrevive apenas: las tierras de siembra junto al río —las mismas tierras robadas— ya casi no producen, como si el suelo mismo estuviera maldito. Los pocos habitantes viven de maíz raquítico, cabras flacas y el dinero que mandan los hijos que emigraron a Estados Unidos; la moneda corriente entre vecinos es el trueque y el favor debido. La casa Amaya, alguna vez la más grande del pueblo, es ahora una ruina habitada solo por ecos y un altar que nadie se atreve a desmantelar. La pobreza material refuerza la atmósfera de abandono: este es un lugar que ya no tiene razón económica para existir, y sin embargo persiste, como si algo lo mantuviera anclado.",
+    "religion": "La fe en San Ireneo es un sincretismo profundo entre el catolicismo popular y creencias nahuas precoloniales: se reza el rosario pero se ofrenda sangre de gallina al río para apaciguar a los muertos; se invoca a la Virgen de Dolores y al mismo tiempo se teme a los aires, los espantos y las ánimas en pena que vagan por la barranca. Existe la creencia de que los muertos mal enterrados —sin ritual, sin confesión de quienes los mataron— se convierten en 'almas trabadas' que no pueden irse ni al cielo ni al Mictlán, y se pudren entre los vivos, enfermando la tierra y la sangre de quienes les deben. El copal y la sal son protecciones sagradas; el agua del río Cenizo es ambivalente: purifica o ahoga, según la intención de quien se acerque. El tabú máximo es mover los huesos de un muerto sin el permiso del muerto mismo, obtenido a través de sueños o visiones.",
+    "magic_or_tech": "La maldición de Crescencia no es magia en el sentido fantástico sino una ley espiritual del mundo: los muertos sin justicia generan una deuda que se hereda por línea de sangre femenina y se manifiesta como apariciones, enfermedades inexplicables, locura y finalmente la muerte. La protagonista puede ver y oír a los muertos —esto es una señal de que la maldición está en su fase final—, pero cada interacción con los fantasmas le cuesta algo: un recuerdo feliz, una noche de sueño, sangre de la nariz, años de vida. Para romper la maldición se necesitan tres cosas: encontrar los huesos de Crescencia, confesar públicamente el crimen ante el río como testigo, y devolver los restos a tierra sagrada con un ritual que solo alguien que recuerde las viejas costumbres puede guiar. Si la protagonista fracasa o miente durante la confesión, los fantasmas —incluidos los de sus propias culpas— la consumirán y ella se convertirá en otra alma trabada.",
+    "language": "Se habla un español rural mexicano arcaico, lleno de vocablos nahuas para lo sobrenatural: 'tonalli' (destino/calor vital), 'tetzáhuitl' (presagio terrible), 'cihuateteo' (espíritus femeninos peligrosos); los ancianos mezclan náhuatl y español sin distinción. Los nombres propios son profundamente católicos pero con resonancias irónicas: Refugio (quien no dio refugio), Perpetua (quien perpetúa el silencio), Crescencia (cuyo crecimiento fue cortado), Epifanio (quien debería revelar verdades pero las oculta). Los muertos, cuando hablan, lo hacen en un español fragmentado, repetitivo, como un disco rayado, o en náhuatl puro que la protagonista no entiende pero siente en el cuerpo.",
+    "unique_elements": "Primero, el río Cenizo funciona como frontera literal y simbólica entre vivos y muertos, y su nivel sube o baja según la intensidad de la actividad sobrenatural, como si el agua respondiera a la deuda espiritual del pueblo. Segundo, la maldición no es externa sino íntima: se alimenta de las culpas reales de cada portadora —la protagonista carga sus propios pecados, no solo los heredados—, de modo que los fantasmas que la acechan son tanto los de Crescencia como los de las personas a quienes ella misma ha dañado, haciendo imposible distinguir entre maldición ancestral y castigo merecido. Tercero, el pacto de silencio colectivo: todo el pueblo sabe fragmentos de la verdad pero nadie la dice completa, y el horror mayor no son los fantasmas sino la complicidad humana que los mantiene atrapados."
+  },
+  "characters": {
+    "renata solís espinoza": {
+      "name": "Renata Solís Espinoza",
+      "role": "protagonist",
+      "age": "34",
+      "physical_description": "Complexión delgada y huesuda, como si el insomnio le hubiera ido comiendo la carne. Tiene una cicatriz blanca en la palma izquierda, de cuando rompió un espejo a los doce años. Ojos oscuros y hundidos que observan todo con una intensidad incómoda, y el cabello negro siempre recogido con un listón rojo desteñido que era de su hermana menor.",
+      "speech_pattern": "Habla en frases cortas y precisas, como quien mide cada palabra antes de soltarla. Usa expresiones rurales del centro de México mezcladas con un vocabulario más urbano adquirido en la ciudad. Tiene la costumbre de señalar lo que está mal con preguntas retóricas — '¿No huelen eso?' '¿No sienten cómo cambió el aire?' — y la gente la ignora. Cuando está nerviosa, reza fragmentos de oraciones incompletas, como si hubiera olvidado cómo terminarlas.",
+      "tier": 1,
+      "is_pov_character": true,
+      "ghost": "A los diecinueve años, su hermana menor Lucía desapareció una noche de Día de Muertos en el pueblo. Renata había presentido que algo andaba mal — le rogó a su madre que no la dejara salir, pero nadie la escuchó. Nunca encontraron el cuerpo. Renata huyó del pueblo seis meses después, incapaz de soportar la mirada de su madre, que nunca dijo que la culpaba pero tampoco dijo que no lo hacía.",
+      "lie": "Nadie me va a creer, y si actúo sola, solo voy a empeorar las cosas, como aquella noche.",
+      "want": "Regresar al pueblo para enterrar a su madre recién fallecida y vender la casa familiar, cortando de una vez el último lazo con ese lugar.",
+      "need": "Aprender a confiar en sus propios instintos y actuar sin esperar el permiso o la validación de otros, aceptando que no pudo salvar a Lucía pero puede elegir no abandonar a quienes la necesitan ahora.",
+      "flaw": "Su culpa la paraliza en los momentos críticos. Percibe el peligro antes que nadie, pero duda de sí misma y busca que alguien más confirme lo que ella ya sabe, perdiendo tiempo vital.",
+      "strength": "Una percepción casi sobrenatural para detectar lo que está fuera de lugar — olores, sonidos, cambios en la atmósfera. Es tenaz y metódica: cuando finalmente decide actuar, investiga con una determinación silenciosa e implacable.",
+      "arc_type": "positive",
+      "arc_summary": "Renata llega al pueblo queriendo huir lo antes posible, atrapada entre la culpa por Lucía y la creencia de que su voz no importa. A medida que la maldición ancestral se manifiesta y amenaza a los vivos, se ve obligada a enfrentar la verdad sobre la desaparición de su hermana y su propia conexión con la maldición familiar. Al final, rompe el ciclo no con fuerza sino con un acto de fe en sí misma: confía en lo que percibe, actúa sin esperar validación, y acepta que sobrevivir no es traición.",
+      "vogler_archetype": "Hero",
+      "enneagram_type": "Type 6 (Loyalist)",
+      "mbti_type": "ISTJ",
+      "ocean_scores": {
+        "O": 0.5,
+        "C": 0.7,
+        "E": 0.3,
+        "A": 0.6,
+        "N": 0.8
+      },
+      "relationships": {
+        "Lucía Solís Espinoza": "Su hermana menor, desaparecida hace quince años. Renata le habla en voz baja cuando está sola, como si Lucía pudiera escucharla. Su recuerdo es simultáneamente lo que la atormenta y lo que la impulsa a no abandonar el pueblo cuando la maldición comienza a manifestarse."
+      },
+      "voice_id": "",
+      "voice_name": ""
+    },
+    "evaristo solís carranza": {
+      "name": "Evaristo Solís Carranza",
+      "role": "antagonist",
+      "age": "72 (aparenta más; falleció a los 58 pero su presencia persiste)",
+      "physical_description": "Alto y enjuto como un árbol seco, con manos enormes y nudosas de jornalero. Una cicatriz larga le cruza la sien izquierda, recuerdo de un rayo que le cayó cerca de niño. Sus ojos son de un ámbar turbio, como agua de pozo estancada. Cuando se manifiesta, siempre huele a copal quemado y tierra mojada.",
+      "speech_pattern": "Habla con la cadencia lenta y sentenciosa de los hombres viejos del campo — refranes retorcidos que suenan a sabiduría pero esconden amenazas. Usa el 'usté' y el 'mija' con una ternura envenenada. Nunca alza la voz; susurra como si contara un secreto, y eso lo hace más aterrador. Repite una frase como letanía: 'La tierra pide lo suyo, y uno nomás obedece.'",
+      "tier": 1,
+      "is_pov_character": false,
+      "ghost": "De niño, Evaristo vio morir a su madre desangrada en un parto que nadie atendió porque el pueblo la consideraba bruja. Su padre, borracho y cobarde, no hizo nada. Evaristo juró que nunca volvería a ser impotente, y a los quince años descubrió un pacto antiguo enterrado bajo la capilla familiar: un acuerdo entre los primeros Solís y algo que habita debajo del pueblo, que exige una mujer de la sangre cada generación a cambio de proteger la tierra y la cosecha.",
+      "lie": "El sacrificio de los míos no es crueldad, es responsabilidad — yo cargo con el peso para que el resto sobreviva, y quien se niegue condena a todos.",
+      "want": "Asegurar que la maldición se cumpla en esta generación consumiendo a Renata o forzándola a ofrecer a alguien de su sangre, perpetuando el pacto que él considera el único orden verdadero del mundo.",
+      "need": "Aceptar que el pacto no es destino sino una cadena que él eligió no romper por miedo a ser tan impotente como su padre, y que su amor por su familia se pudrió el momento en que decidió que sacrificarla era lo mismo que protegerla.",
+      "flaw": "Su terror absoluto a la impotencia lo convirtió en el monstruo que juró no ser. No puede concebir un mundo donde soltar el control no signifique la destrucción, así que manipula, miente y devora a quienes dice amar, convencido de que es misericordia.",
+      "strength": "Un conocimiento profundo y ritual del pacto, del folclore y de los puntos débiles emocionales de cada miembro de la familia. Es paciente como la tierra misma — ha esperado quince años el regreso de Renata. Sabe exactamente qué culpa tocar y qué recuerdo invocar para paralizar a alguien.",
+      "arc_type": "negative",
+      "arc_summary": "Evaristo comienza como una presencia susurrada — recuerdos, olores, sombras en la casa — y se revela gradualmente como el arquitecto de la desaparición de Lucía y el verdadero guardián del pacto. A medida que Renata se acerca a la verdad, él abandona la ternura y muestra la desesperación voraz debajo. Su arco es una caída revelada: creemos que fue un patriarca duro pero protector, y descubrimos que sacrificó a su propia nieta. Al final, cuando Renata rompe el pacto confiando en sí misma, Evaristo no se redime — se desmorona, porque sin el pacto no sabe quién es. La tierra se lo traga junto con la cosa a la que sirvió.",
+      "vogler_archetype": "Shadow",
+      "enneagram_type": "Type 8 (Challenger)",
+      "mbti_type": "ESTJ",
+      "ocean_scores": {
+        "O": 0.3,
+        "C": 0.9,
+        "E": 0.3,
+        "A": 0.2,
+        "N": 0.7
+      },
+      "relationships": {
+        "Renata Solís Espinoza": "Su nieta mayor. La quiso a su manera torcida, pero siempre la vio como la heredera del pacto — la que cargaría con el deber o sería consumida por él. Le enseñó de niña a leer el viento y oler la lluvia, sin decirle que la estaba preparando para algo terrible.",
+        "Lucía Solís Espinoza": "Su nieta menor, a quien sacrificó la noche de Día de Muertos hace quince años para cumplir el pacto. Es el crimen que sostiene toda la trama y la herida que ata a Renata al pueblo.",
+        "Consuelo Espinoza (madre de Renata)": "Su nuera, a quien dominó con silencios y culpas. Consuelo sospechaba la verdad sobre Lucía pero prefirió morir callada antes que enfrentar que su suegro era el responsable."
+      },
+      "voice_id": "",
+      "voice_name": ""
+    }
+  },
+  "beats": [
+    {
+      "number": 1,
+      "name": "Opening Image",
+      "description": "Renata conduce de noche por una carretera serpenteante hacia San Ireneo de las Ánimas, con las cenizas de un cigarro temblándole en los dedos y una urna funeraria vacía en el asiento trasero — el cuerpo de su madre aún está en la casa, nadie vino a recogerlo. La niebla sube del río y envuelve el coche; por un instante, Renata jura ver la silueta de una niña en el camino, pero cuando frena no hay nadie. Cruza el puente de piedra hacia el pueblo con la mandíbula apretada, rezando un fragmento de oración que no sabe terminar.",
+      "act": "Act I",
+      "chapter_hint": "1"
+    },
+    {
+      "number": 2,
+      "name": "Theme Stated",
+      "description": "Al llegar a la casa familiar, la vecina Doña Amparo, que ha velado el cuerpo de la madre, le dice con naturalidad escalofriante: 'Los muertos no descansan hasta que uno les da la verdad que se les debe, mija. Tu mamá lo sabía, por eso nunca se fue.' Renata descarta la frase como superstición pueblerina, sin entender que encierra la clave de todo lo que le espera.",
+      "act": "Act I",
+      "chapter_hint": "1-2"
+    },
+    {
+      "number": 3,
+      "name": "Set-Up",
+      "description": "Renata recorre la casa en ruinas donde creció: el altar de Día de Muertos todavía montado con la foto de Lucía, ropa de su madre intacta, y un olor a tierra húmeda que parece brotar de las paredes. Conocemos su vida en la ciudad — un departamento estéril, un trabajo burocrático, ninguna relación profunda — y su plan de enterrar a la madre, vender la propiedad y desaparecer en tres días. Percibe detalles inquietantes — marcas de uñas en el marco de la puerta del sótano, un espejo cubierto con un rebozo negro, la temperatura que baja de golpe en el cuarto de Lucía — pero se obliga a ignorarlos, fiel a su patrón de dudar de sus propios instintos.",
+      "act": "Act I",
+      "chapter_hint": "2-3"
+    },
+    {
+      "number": 4,
+      "name": "Catalyst",
+      "description": "Durante la primera noche en la casa, Renata despierta con el sonido de alguien raspando tierra debajo del piso. Baja al sótano y encuentra un nicho recién abierto en el muro de adobe, dentro del cual hay una caja de hojalata con un cuaderno escrito a mano por su abuelo Evaristo, junto con un mechón de cabello trenzado que reconoce como el de Lucía. La revelación de que su abuelo — muerto cuando ella tenía dieciocho años — tenía algo que ver con la desaparición de su hermana la sacude hasta los huesos.",
+      "act": "Act I",
+      "chapter_hint": "3-4"
+    },
+    {
+      "number": 5,
+      "name": "Debate",
+      "description": "Renata debate consigo misma: puede quemar el cuaderno, enterrar a su madre y huir como hace quince años, o puede leerlo y enfrentar lo que significa. Intenta llamar a la policía del municipio pero la línea está muerta; busca a Doña Amparo, quien le dice que nadie en el pueblo hablará de los Solís ni de lo que pasa en esa casa. Renata empieza a leer el cuaderno y encuentra referencias a un pacto, a 'la cosa debajo de la capilla' y a una lista de nombres de mujeres de la familia que abarcan tres generaciones, cada una con una fecha de desaparición.",
+      "act": "Act I",
+      "chapter_hint": "4-5"
+    },
+    {
+      "number": 6,
+      "name": "Break into Two",
+      "description": "Renata decide quedarse más allá de los tres días para investigar la verdad sobre Lucía, impulsada por la lista de nombres y la certeza visceral de que el mechón de cabello es auténtico. Cruza el umbral literal y simbólico cuando baja a la capilla familiar semiderruida detrás de la casa y descubre, bajo una losa suelta, un altar subterráneo con ofrendas de sangre seca y huesos pequeños. Ya no puede fingir que esto es solo un pueblo viejo con supersticiones: algo real y monstruoso operó aquí, y ella lleva su apellido.",
+      "act": "Act I",
+      "chapter_hint": "5-6"
+    },
+    {
+      "number": 7,
+      "name": "B Story",
+      "description": "Renata encuentra a Tomás, un maestro rural que regresó al pueblo hace pocos años para cuidar a su padre enfermo y que fue amigo de infancia de Lucía. Tomás representa la posibilidad de confiar en otro ser humano: él cree lo que Renata percibe, no la cuestiona, y le ofrece ayuda práctica — acceso al archivo parroquial, mapas antiguos del pueblo. Su relación no es romántica sino un espejo: ambos cargan con la culpa de no haber protegido a alguien, y su vínculo encarna el tema de que la verdad enterrada solo sale a la luz cuando alguien más te escucha.",
+      "act": "Act II",
+      "chapter_hint": "6-7"
+    },
+    {
+      "number": 8,
+      "name": "Fun and Games",
+      "description": "Renata investiga con la determinación metódica que la define: descifra el cuaderno de Evaristo, recorre las ruinas de la capilla, entrevista a los pocos ancianos que quedan y que sueltan verdades a medias entre tragos de mezcal. Cada descubrimiento trae una manifestación sobrenatural más intensa — la niebla entra a la casa y deja huellas húmedas de pies descalzos, el espejo cubierto muestra reflejos que no corresponden, la voz susurrada de Evaristo repite 'La tierra pide lo suyo' desde las paredes. Renata siente el peligro antes que nadie — huele la tierra podrida, nota cuándo el aire cambia — pero sigue buscando la confirmación de Tomás o de los registros antes de actuar, perdiendo tiempo mientras la presencia se fortalece.",
+      "act": "Act II",
+      "chapter_hint": "7-10"
+    },
+    {
+      "number": 9,
+      "name": "Midpoint",
+      "description": "Renata descubre la verdad central: Lucía no desapareció por un accidente ni por un desconocido. El cuaderno de Evaristo, cruzado con el registro parroquial, revela que él mismo entregó a Lucía a la entidad bajo la capilla la noche de Día de Muertos, cumpliendo el pacto ancestral que exige una mujer de la sangre cada generación. Es un falso triunfo — Renata por fin sabe qué pasó — pero también una estaca de realidad: su abuelo, el hombre que la sentaba en sus rodillas y le contaba cuentos, sacrificó a su hermana. Y la madre de Renata lo supo y calló, eligiendo el silencio sobre la justicia. Las stakes se elevan porque el cuaderno indica que si el pacto no se cumple con esta generación, la entidad reclamará a todas las mujeres Solís que quedan — y Renata es la única.",
+      "act": "Act II",
+      "chapter_hint": "10-11"
+    },
+    {
+      "number": 10,
+      "name": "Bad Guys Close In",
+      "description": "La presencia de Evaristo abandona la sutileza: ya no es un susurro sino una aparición que se manifiesta dentro de la casa, con la ternura envenenada de un abuelo que insiste en que Renata acepte el pacto como un acto de amor por la familia y el pueblo. Tomás es atacado por la entidad — lo encuentran semiconsciente junto al río con marcas de dedos en la garganta y tierra negra en la boca — y los pocos aliados del pueblo se retiran aterrorizados. Renata empieza a dudar de sí misma: quizás su abuelo tiene razón, quizás ella no puede romper algo que lleva tres generaciones funcionando, quizás debería simplemente huir otra vez. Su flaw se intensifica — percibe exactamente lo que debe hacer pero busca desesperadamente que alguien se lo confirme, y ya no queda nadie.",
+      "act": "Act II",
+      "chapter_hint": "11-13"
+    },
+    {
+      "number": 11,
+      "name": "All Is Lost",
+      "description": "Evaristo invoca el recuerdo de Lucía como aparición — una niña de catorce años con tierra en el cabello y los ojos vacíos — y la usa para suplicarle a Renata que acepte el pacto, diciendo que si no lo hace, Lucía nunca descansará. La visión de su hermana le rompe la última defensa emocional. Renata intenta quemar el cuaderno y el altar subterráneo, pero la entidad apaga el fuego y la casa se sacude. Un whiff of death: Renata encuentra entre las pertenencias de su madre una carta nunca enviada donde le confiesa que ella fue la siguiente en la lista antes de que Lucía naciera — su madre sobrevivió solo porque dio a luz a otra niña. La culpa que Renata cargó quince años se multiplica: su madre no la culpaba por no salvar a Lucía, la culpaba por haber nacido primero y haber desplazado el sacrificio hacia la hermana menor.",
+      "act": "Act II",
+      "chapter_hint": "13-14"
+    },
+    {
+      "number": 12,
+      "name": "Dark Night of Soul",
+      "description": "Renata se encierra en el cuarto de Lucía y se desmorona. Reza fragmentos de oraciones rotas, incapaz de completar ninguna, y por primera vez en quince años llora por su hermana no como un misterio por resolver sino como una niña que fue asesinada por su propia sangre. Se enfrenta a la mentira central de su vida: no es que nadie la escuche, es que ella misma dejó de escucharse. Aquella noche de Día de Muertos, ella supo — lo sintió en el cuerpo — que algo estaba mal, y en lugar de actuar esperó el permiso de su madre. Esa es la verdad que enterró.",
+      "act": "Act II",
+      "chapter_hint": "14-15"
+    },
+    {
+      "number": 13,
+      "name": "Break into Three",
+      "description": "Al amanecer, Renata encuentra una última anotación en el cuaderno que había pasado por alto: el pacto no se sella con sangre sino con consentimiento — cada mujer Solís fue entregada por alguien de su propia familia que dijo 'sí' en su nombre. Nadie rompe la cadena porque todos esperan que otro lo haga. Renata comprende que el antídoto es exactamente lo que su flaw le impide: actuar sola, sin permiso, confiando en su propio juicio. Se levanta, se lava la cara con agua del pozo, y baja a la capilla con el cuaderno, la carta de su madre y el mechón de cabello de Lucía. No le pide a nadie que la acompañe.",
+      "act": "Act III",
+      "chapter_hint": "15-16"
+    },
+    {
+      "number": 14,
+      "name": "Finale",
+      "description": "En el altar subterráneo de la capilla, Renata confronta a Evaristo y a la entidad que habita debajo del pueblo. Evaristo despliega todo su arsenal emocional — le habla con la voz tierna de abuelo, invoca a Lucía, le muestra visiones del pueblo destruido si el pacto se rompe, le ofrece paz a cambio de su rendición. Renata, por primera vez, no busca confirmación: dice en voz alta lo que siempre supo, nombra el crimen — 'Tú la mataste, y mi madre te dejó' — y rompe el consentimiento generacional pronunciando su negativa sin dudar: 'No. Ni por mí ni por ninguna.' La entidad ruge, la tierra tiembla, la capilla comienza a hundirse. Evaristo se desmorona — no con furia sino con un terror patético, porque sin el pacto no tiene identidad, no es protector ni patriarca sino un hombre que asesinó a su propia nieta por miedo a la impotencia. La tierra se lo traga junto con la cosa debajo. Tomás, malherido, llega a tiempo para ayudar a Renata a salir de la capilla antes de que colapse. Lucía aparece una última vez — no como la aparición manipulada por Evaristo, sino como sí misma, una niña que mira a su hermana mayor con algo parecido a la paz — y se disuelve con la niebla del amanecer.",
+      "act": "Act III",
+      "chapter_hint": "16-18"
+    },
+    {
+      "number": 15,
+      "name": "Final Image",
+      "description": "Renata está de pie frente a la casa familiar al amanecer, cubierta de tierra y polvo de adobe. No vende la casa; decide quedarse unos días más para enterrar a su madre junto a la tumba simbólica que cava para Lucía en el panteón del pueblo, completando por fin la oración que nunca pudo terminar. La niebla sube del río como siempre, pero esta vez no trae susurros. Renata inhala, percibe el aire limpio, y por primera vez en quince años confía en lo que siente sin necesitar que nadie se lo confirme.",
+      "act": "Act III",
+      "chapter_hint": "18-19"
+    }
+  ],
+  "chapter_plan": [
+    {
+      "number": 1,
+      "title": "La casa que respira",
+      "beats_covered": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "pov_character": "Renata Solís Espinoza",
+      "location": "Carretera nocturna hacia San Ireneo de las Ánimas y la casa familiar de los Solís",
+      "summary": "Renata llega de noche a San Ireneo para enterrar a su madre, cruzando la niebla y la silueta fantasmal de una niña en el camino. Doña Amparo la recibe con una verdad envuelta en superstición mientras Renata recorre la casa en ruinas, catalogando los restos de una vida que abandonó hace quince años: el altar perpetuo de Lucía, el espejo cubierto, el frío antinatural. Esa primera noche, el sonido de uñas raspando tierra la lleva al sótano, donde descubre el cuaderno de Evaristo y el mechón de cabello de Lucía, desatando un debate feroz entre huir como siempre o leer lo que su abuelo dejó enterrado — un debate que se inclina cuando encuentra la lista de mujeres desaparecidas de su propia sangre.",
+      "emotional_goal": "El lector debe sentir la tensión entre la familiaridad doméstica y lo siniestro, una incomodidad creciente que se solidifica en horror visceral con el hallazgo del sótano, dejando la certeza de que Renata ya no puede marcharse aunque lo desee.",
+      "arc_type": "Oedipus",
+      "target_emotion_intensity": 0.68,
+      "target_emotions": {
+        "anticipation": 0.6,
+        "fear": 0.4,
+        "surprise": 0.5
+      },
+      "position_pct": 0.125,
+      "scenes": [
+        {
+          "scene_number": 1,
+          "beats_covered": [
+            "Opening Image",
+            "Theme Stated",
+            "Set-Up"
+          ],
+          "pov_character": "Renata Solís Espinoza",
+          "location": "Carretera nocturna a las afueras de San Ireneo de las Ánimas",
+          "brief_description": "Renata conduce sola de noche a través de una niebla que parece respirar, y en el haz de los faros aparece por un instante la silueta de una niña descalza parada en el centro de la carretera, que desaparece antes de que pueda frenar. Llega a la casa familiar y doña Amparo la recibe en el umbral con una vela, diciéndole que su madre no murió sola: 'la casa la fue llamando de vuelta, igual que te está llamando a usted.' Renata recorre las habitaciones en silencio, catalogando mentalmente el desorden y la ruina como si el inventario pudiera mantenerla a distancia emocional: el altar perpetuo de Lucía con flores frescas que nadie debió haber puesto, el espejo del pasillo cubierto con una sábana negra, y un frío antinatural que no cede aunque todas las ventanas estén cerradas.",
+          "emotional_goal": "El lector debe sentir la tensión entre lo doméstico conocido y lo siniestro incrustado en cada detalle, una incomodidad que crece como presión en el pecho: el reconocimiento de un lugar familiar que ya no es seguro.",
+          "target_emotions": {
+            "anticipation": 0.6,
+            "fear": 0.4,
+            "surprise": 0.5
+          },
+          "sis_estimate": 32.4,
+          "word_count_target": 1150,
+          "narrative_mode": "Summary",
+          "approved": false
+        },
+        {
+          "scene_number": 2,
+          "beats_covered": [
+            "Catalyst",
+            "Debate"
+          ],
+          "pov_character": "Renata Solís Espinoza",
+          "location": "Sótano de la casa familiar de los Solís",
+          "brief_description": "En mitad de la noche, el sonido inconfundible de uñas raspando tierra sube desde el piso hasta los pies de Renata, obligándola a bajar al sótano donde encuentra, medio enterrado bajo una tabla suelta, el cuaderno de bitácora de su abuelo Evaristo junto a un mechón de cabello atado con un hilo rojo que reconoce como el de Lucía. El debate es inmediato y feroz: cada instinto le ordena subir las escaleras, meter las llaves en el coche y no volver jamás, exactamente como hizo a los dieciséis años. Pero en la última página del cuaderno hay una lista de nombres escritos con letra temblorosa, todos con su apellido Solís, todos mujeres, todos tachados con una sola línea — y el último nombre de la lista es el suyo.",
+          "emotional_goal": "El lector debe experimentar el momento exacto en que la incomodidad se solidifica en horror visceral, seguido de la certeza angustiante de que Renata ya no puede elegir marcharse: la historia la eligió a ella antes de que ella pudiera elegir nada.",
+          "target_emotions": {
+            "anticipation": 0.6,
+            "fear": 0.4,
+            "surprise": 0.5
+          },
+          "sis_estimate": 44.7,
+          "word_count_target": 1150,
+          "narrative_mode": "Summary",
+          "approved": false
+        }
+      ],
+      "scene_interest_scores": [
+        32.4,
+        44.7
+      ],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 2,
+      "title": "Lo que la tierra pide",
+      "beats_covered": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "pov_character": "Renata Solís Espinoza",
+      "location": "Capilla semiderruida de los Solís, pueblo de San Ireneo, archivo parroquial y ruinas circundantes",
+      "summary": "Renata cruza el umbral al descubrir el altar subterráneo con huesos y ofrendas de sangre bajo la capilla familiar, y decide quedarse para investigar. Encuentra en Tomás — maestro rural y antiguo amigo de Lucía — un aliado que no la cuestiona y le da acceso al archivo parroquial. Juntos descifran el cuaderno de Evaristo mientras las manifestaciones sobrenaturales se intensifican: huellas húmedas en la niebla, reflejos imposibles, la voz del abuelo muerto susurrando desde las paredes. La investigación culmina en la verdad central que Renata buscaba y temía: Evaristo entregó personalmente a Lucía a la entidad bajo la capilla la noche de Día de Muertos, cumpliendo un pacto generacional, y su madre lo supo siempre y eligió callar.",
+      "emotional_goal": "El lector debe experimentar la seducción de la investigación — el placer oscuro de cada pieza que encaja — hasta que la revelación del midpoint lo golpee con la náusea de lo íntimo convertido en monstruoso: el abuelo amoroso como verdugo, la madre como cómplice silenciosa.",
+      "arc_type": "Oedipus",
+      "target_emotion_intensity": 0.45,
+      "target_emotions": {
+        "anticipation": 0.75,
+        "fear": 0.6,
+        "disgust": 0.35
+      },
+      "position_pct": 0.375,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 3,
+      "title": "La oración que nadie termina",
+      "beats_covered": [
+        10,
+        11,
+        12
+      ],
+      "pov_character": "Renata Solís Espinoza",
+      "location": "Casa familiar de los Solís, río de San Ireneo y cuarto de Lucía",
+      "summary": "Evaristo abandona la sutileza y se manifiesta como aparición dentro de la casa, usando ternura patriarcal envenenada para convencer a Renata de que acepte el pacto como acto de amor. Tomás es atacado junto al río — tierra negra en la boca, marcas de dedos en la garganta — y los últimos aliados del pueblo huyen. Evaristo invoca a Lucía como aparición manipulada para suplicarle a Renata que se rinda, y entre las pertenencias de su madre Renata encuentra la carta que revela la verdad más devastadora: ella fue la primera en la lista del sacrificio, y Lucía murió solo porque nació después. Destruida, Renata se encierra en el cuarto de Lucía y por primera vez llora a su hermana no como misterio sino como víctima, enfrentando la mentira que sostuvo su vida: no es que nadie la escuchara, es que ella dejó de escucharse a sí misma.",
+      "emotional_goal": "El lector debe sentir el cerco cerrándose — la asfixia de la soledad absoluta, la destrucción de cada defensa emocional — hasta llegar al fondo con Renata, compartiendo el desgarro de una culpa que finalmente se mira de frente y se reconoce como la verdad enterrada.",
+      "arc_type": "Oedipus",
+      "target_emotion_intensity": 0.68,
+      "target_emotions": {
+        "fear": 0.75,
+        "anticipation": 0.7,
+        "disgust": 0.5,
+        "surprise": 0.6
+      },
+      "position_pct": 0.625,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    },
+    {
+      "number": 4,
+      "title": "Exhumada",
+      "beats_covered": [
+        13,
+        14,
+        15
+      ],
+      "pov_character": "Renata Solís Espinoza",
+      "location": "Capilla subterránea de los Solís, altar bajo la tierra y panteón de San Ireneo al amanecer",
+      "summary": "Al amanecer, Renata descubre la anotación final del cuaderno: el pacto no se sella con sangre sino con consentimiento, y la cadena persiste porque cada generación espera que otra la rompa. Armada con esa comprensión — y sin pedirle permiso a nadie — baja sola al altar subterráneo con el cuaderno, la carta de su madre y el mechón de Lucía. Confronta a Evaristo y a la entidad, nombra el crimen en voz alta y pronuncia su negativa sin dudar, rompiendo el consentimiento generacional. Evaristo se desmorona en terror patético al perder el pacto que le daba identidad, y la tierra lo traga junto con la cosa a la que sirvió. Tomás la ayuda a salir antes de que la capilla colapse. Lucía aparece una última vez como ella misma — en paz — y se disuelve con la niebla. Renata entierra a su madre junto a una tumba simbólica para Lucía, completa por fin la oración rota, y al sentir el aire limpio del amanecer confía en lo que percibe sin necesitar que nadie se lo confirme.",
+      "emotional_goal": "El lector debe sentir la catarsis del acto solitario y valiente de Renata — no triunfalismo sino una liberación dolorosa y limpia, como exhalar después de quince años conteniendo el aliento — y terminar con una melancolía luminosa: los muertos por fin descansan porque alguien se atrevió a decir la verdad.",
+      "arc_type": "Oedipus",
+      "target_emotion_intensity": 0.74,
+      "target_emotions": {
+        "fear": 0.8,
+        "sadness": 0.5,
+        "surprise": 0.6,
+        "disgust": 0.45
+      },
+      "position_pct": 0.875,
+      "scenes": [],
+      "scene_interest_scores": [],
+      "draft_approved": false,
+      "word_count_target": 2000
+    }
+  ],
+  "emotional_arc_type": "Oedipus",
+  "suggested_character_breakdown": {},
+  "chapters": [
+    {
+      "number": 1,
+      "title": "La casa que respira",
+      "content": "# Chapter 1: La casa que respira\n\nEl cigarro se había consumido hasta el filtro y Renata no se había dado cuenta. La ceniza le cayó en el muslo, un punto de calor que se apagó enseguida contra la tela del pantalón, y fue eso —no la curva cerrada ni la niebla que desde hacía veinte minutos se espesaba contra el parabrisas— lo que la obligó a parpadear y ajustar las manos en el volante. En el asiento trasero, la urna funeraria vacía rodó contra la puerta con un golpe sordo. Renata la miró por el retrovisor. Blanca, limpia, absurda. Se la habían vendido en una funeraria de Guadalajara con la promesa de que alguien recogería el cuerpo. Nadie lo recogió.\n\nEncendió otro cigarro con el encendedor del tablero porque el suyo se había quedado sin gas en algún punto entre la autopista y el entronque de terracería. El humo le llenó la boca con un sabor que ya no registraba como placer sino como costumbre, algo que hacer con las manos para no pensar en lo que venía. La carretera descendía en espirales hacia la barranca y los faros del coche recortaban apenas tres metros de visibilidad: tierra suelta, piedras, la sombra húmeda de los encinos inclinándose sobre el camino como viejos que se asoman a un pozo.\n\nOlía a río. Eso fue lo primero que reconoció de San Ireneo antes de verlo: el olor a lodo y piedra mojada, a cosa viva pudriéndose despacio, que subía con la niebla desde el fondo de la barranca. Un olor que llevaba quince años archivado en algún pliegue de la memoria y que ahora le llenó la nariz con una exactitud brutal, como si el cuerpo recordara lo que la mente se había esforzado en borrar.\n\nLa vio en la curva antes del puente.\n\nUna silueta pequeña, inmóvil, plantada en el centro exacto del camino. El haz de los faros la recortó contra la niebla y Renata alcanzó a registrar los pies descalzos, el vestido claro, el cabello largo que la bruma movía como si estuviera debajo del agua. Pisó el freno con las dos piernas. El coche derrapó sobre la grava y se detuvo con un tirón seco que le clavó el cinturón en el pecho.\n\nSilencio.\n\nEl motor ronroneaba. Los faros iluminaban la curva vacía, la niebla arremolinándose donde un segundo antes había estado la niña. Renata no se movió. Tenía los nudillos blancos sobre el volante y el cigarro apretado entre los dientes, y un pensamiento se le formó antes de que pudiera detenerlo: *Lucía tenía ese vestido, el de las flores bordadas en el cuello, el que mamá le hizo para la ofrenda*.\n\nSe obligó a soltar el aire.\n\n—No había nadie —dijo en voz alta, y su propia voz le sonó ajena dentro del coche, demasiado pequeña para el silencio de afuera.\n\nCruzó el puente de piedra sin mirar hacia los lados, sin querer ver el río que sabía que corría abajo, negro y lento. En los labios le brotó el inicio de un avemaría —*Dios te salve, María, llena eres de gracia*— pero después de *gracia* las palabras se le deshicieron en la boca como tierra mojada y no supo cómo seguir. Nunca sabía cómo seguir.\n\n---\n\nDoña Amparo la esperaba en el umbral con una vela de sebo en la mano y el rebozo cruzado sobre el pecho como un escudo. Renata apagó el motor y se quedó un momento dentro del coche, mirando la casa a través del parabrisas. La fachada de adobe se veía más pequeña de lo que la recordaba, o quizá era que las grietas la habían encogido, tragándose pedazos de muro hacia adentro. La puerta estaba abierta y detrás de la llama de la vela el interior era una oscuridad compacta que parecía tener peso.\n\n—Llegó usted —dijo Doña Amparo cuando Renata bajó del coche. No era una pregunta.\n\n—¿Cómo está el cuerpo? —preguntó Renata, porque era lo práctico, lo que podía manejar.\n\n—Está. No se ha ido todavía.\n\nRenata no supo si hablaba del cadáver o de otra cosa. Doña Amparo la estudió con ojos chicos y firmes, como si le estuviera tomando medidas para un ataúd, y luego se hizo a un lado para dejarla pasar.\n\n—Su mamá no murió sola, si eso es lo que le preocupa. Yo la velé las últimas noches. Aunque, la mera verdad, la casa la fue llamando de vuelta mucho antes de que se enfermara. Igual que la está llamando a usted.\n\nRenata pasó junto a ella sin responder. El olor la golpeó en el zaguán: copal viejo, cera derretida, y debajo de todo eso una humedad espesa, orgánica, que no era el río sino algo más cercano, como si las paredes mismas sudaran tierra.\n\nEl cuerpo de su madre estaba en la recámara principal, tendido sobre la cama con las manos cruzadas sobre el pecho y un rosario enredado entre los dedos. Alguien —Doña Amparo, seguramente— le había puesto flores de cempasúchil alrededor de la cabeza y una veladora encendida en el buró. Renata se detuvo en la puerta. Su madre parecía más pequeña muerta que viva, como si la carne se hubiera ido retrayendo hacia los huesos en los años que Renata no la vio, y ahora solo quedara el esqueleto envuelto en piel de papel y un camisón blanco que alguna vez fue de su abuela.\n\n—Los muertos no descansan hasta que uno les da la verdad que se les debe, mija —dijo Doña Amparo desde atrás, con la misma naturalidad con que habría dicho que iba a llover—. Tu mamá lo sabía. Por eso nunca se fue.\n\nRenata apretó la mandíbula.\n\n—Mi mamá no se fue porque no tenía dinero para irse, Doña Amparo. Eso es todo.\n\nLa vieja no contestó. Dejó la vela sobre la cómoda, se persignó ante el cuerpo y salió arrastrando las chancletas por el pasillo de loseta rota. Renata la oyó cerrar la puerta de la calle con un cuidado excesivo, como si temiera despertar a alguien.\n\n---\n\nRecorrió la casa con los brazos cruzados sobre el pecho, haciendo inventario. Era un mecanismo viejo: si nombraba las cosas, las cosas eran solo cosas. Cocina de azulejo descascarado, fogón de leña con ceniza fría, una olla de barro con frijoles resecos que nadie tiró. Pasillo angosto con un espejo de marco dorado cubierto por un rebozo negro, tan tupido que ni un hilo de reflejo se escapaba. *Para que los muertos no se vean y se quieran quedar*, decía su abuela. Superstición. Solo eso.\n\nLa sala con el altar. Renata se detuvo ahí más de lo que debía.\n\nEl altar de Día de Muertos seguía montado. No el de este año: el de siempre. Tres niveles de cajas cubiertas con manteles bordados, veladoras consumidas hasta el vidrio, platos con comida petrificada, vasos de agua turbia. Y en el centro, la foto de Lucía a los trece años, con el cabello trenzado y esa sonrisa desigual que se le cargaba hacia la izquierda, la sonrisa que Renata veía cada vez que cerraba los ojos aunque jurara que la había olvidado. Junto a la foto, un vaso de agua fresca. No turbia: fresca. Y flores de cempasúchil que no estaban secas.\n\n*¿Quién las puso?*, pensó, y enseguida se respondió: *Doña Amparo. Quién más*. Pero las flores no tenían el tono anaranjado quemado de las que se compraban en el mercado del municipio. Eran de un amarillo vivo, casi fluorescente, como si las hubieran cortado esa misma tarde de una planta que no debería estar floreciendo en enero.\n\nSe forzó a seguir caminando.\n\nEl cuarto de Lucía estaba al fondo del pasillo, con la puerta entreabierta. Renata la empujó con la punta de los dedos y el frío la golpeó como si hubiera abierto una ventana en pleno invierno. Un frío seco, mineral, que no tenía explicación porque la ventana del cuarto estaba cerrada y la noche afuera era húmeda, no helada. La cama de Lucía seguía tendida con la misma colcha de cuadros. Sus zapatos de escuela, alineados junto al ropero. Un suéter colgado del respaldo de la silla como si alguien fuera a ponérselo mañana.\n\n*¿No sienten cómo cambió el aire?*\n\nSe lo habría preguntado a cualquiera que estuviera con ella, pero no había nadie, y de todas formas nadie le habría hecho caso. Nunca le hacían caso. Cerró la puerta del cuarto de Lucía con un movimiento brusco y caminó de regreso hacia la recámara de su madre para sacar las sábanas del ropero y hacerse una cama en el sofá de la sala. No iba a dormir con un cadáver y no iba a dormir en el cuarto de su hermana.\n\nTres días. Enterrar a su madre, firmar los papeles de la propiedad, poner la casa en manos de quien la quisiera. Su departamento en Guadalajara la esperaba: dos cuartos sin fotos en las paredes, un trabajo de captura de datos en una oficina municipal, una vida construida precisamente para no tener nada que perder.\n\nPasó junto a la puerta del sótano sin detenerse. Pero algo le jaló la mirada hacia abajo: marcas en el marco de madera, a la altura de la cintura. Cuatro surcos paralelos, profundos, como si alguien hubiera arañado la madera con las uñas desnudas. Eran recientes. La madera expuesta era clara, sin el barniz oscurecido del resto del marco.\n\n*No mires. No preguntes. Tres días.*\n\nSe acostó en el sofá sin quitarse los zapatos. Apagó la veladora de la sala y la oscuridad se la tragó entera.\n\n---\n\nEl sonido empezó a las tres de la mañana.\n\nRenata no lo supo por un reloj sino por la calidad del silencio que lo rodeaba: un silencio de mitad de noche, sin grillos, sin viento, tan completo que el raspar se oía con una claridad obscena.\n\n*Tsss. Tsss. Tsss.*\n\nRítmico. Paciente. Como uñas contra tierra compacta, viniendo de abajo, de debajo del piso de loseta donde estaba acostada. Renata abrió los ojos y se quedó inmóvil, con el corazón latiendo en la garganta. Escuchó. El sonido se detuvo. Contó hasta veinte. Nada. Se estaba diciendo que había sido un animal —una rata, un tlacuache— cuando el raspar volvió, más cerca ahora, justo debajo de ella, como si algo se abriera camino hacia arriba a través de la tierra con una lentitud deliberada.\n\nSe sentó en el sofá. Los pies descalzos tocaron la loseta y estaba helada, tan helada que le dolieron los huesos de los tobillos. El raspar se detuvo otra vez. Renata se quedó ahí sentada en la oscuridad, con los pies en el piso y las manos agarrándose las rodillas, esperando. Esperando que alguien le dijera qué hacer. Esperando una confirmación que no iba a llegar.\n\nEl sonido regresó debajo de la puerta del sótano.\n\nSe levantó. Tomó la vela que Doña Amparo había dejado y la encendió con dedos torpes. La llama le mostró la sala en fragmentos: el altar, la foto de Lucía, la sábana negra sobre el espejo. Caminó hasta la puerta del sótano y pasó los dedos por las marcas de uñas en el marco. Frías. La madera estaba fría como la loseta, como el cuarto de Lucía, como si todo en esta casa irradiara un frío que venía del mismo lugar de abajo.\n\nAbrió la puerta. Las escaleras descendían hacia una oscuridad que la vela apenas mordía. Olía a tierra removida, fresca, el olor de una tumba recién cavada. Renata bajó un escalón, luego otro. Cada peldaño crujía bajo su peso con un sonido que parecía una respuesta al raspar que ahora había cesado por completo, como si lo que estuviera abajo la hubiera oído venir y estuviera esperando.\n\nEl sótano era pequeño: muros de adobe, piso de tierra apisonada, unas tablas podridas apiladas contra la pared del fondo. Pero en la pared derecha había un nicho abierto, un hueco del tamaño de una cabeza humana donde el adobe se había desmoronado —o había sido arrancado— dejando ver la tierra oscura de atrás. Y dentro del nicho, medio enterrada todavía, una caja de hojalata pintada con flores descoloridas.\n\nRenata la sacó con las dos manos. Pesaba poco. La abrió.\n\nDentro había un cuaderno de pasta dura, del tipo que se usaba en las escuelas rurales hace medio siglo, con las hojas amarillentas y una caligrafía apretada que reconoció antes de leer una sola palabra. La letra de su abuelo Evaristo. La misma letra con que le escribía su nombre en las portadas de los cuadernos escolares, con que le dejaba recados en la mesa de la cocina: *Mija, fui al cerro, vuelvo para la merienda*. Debajo del cuaderno, envuelto en un trozo de manta, había un mechón de cabello castaño atado con un hilo rojo.\n\nLa trenza de Lucía. Renata la reconoció por el hilo. Su hermana usaba hilo rojo porque decía que los listones se le resbalaban del pelo. Era una cosa estúpida de recordar, una cosa mínima, pero la recordó con una precisión que le cortó la respiración y tuvo que sentarse en el piso de tierra con la caja en el regazo y la trenza entre los dedos, y por un momento no fue una mujer de treinta y cuatro años en un sótano sino una niña de diecinueve parada en la puerta de la casa mirando la noche donde su hermana había desaparecido, sabiendo —*sabiéndolo*— que algo estaba mal, que el aire olía raro, que no debió dejarla salir, y sin hacer nada, sin decir nada, esperando que alguien más lo dijera primero.\n\nSu abuelo había muerto cuando Renata tenía dieciocho años. Un año antes de que Lucía desapareciera.\n\nSu abuelo llevaba un año muerto cuando Lucía desapareció.\n\nY sin embargo, su abuelo tenía el cabello de Lucía en una caja enterrada en un muro.\n\nSubió las escaleras temblando. Dejó la caja sobre la mesa de la cocina y se quedó de pie mirándola como si fuera una criatura que pudiera morderle. Pensó en el coche estacionado afuera. En la urna vacía. En la carretera que subía serpenteando hacia la realidad, hacia su departamento sin fotos, hacia su vida sin peso. Podía meter la caja en la cajuela, o mejor aún, dejarla donde estaba. Podía salir ahora mismo. Enterrar a su madre mañana por teléfono, delegar, pagar, desaparecer. Como hizo a los diecinueve. Como siempre hacía.\n\nMarcó el número de la policía municipal en su celular. Sin señal. Intentó tres veces. La pantalla le devolvía el mismo mensaje cada vez, burlándose de ella con su luz azul en la cocina a oscuras. Salió al patio y cruzó la calle hacia la casa de Doña Amparo. Tocó la puerta con los nudillos hasta que le dolieron.\n\nLa vieja abrió con los ojos hinchados de sueño y el rebozo apretado al pecho.\n\n—Encontré algo en el sótano —dijo Renata, y oyó su propia voz quebrarse—. Algo de mi abuelo. Algo de Lucía. Necesito que alguien me diga...\n\n—Nadie en este pueblo le va a hablar de los Solís, mija —la cortó Doña Amparo, y por primera vez su voz no era amable sino cansada, gastada, como una piedra de río—. Ni de lo que pasa en esa casa. Ni de día ni de noche. Y menos de noche.\n\n—¿Por qué?\n\n—Porque hay cosas que si uno las dice en voz alta, cruzan el río. Vuélvase a dormir. O mejor váyase, si puede.\n\nLa puerta se cerró. Renata se quedó en la calle de tierra, descalza, con la niebla subiéndole por los tobillos como agua. El pueblo entero estaba oscuro. Ni una luz, ni un perro, ni un sonido. Como si San Ireneo de las Ánimas hubiera dejado de respirar y esperara, con los ojos cerrados, a que ella decidiera.\n\nVolvió a la cocina. Se sentó frente a la caja de hojalata. Abrió el cuaderno.\n\nLa letra de su abuelo llenaba las páginas con una caligrafía que empezaba ordenada y se iba descomponiendo hoja tras hoja, como si la mano que escribía fuera perdiendo control o cordura. En las primeras páginas, fechadas treinta años atrás, hablaba de la capilla familiar, de una losa que había levantado, de *lo que encontré debajo y lo que me pidió*. Mencionaba un pacto. Usaba la palabra *pacto* sin explicarla, como si el lector —¿quién era el lector?— ya supiera de qué se trataba. Más adelante: *La cosa debajo de la capilla no duerme. Come. Y lo que come es de nuestra sangre. Siempre mujeres. Siempre de nosotros.*\n\nA la mitad del cuaderno, una lista.\n\nNombres escritos en columna, con fechas al lado. Todos con el apellido Solís. Todos nombres de mujer.\n\n*Fernanda Solís Reyes — 1931*\n*Esperanza Solís Bravo — 1958*\n*Catalina Solís Amaya — 1987*\n\nCada nombre tachado con una sola línea de tinta negra, firme, definitiva. Y al final de la lista, sin tachar, con la misma caligrafía temblorosa de las últimas páginas:\n\n*Renata Solís Espinoza*\n\nSin fecha.\n\nRenata cerró el cuaderno. Lo abrió otra vez. Releyó su nombre. Lo tocó con la yema del dedo, como si pudiera borrarlo. La tinta estaba seca, vieja, incrustada en el papel. Su abuelo había escrito su nombre ahí años antes de morir. Antes de que Lucía naciera. Antes de que Lucía desapareciera.\n\nAfuera, la niebla cubrió la ventana de la cocina con una densidad que apagó la poca luz de la luna. Renata se quedó sentada con el cuaderno abierto en la última página, la trenza de Lucía junto a su mano, y el silencio del pueblo presionando contra las paredes como si la casa entera contuviera el aliento.\n\nNo iba a poder irse en tres días.\n\nNo iba a poder irse."
+    }
+  ],
+  "messages": [
+    {
+      "role": "user",
+      "content": "Write Chapter 1: \"La casa que respira\" (approved after quality gate)"
+    },
+    {
+      "role": "assistant",
+      "content": "# Chapter 1: La casa que respira\n\nEl cigarro se había consumido hasta el filtro y Renata no se había dado cuenta. La ceniza le cayó en el muslo, un punto de calor que se apagó enseguida contra la tela del pantalón, y fue eso —no la curva cerrada ni la niebla que desde hacía veinte minutos se espesaba contra el parabrisas— lo que la obligó a parpadear y ajustar las manos en el volante. En el asiento trasero, la urna funeraria vacía rodó contra la puerta con un golpe sordo. Renata la miró por el retrovisor. Blanca, limpia, absurda. Se la habían vendido en una funeraria de Guadalajara con la promesa de que alguien recogería el cuerpo. Nadie lo recogió.\n\nEncendió otro cigarro con el encendedor del tablero porque el suyo se había quedado sin gas en algún punto entre la autopista y el entronque de terracería. El humo le llenó la boca con un sabor que ya no registraba como placer sino como costumbre, algo que hacer con las manos para no pensar en lo que venía. La carretera descendía en espirales hacia la barranca y los faros del coche recortaban apenas tres metros de visibilidad: tierra suelta, piedras, la sombra húmeda de los encinos inclinándose sobre el camino como viejos que se asoman a un pozo.\n\nOlía a río. Eso fue lo primero que reconoció de San Ireneo antes de verlo: el olor a lodo y piedra mojada, a cosa viva pudriéndose despacio, que subía con la niebla desde el fondo de la barranca. Un olor que llevaba quince años archivado en algún pliegue de la memoria y que ahora le llenó la nariz con una exactitud brutal, como si el cuerpo recordara lo que la mente se había esforzado en borrar.\n\nLa vio en la curva antes del puente.\n\nUna silueta pequeña, inmóvil, plantada en el centro exacto del camino. El haz de los faros la recortó contra la niebla y Renata alcanzó a registrar los pies descalzos, el vestido claro, el cabello largo que la bruma movía como si estuviera debajo del agua. Pisó el freno con las dos piernas. El coche derrapó sobre la grava y se detuvo con un tirón seco que le clavó el cinturón en el pecho.\n\nSilencio.\n\nEl motor ronroneaba. Los faros iluminaban la curva vacía, la niebla arremolinándose donde un segundo antes había estado la niña. Renata no se movió. Tenía los nudillos blancos sobre el volante y el cigarro apretado entre los dientes, y un pensamiento se le formó antes de que pudiera detenerlo: *Lucía tenía ese vestido, el de las flores bordadas en el cuello, el que mamá le hizo para la ofrenda*.\n\nSe obligó a soltar el aire.\n\n—No había nadie —dijo en voz alta, y su propia voz le sonó ajena dentro del coche, demasiado pequeña para el silencio de afuera.\n\nCruzó el puente de piedra sin mirar hacia los lados, sin querer ver el río que sabía que corría abajo, negro y lento. En los labios le brotó el inicio de un avemaría —*Dios te salve, María, llena eres de gracia*— pero después de *gracia* las palabras se le deshicieron en la boca como tierra mojada y no supo cómo seguir. Nunca sabía cómo seguir.\n\n---\n\nDoña Amparo la esperaba en el umbral con una vela de sebo en la mano y el rebozo cruzado sobre el pecho como un escudo. Renata apagó el motor y se quedó un momento dentro del coche, mirando la casa a través del parabrisas. La fachada de adobe se veía más pequeña de lo que la recordaba, o quizá era que las grietas la habían encogido, tragándose pedazos de muro hacia adentro. La puerta estaba abierta y detrás de la llama de la vela el interior era una oscuridad compacta que parecía tener peso.\n\n—Llegó usted —dijo Doña Amparo cuando Renata bajó del coche. No era una pregunta.\n\n—¿Cómo está el cuerpo? —preguntó Renata, porque era lo práctico, lo que podía manejar.\n\n—Está. No se ha ido todavía.\n\nRenata no supo si hablaba del cadáver o de otra cosa. Doña Amparo la estudió con ojos chicos y firmes, como si le estuviera tomando medidas para un ataúd, y luego se hizo a un lado para dejarla pasar.\n\n—Su mamá no murió sola, si eso es lo que le preocupa. Yo la velé las últimas noches. Aunque, la mera verdad, la casa la fue llamando de vuelta mucho antes de que se enfermara. Igual que la está llamando a usted.\n\nRenata pasó junto a ella sin responder. El olor la golpeó en el zaguán: copal viejo, cera derretida, y debajo de todo eso una humedad espesa, orgánica, que no era el río sino algo más cercano, como si las paredes mismas sudaran tierra.\n\nEl cuerpo de su madre estaba en la recámara principal, tendido sobre la cama con las manos cruzadas sobre el pecho y un rosario enredado entre los dedos. Alguien —Doña Amparo, seguramente— le había puesto flores de cempasúchil alrededor de la cabeza y una veladora encendida en el buró. Renata se detuvo en la puerta. Su madre parecía más pequeña muerta que viva, como si la carne se hubiera ido retrayendo hacia los huesos en los años que Renata no la vio, y ahora solo quedara el esqueleto envuelto en piel de papel y un camisón blanco que alguna vez fue de su abuela.\n\n—Los muertos no descansan hasta que uno les da la verdad que se les debe, mija —dijo Doña Amparo desde atrás, con la misma naturalidad con que habría dicho que iba a llover—. Tu mamá lo sabía. Por eso nunca se fue.\n\nRenata apretó la mandíbula.\n\n—Mi mamá no se fue porque no tenía dinero para irse, Doña Amparo. Eso es todo.\n\nLa vieja no contestó. Dejó la vela sobre la cómoda, se persignó ante el cuerpo y salió arrastrando las chancletas por el pasillo de loseta rota. Renata la oyó cerrar la puerta de la calle con un cuidado excesivo, como si temiera despertar a alguien.\n\n---\n\nRecorrió la casa con los brazos cruzados sobre el pecho, haciendo inventario. Era un mecanismo viejo: si nombraba las cosas, las cosas eran solo cosas. Cocina de azulejo descascarado, fogón de leña con ceniza fría, una olla de barro con frijoles resecos que nadie tiró. Pasillo angosto con un espejo de marco dorado cubierto por un rebozo negro, tan tupido que ni un hilo de reflejo se escapaba. *Para que los muertos no se vean y se quieran quedar*, decía su abuela. Superstición. Solo eso.\n\nLa sala con el altar. Renata se detuvo ahí más de lo que debía.\n\nEl altar de Día de Muertos seguía montado. No el de este año: el de siempre. Tres niveles de cajas cubiertas con manteles bordados, veladoras consumidas hasta el vidrio, platos con comida petrificada, vasos de agua turbia. Y en el centro, la foto de Lucía a los trece años, con el cabello trenzado y esa sonrisa desigual que se le cargaba hacia la izquierda, la sonrisa que Renata veía cada vez que cerraba los ojos aunque jurara que la había olvidado. Junto a la foto, un vaso de agua fresca. No turbia: fresca. Y flores de cempasúchil que no estaban secas.\n\n*¿Quién las puso?*, pensó, y enseguida se respondió: *Doña Amparo. Quién más*. Pero las flores no tenían el tono anaranjado quemado de las que se compraban en el mercado del municipio. Eran de un amarillo vivo, casi fluorescente, como si las hubieran cortado esa misma tarde de una planta que no debería estar floreciendo en enero.\n\nSe forzó a seguir caminando.\n\nEl cuarto de Lucía estaba al fondo del pasillo, con la puerta entreabierta. Renata la empujó con la punta de los dedos y el frío la golpeó como si hubiera abierto una ventana en pleno invierno. Un frío seco, mineral, que no tenía explicación porque la ventana del cuarto estaba cerrada y la noche afuera era húmeda, no helada. La cama de Lucía seguía tendida con la misma colcha de cuadros. Sus zapatos de escuela, alineados junto al ropero. Un suéter colgado del respaldo de la silla como si alguien fuera a ponérselo mañana.\n\n*¿No sienten cómo cambió el aire?*\n\nSe lo habría preguntado a cualquiera que estuviera con ella, pero no había nadie, y de todas formas nadie le habría hecho caso. Nunca le hacían caso. Cerró la puerta del cuarto de Lucía con un movimiento brusco y caminó de regreso hacia la recámara de su madre para sacar las sábanas del ropero y hacerse una cama en el sofá de la sala. No iba a dormir con un cadáver y no iba a dormir en el cuarto de su hermana.\n\nTres días. Enterrar a su madre, firmar los papeles de la propiedad, poner la casa en manos de quien la quisiera. Su departamento en Guadalajara la esperaba: dos cuartos sin fotos en las paredes, un trabajo de captura de datos en una oficina municipal, una vida construida precisamente para no tener nada que perder.\n\nPasó junto a la puerta del sótano sin detenerse. Pero algo le jaló la mirada hacia abajo: marcas en el marco de madera, a la altura de la cintura. Cuatro surcos paralelos, profundos, como si alguien hubiera arañado la madera con las uñas desnudas. Eran recientes. La madera expuesta era clara, sin el barniz oscurecido del resto del marco.\n\n*No mires. No preguntes. Tres días.*\n\nSe acostó en el sofá sin quitarse los zapatos. Apagó la veladora de la sala y la oscuridad se la tragó entera.\n\n---\n\nEl sonido empezó a las tres de la mañana.\n\nRenata no lo supo por un reloj sino por la calidad del silencio que lo rodeaba: un silencio de mitad de noche, sin grillos, sin viento, tan completo que el raspar se oía con una claridad obscena.\n\n*Tsss. Tsss. Tsss.*\n\nRítmico. Paciente. Como uñas contra tierra compacta, viniendo de abajo, de debajo del piso de loseta donde estaba acostada. Renata abrió los ojos y se quedó inmóvil, con el corazón latiendo en la garganta. Escuchó. El sonido se detuvo. Contó hasta veinte. Nada. Se estaba diciendo que había sido un animal —una rata, un tlacuache— cuando el raspar volvió, más cerca ahora, justo debajo de ella, como si algo se abriera camino hacia arriba a través de la tierra con una lentitud deliberada.\n\nSe sentó en el sofá. Los pies descalzos tocaron la loseta y estaba helada, tan helada que le dolieron los huesos de los tobillos. El raspar se detuvo otra vez. Renata se quedó ahí sentada en la oscuridad, con los pies en el piso y las manos agarrándose las rodillas, esperando. Esperando que alguien le dijera qué hacer. Esperando una confirmación que no iba a llegar.\n\nEl sonido regresó debajo de la puerta del sótano.\n\nSe levantó. Tomó la vela que Doña Amparo había dejado y la encendió con dedos torpes. La llama le mostró la sala en fragmentos: el altar, la foto de Lucía, la sábana negra sobre el espejo. Caminó hasta la puerta del sótano y pasó los dedos por las marcas de uñas en el marco. Frías. La madera estaba fría como la loseta, como el cuarto de Lucía, como si todo en esta casa irradiara un frío que venía del mismo lugar de abajo.\n\nAbrió la puerta. Las escaleras descendían hacia una oscuridad que la vela apenas mordía. Olía a tierra removida, fresca, el olor de una tumba recién cavada. Renata bajó un escalón, luego otro. Cada peldaño crujía bajo su peso con un sonido que parecía una respuesta al raspar que ahora había cesado por completo, como si lo que estuviera abajo la hubiera oído venir y estuviera esperando.\n\nEl sótano era pequeño: muros de adobe, piso de tierra apisonada, unas tablas podridas apiladas contra la pared del fondo. Pero en la pared derecha había un nicho abierto, un hueco del tamaño de una cabeza humana donde el adobe se había desmoronado —o había sido arrancado— dejando ver la tierra oscura de atrás. Y dentro del nicho, medio enterrada todavía, una caja de hojalata pintada con flores descoloridas.\n\nRenata la sacó con las dos manos. Pesaba poco. La abrió.\n\nDentro había un cuaderno de pasta dura, del tipo que se usaba en las escuelas rurales hace medio siglo, con las hojas amarillentas y una caligrafía apretada que reconoció antes de leer una sola palabra. La letra de su abuelo Evaristo. La misma letra con que le escribía su nombre en las portadas de los cuadernos escolares, con que le dejaba recados en la mesa de la cocina: *Mija, fui al cerro, vuelvo para la merienda*. Debajo del cuaderno, envuelto en un trozo de manta, había un mechón de cabello castaño atado con un hilo rojo.\n\nLa trenza de Lucía. Renata la reconoció por el hilo. Su hermana usaba hilo rojo porque decía que los listones se le resbalaban del pelo. Era una cosa estúpida de recordar, una cosa mínima, pero la recordó con una precisión que le cortó la respiración y tuvo que sentarse en el piso de tierra con la caja en el regazo y la trenza entre los dedos, y por un momento no fue una mujer de treinta y cuatro años en un sótano sino una niña de diecinueve parada en la puerta de la casa mirando la noche donde su hermana había desaparecido, sabiendo —*sabiéndolo*— que algo estaba mal, que el aire olía raro, que no debió dejarla salir, y sin hacer nada, sin decir nada, esperando que alguien más lo dijera primero.\n\nSu abuelo había muerto cuando Renata tenía dieciocho años. Un año antes de que Lucía desapareciera.\n\nSu abuelo llevaba un año muerto cuando Lucía desapareció.\n\nY sin embargo, su abuelo tenía el cabello de Lucía en una caja enterrada en un muro.\n\nSubió las escaleras temblando. Dejó la caja sobre la mesa de la cocina y se quedó de pie mirándola como si fuera una criatura que pudiera morderle. Pensó en el coche estacionado afuera. En la urna vacía. En la carretera que subía serpenteando hacia la realidad, hacia su departamento sin fotos, hacia su vida sin peso. Podía meter la caja en la cajuela, o mejor aún, dejarla donde estaba. Podía salir ahora mismo. Enterrar a su madre mañana por teléfono, delegar, pagar, desaparecer. Como hizo a los diecinueve. Como siempre hacía.\n\nMarcó el número de la policía municipal en su celular. Sin señal. Intentó tres veces. La pantalla le devolvía el mismo mensaje cada vez, burlándose de ella con su luz azul en la cocina a oscuras. Salió al patio y cruzó la calle hacia la casa de Doña Amparo. Tocó la puerta con los nudillos hasta que le dolieron.\n\nLa vieja abrió con los ojos hinchados de sueño y el rebozo apretado al pecho.\n\n—Encontré algo en el sótano —dijo Renata, y oyó su propia voz quebrarse—. Algo de mi abuelo. Algo de Lucía. Necesito que alguien me diga...\n\n—Nadie en este pueblo le va a hablar de los Solís, mija —la cortó Doña Amparo, y por primera vez su voz no era amable sino cansada, gastada, como una piedra de río—. Ni de lo que pasa en esa casa. Ni de día ni de noche. Y menos de noche.\n\n—¿Por qué?\n\n—Porque hay cosas que si uno las dice en voz alta, cruzan el río. Vuélvase a dormir. O mejor váyase, si puede.\n\nLa puerta se cerró. Renata se quedó en la calle de tierra, descalza, con la niebla subiéndole por los tobillos como agua. El pueblo entero estaba oscuro. Ni una luz, ni un perro, ni un sonido. Como si San Ireneo de las Ánimas hubiera dejado de respirar y esperara, con los ojos cerrados, a que ella decidiera.\n\nVolvió a la cocina. Se sentó frente a la caja de hojalata. Abrió el cuaderno.\n\nLa letra de su abuelo llenaba las páginas con una caligrafía que empezaba ordenada y se iba descomponiendo hoja tras hoja, como si la mano que escribía fuera perdiendo control o cordura. En las primeras páginas, fechadas treinta años atrás, hablaba de la capilla familiar, de una losa que había levantado, de *lo que encontré debajo y lo que me pidió*. Mencionaba un pacto. Usaba la palabra *pacto* sin explicarla, como si el lector —¿quién era el lector?— ya supiera de qué se trataba. Más adelante: *La cosa debajo de la capilla no duerme. Come. Y lo que come es de nuestra sangre. Siempre mujeres. Siempre de nosotros.*\n\nA la mitad del cuaderno, una lista.\n\nNombres escritos en columna, con fechas al lado. Todos con el apellido Solís. Todos nombres de mujer.\n\n*Fernanda Solís Reyes — 1931*\n*Esperanza Solís Bravo — 1958*\n*Catalina Solís Amaya — 1987*\n\nCada nombre tachado con una sola línea de tinta negra, firme, definitiva. Y al final de la lista, sin tachar, con la misma caligrafía temblorosa de las últimas páginas:\n\n*Renata Solís Espinoza*\n\nSin fecha.\n\nRenata cerró el cuaderno. Lo abrió otra vez. Releyó su nombre. Lo tocó con la yema del dedo, como si pudiera borrarlo. La tinta estaba seca, vieja, incrustada en el papel. Su abuelo había escrito su nombre ahí años antes de morir. Antes de que Lucía naciera. Antes de que Lucía desapareciera.\n\nAfuera, la niebla cubrió la ventana de la cocina con una densidad que apagó la poca luz de la luna. Renata se quedó sentada con el cuaderno abierto en la última página, la trenza de Lucía junto a su mano, y el silencio del pueblo presionando contra las paredes como si la casa entera contuviera el aliento.\n\nNo iba a poder irse en tres días.\n\nNo iba a poder irse."
+    }
+  ],
+  "narrator_voice_id": "",
+  "narrator_voice_name": "",
+  "stage_complete": {
+    "language": true,
+    "premise": true,
+    "title": true,
+    "world": true,
+    "characters": true,
+    "beats": true,
+    "chapter_plan": true,
+    "scene_drafts": false
+  },
+  "created_at": "2026-06-25T11:41:41.131290",
+  "updated_at": "2026-06-25T11:49:55.986629"
+}

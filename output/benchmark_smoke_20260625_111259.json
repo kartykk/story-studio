@@ -1,0 +1,258 @@
+{
+  "phase": "smoke",
+  "timestamp": "2026-06-25T05:42:59.795245+00:00",
+  "results": [
+    {
+      "story_id": "test-crime-en",
+      "expected_genre": "crime",
+      "detected_genre": "crime",
+      "language": "English",
+      "premise": "A corrupt cop investigates a murder in Mumbai that leads to his own precinct.",
+      "title": "Complicit",
+      "logline": "A corrupt Mumbai cop investigating a brutal murder must expose his own precinct or become the next victim buried by its secrets.",
+      "arc_type": "Oedipus",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0007913750014267862,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 9.738468791001651,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 4.796206874998461,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 67.253058667,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 23.878284957998403,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 36.91395804199783,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 74.50924145799945,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 44.34729229199729,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 21.72881962500105,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 188.07189658399875,
+          "error": ""
+        }
+      ],
+      "total_seconds": 471.2,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 2207,
+      "excerpt": "# Chapter 1: Paper in a Dead Man's Throat\n\nThe tube light above the evidence room had been dying for eleven days. Avinash had counted. It stuttered now in a rhythm he had memorized — three pulses of sickly white, then a darkness that lasted exactly long enough for the afterimage to bloom green behin",
+      "quality": {
+        "total_score": 70.4,
+        "threshold": 68,
+        "passed": true,
+        "attempt": 1,
+        "axes": {
+          "emotional_resonance": 44.2,
+          "narrative_craft": 91.0,
+          "pacing": 71.9,
+          "character_auth": 86.0,
+          "genre_adherence": 71.0
+        },
+        "top_issues": [
+          "Average SIS=43.5 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=48 (<60) — build momentum going into the climax",
+          "Emotional peak too early — reserve intensity for later chapters",
+          "The investigative hook — the thing that will compel Avinash to pursue this case rather than bury it — is not yet established; the genre engine of crime fiction (a puzzle that demands solving) needs to ignite more clearly within this chapter or early in chapter two.",
+          "Pacing too flat (avg SIS=43, variance=36) — add variety"
+        ]
+      },
+      "sis": {
+        "avg": 43.5,
+        "scene_count": 4,
+        "curve_warnings": [
+          "Average SIS=43.5 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=48 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": true,
+        "issue": ""
+      },
+      "genre_violations": [],
+      "emotion": {
+        "dominant": "disgust",
+        "intensity": 0.5,
+        "consistency": 0.528
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 0,
+          "latin_chars": 10062,
+          "spanish_marker_chars": 0,
+          "primary": "latin"
+        }
+      }
+    },
+    {
+      "story_id": "test-romance-hi",
+      "expected_genre": "romance",
+      "detected_genre": "literary",
+      "language": "Hindi",
+      "premise": "दिल्ली में दो परिवारों के बीच प्रतिबंधित प्रेम कहानी — दुश्मनी से प्यार तक।",
+      "title": "विरासत",
+      "logline": "दिल्ली की दो दुश्मन परिवारों का वारिस आरव को अपने प्रेम और खानदान की इज़्ज़त में से एक को चुनना होगा — वरना दोनों को खो देगा।",
+      "arc_type": "Cinderella",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0016887909987417515,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 20.127559666998422,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 14.484959500001423,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 95.0483439999989,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 34.93279070800054,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 44.313528874998156,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 111.24252129099841,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 74.00147483299952,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 23.61806645800243,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 767.3340906659978,
+          "error": ""
+        }
+      ],
+      "total_seconds": 1185.1,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 2131,
+      "excerpt": "# Chapter 1: नफ़रत की विरासत\n\nफज्र की अज़ान जामा मस्जिद के मीनारों से उठी और पुरानी दिल्ली की नींद में पड़ी गलियों पर बिछ गई — जैसे कोई बूढ़ी माँ सोते बच्चे के माथे पर हाथ रखे, जानते हुए कि जगाना ज़रूरी है।\n\nआरव मल्होत्रा उस आवाज़ में आँखें नहीं खोलता था। उसकी आँखें तो खुली ही रहती थीं।\n\nवो ज़मीन पर",
+      "quality": {
+        "total_score": 60.0,
+        "threshold": 72,
+        "passed": false,
+        "attempt": 1,
+        "axes": {
+          "emotional_resonance": 23.1,
+          "narrative_craft": 85.0,
+          "pacing": 67.5,
+          "character_auth": 84.0,
+          "genre_adherence": 57.0
+        },
+        "top_issues": [
+          "Emotional intensity 90% vs arc target 53%; Chapter emotion drift — expected anticipation, got sadness",
+          "Average SIS=41.2 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=46 (<60) — build momentum going into the climax",
+          "Final chapter may be missing HEA — check for resolution of relationship.",
+          "Chapter ending lacks a hook — end with revelation, danger, or an unresolved question"
+        ]
+      },
+      "sis": {
+        "avg": 41.2,
+        "scene_count": 4,
+        "curve_warnings": [
+          "Average SIS=41.2 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=46 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": false,
+        "issue": "Chapter ending lacks a hook — end with revelation, danger, or an unresolved question"
+      },
+      "genre_violations": [
+        "Final chapter may be missing HEA — check for resolution of relationship."
+      ],
+      "emotion": {
+        "dominant": "sadness",
+        "intensity": 0.9,
+        "consistency": 0.387
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 7483,
+          "latin_chars": 7,
+          "spanish_marker_chars": 0,
+          "primary": "devanagari"
+        }
+      }
+    }
+  ]
+}

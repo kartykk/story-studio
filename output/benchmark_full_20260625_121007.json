@@ -1,0 +1,631 @@
+{
+  "phase": "full",
+  "timestamp": "2026-06-25T06:40:07.624687+00:00",
+  "results": [
+    {
+      "story_id": "bench-crime-en",
+      "expected_genre": "crime",
+      "detected_genre": "crime",
+      "language": "English",
+      "premise": "Mumbai noir: a detective uncovers corruption while hunting a serial killer.",
+      "title": "Immolation",
+      "logline": "A burned-out Mumbai detective hunting a ritualistic serial killer must expose the corrupt officials protecting him before becoming the next victim.",
+      "arc_type": "Man in Hole",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0001515420008217916,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 14.260736082997028,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 6.041806291999819,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 53.81208791699828,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 26.3896086249988,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 37.50373841699911,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 81.42721741599962,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 49.43185279099998,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 17.854207917000167,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 180.37394933399992,
+          "error": ""
+        }
+      ],
+      "total_seconds": 467.1,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 2331,
+      "excerpt": "# Chapter 1: Ashes on the Tongue\n\nThe rain fell like it wanted to erase something.\n\nArvind Kadam stood at the edge of the cremation ghat with his shoes soaking through, watching the Mithi River drag itself past in a slow brown churn that smelled of sewage and marigold pulp. Four-thirty in the mornin",
+      "quality": {
+        "total_score": 74.2,
+        "threshold": 68,
+        "passed": true,
+        "attempt": 1,
+        "axes": {
+          "emotional_resonance": 58.0,
+          "narrative_craft": 89.0,
+          "pacing": 72.6,
+          "character_auth": 86.0,
+          "genre_adherence": 71.0
+        },
+        "top_issues": [
+          "Average SIS=43.8 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=44 (<60) — build momentum going into the climax",
+          "Weak emotional alignment — strengthen anticipation moments",
+          "The antagonist (Dr. Sathe) is entirely absent as a presence — no POV, no trace of his perspective or intelligence beyond the staging itself. For a four-chapter structure, establishing some antagonist dimensionality or at least a stronger sense of his deliberateness by chapter one's close would strengthen the genre's cat-and-mouse architecture.",
+          "Pacing too flat (avg SIS=44, variance=2) — add variety"
+        ]
+      },
+      "sis": {
+        "avg": 43.8,
+        "scene_count": 6,
+        "curve_warnings": [
+          "Average SIS=43.8 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=44 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": true,
+        "issue": ""
+      },
+      "genre_violations": [],
+      "emotion": {
+        "dominant": "sadness",
+        "intensity": 0.7,
+        "consistency": 0.377
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 0,
+          "latin_chars": 10861,
+          "spanish_marker_chars": 0,
+          "primary": "latin"
+        }
+      }
+    },
+    {
+      "story_id": "bench-romance-hi",
+      "expected_genre": "romance",
+      "detected_genre": "literary",
+      "language": "Hindi",
+      "premise": "जयपुर में दुश्मन-से-प्रेमी: दो रival परिवारों के बच्चों की मिलन कहानी।",
+      "title": "विरासत",
+      "logline": "जयपुर की दो दुश्मन हवेलियों की संतानें प्यार में पड़ती हैं, पर उन्हें या तो अपने परिवार चुनने होंगे या एक-दूसरे को।",
+      "arc_type": "Cinderella",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.000721333002729807,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 16.833063416001096,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 7.059762167002191,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 92.73058358300113,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 30.970519292000972,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 42.96687766700052,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 112.01457662500252,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 56.69894362500054,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 26.136601374997554,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 806.0429439589971,
+          "error": ""
+        }
+      ],
+      "total_seconds": 1191.5,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 2192,
+      "excerpt": "# Chapter 1: गली के आर-पार\n\nसुबह की पहली अज़ान अभी मीनारों से उतरी भी नहीं थी कि आरव सिंह राठौड़ के पैर हवेली की सीढ़ियाँ चढ़ चुके थे।\n\nछत ठंडी थी। सितंबर की भोर में जयपुर का पत्थर एक अजीब नरमी ओढ़ लेता है — न गर्म, न सर्द, बस उस हल्के ताप जैसा जो किसी सोते हुए इंसान की हथेली में होता है। आरव ने नंग",
+      "quality": {
+        "total_score": 70.2,
+        "threshold": 72,
+        "passed": false,
+        "attempt": 2,
+        "axes": {
+          "emotional_resonance": 55.6,
+          "narrative_craft": 88.0,
+          "pacing": 67.1,
+          "character_auth": 83.0,
+          "genre_adherence": 57.0
+        },
+        "top_issues": [
+          "Average SIS=41.1 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=45 (<60) — build momentum going into the climax",
+          "Chapter ending lacks a hook — end with revelation, danger, or an unresolved question",
+          "Weak emotional alignment — strengthen anticipation moments",
+          "The physical/sensory attraction beat between the leads is underdeveloped — romance readers expect at least one moment of noticed physical detail that signals potential desire; 'sharp eyes like the lattice-screens' is intellectually observed but not felt as attraction, leaving the romantic spark more cerebral than visceral."
+        ]
+      },
+      "sis": {
+        "avg": 41.1,
+        "scene_count": 3,
+        "curve_warnings": [
+          "Average SIS=41.1 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=45 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": false,
+        "issue": "Chapter ending lacks a hook — end with revelation, danger, or an unresolved question"
+      },
+      "genre_violations": [],
+      "emotion": {
+        "dominant": "sadness",
+        "intensity": 0.6,
+        "consistency": 0.556
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 7849,
+          "latin_chars": 7,
+          "spanish_marker_chars": 0,
+          "primary": "devanagari"
+        }
+      }
+    },
+    {
+      "story_id": "bench-horror-es",
+      "expected_genre": "horror",
+      "detected_genre": "literary",
+      "language": "Spanish",
+      "premise": "Un pueblo rural de México está maldito — fantasmas del pasado regresan cada luna llena.",
+      "title": "Exhumada",
+      "logline": "Una mujer regresa a su pueblo natal y debe romper una maldición ancestral antes de que los fantasmas de sus propios pecados la consuman para siempre.",
+      "arc_type": "Oedipus",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0008204580008168705,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 12.291001083001902,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 3.2923749999972642,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 66.54831466599717,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 32.67870812500041,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 41.137048166998284,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 87.804225666001,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 47.26019945799999,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 16.062656917001732,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 187.78012166700137,
+          "error": ""
+        }
+      ],
+      "total_seconds": 494.9,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 2937,
+      "excerpt": "# Chapter 1: La casa que respira\n\nEl cigarro se había consumido hasta el filtro y Renata no se había dado cuenta. La ceniza le cayó en el muslo, un punto de calor que se apagó enseguida contra la tela del pantalón, y fue eso —no la curva cerrada ni la niebla que desde hacía veinte minutos se espesab",
+      "quality": {
+        "total_score": 72.7,
+        "threshold": 65,
+        "passed": true,
+        "attempt": 1,
+        "axes": {
+          "emotional_resonance": 61.0,
+          "narrative_craft": 89.0,
+          "pacing": 68.2,
+          "character_auth": 85.0,
+          "genre_adherence": 58.0
+        },
+        "top_issues": [
+          "Average SIS=41.6 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=47 (<60) — build momentum going into the climax",
+          "Chapter ending lacks a hook — end with revelation, danger, or an unresolved question",
+          "The chapter delivers sustained atmospheric dread but the promised visceral horror beat (the basement) is absent, meaning the genre escalation required for chapter one's closing hook is not achieved.",
+          "Weak emotional alignment — strengthen anticipation moments"
+        ]
+      },
+      "sis": {
+        "avg": 41.6,
+        "scene_count": 4,
+        "curve_warnings": [
+          "Average SIS=41.6 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=47 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": false,
+        "issue": "Chapter ending lacks a hook — end with revelation, danger, or an unresolved question"
+      },
+      "genre_violations": [],
+      "emotion": {
+        "dominant": "sadness",
+        "intensity": 0.8,
+        "consistency": 0.61
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 0,
+          "latin_chars": 12347,
+          "spanish_marker_chars": 378,
+          "primary": "spanish"
+        }
+      }
+    },
+    {
+      "story_id": "bench-fantasy-en",
+      "expected_genre": "fantasy",
+      "detected_genre": "fantasy",
+      "language": "English",
+      "premise": "The chosen one must save a dying kingdom from an ancient shadow curse.",
+      "title": "Unbroken",
+      "logline": "A disgraced shepherd's daughter must master a forgotten magic and destroy an ancient shadow curse before her dying kingdom fades into eternal darkness.",
+      "arc_type": "Man in Hole",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0009785000002011657,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 9.45816641700003,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 2.214397708001343,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 67.60931883300145,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 26.97450016700168,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 35.92691512499732,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 81.66111533399817,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 39.50531575000059,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 14.565809457999421,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 528.8832676659986,
+          "error": ""
+        }
+      ],
+      "total_seconds": 806.8,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 3028,
+      "excerpt": "# Chapter 1: The Shepherd Who Swallowed Her Light\n\nThe ewe had gotten ideas again.\n\nEirys spotted her — Nell, the grey-faced matriarch with the chipped horn and the temperament of a landslide — thirty yards beyond the last living grass, standing in the place where color went to die. The old sheep's ",
+      "quality": {
+        "total_score": 74.4,
+        "threshold": 70,
+        "passed": true,
+        "attempt": 3,
+        "axes": {
+          "emotional_resonance": 58.6,
+          "narrative_craft": 91.0,
+          "pacing": 70.8,
+          "character_auth": 87.0,
+          "genre_adherence": 69.0
+        },
+        "top_issues": [
+          "Average SIS=42.9 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=44 (<60) — build momentum going into the climax",
+          "Weak emotional alignment — strengthen anticipation moments",
+          "The magic system's rules — what the light does, what the blight is, why Eirys's power matters specifically — remain almost entirely unestablished, which is appropriate for Chapter 1 but leaves the genre reader with more atmospheric promise than concrete hook; the balance tips slightly toward mood over mechanism.",
+          "Pacing too flat (avg SIS=43, variance=25) — add variety"
+        ]
+      },
+      "sis": {
+        "avg": 42.9,
+        "scene_count": 5,
+        "curve_warnings": [
+          "Average SIS=42.9 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=44 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": true,
+        "issue": ""
+      },
+      "genre_violations": [],
+      "emotion": {
+        "dominant": "anticipation",
+        "intensity": 0.7,
+        "consistency": 0.619
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 0,
+          "latin_chars": 13131,
+          "spanish_marker_chars": 0,
+          "primary": "latin"
+        }
+      }
+    },
+    {
+      "story_id": "bench-literary-en",
+      "expected_genre": "literary",
+      "detected_genre": "literary",
+      "language": "English",
+      "premise": "A coming-of-age memory piece about family, identity, and Kolkata monsoons.",
+      "title": "Sediment",
+      "logline": "A young Bengali woman must reconcile her fractured memories of home or lose her sense of self entirely to the life she has built abroad.",
+      "arc_type": "Man in Hole",
+      "fatal_error": "",
+      "stages": [
+        {
+          "name": "language",
+          "ok": true,
+          "seconds": 0.0009257079982489813,
+          "error": ""
+        },
+        {
+          "name": "premise",
+          "ok": true,
+          "seconds": 8.279891834001319,
+          "error": ""
+        },
+        {
+          "name": "titles",
+          "ok": true,
+          "seconds": 2.349006250002276,
+          "error": ""
+        },
+        {
+          "name": "world",
+          "ok": true,
+          "seconds": 52.48387612499937,
+          "error": ""
+        },
+        {
+          "name": "character_1",
+          "ok": true,
+          "seconds": 20.65272025000013,
+          "error": ""
+        },
+        {
+          "name": "character_2",
+          "ok": true,
+          "seconds": 29.046784666999883,
+          "error": ""
+        },
+        {
+          "name": "beats",
+          "ok": true,
+          "seconds": 75.46255520799969,
+          "error": ""
+        },
+        {
+          "name": "chapter_plan",
+          "ok": true,
+          "seconds": 48.035105041999486,
+          "error": ""
+        },
+        {
+          "name": "scene_drafts",
+          "ok": true,
+          "seconds": 14.74120608299927,
+          "error": ""
+        },
+        {
+          "name": "write_chapter_gated",
+          "ok": true,
+          "seconds": 148.81656587500038,
+          "error": ""
+        }
+      ],
+      "total_seconds": 399.9,
+      "setup_ok": true,
+      "chapter_written": true,
+      "word_count": 2239,
+      "excerpt": "# Chapter 1: The Kitchen Window\n\nThe sentence was wrong again.\n\nAnanya deleted it for the seventh time and watched the cursor blink against the white field of the document, patient as a metronome, measuring out the silence of her apartment. She pressed her headphones tighter against her ears. On the",
+      "quality": {
+        "total_score": 79.4,
+        "threshold": 75,
+        "passed": true,
+        "attempt": 1,
+        "axes": {
+          "emotional_resonance": 72.9,
+          "narrative_craft": 91.0,
+          "pacing": 72.2,
+          "character_auth": 86.0,
+          "genre_adherence": 74.0
+        },
+        "top_issues": [
+          "Average SIS=43.6 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=49 (<60) — build momentum going into the climax",
+          "Pacing too flat (avg SIS=44, variance=35) — add variety",
+          "Occasional over-density of figurative language (multiple extended metaphors stacking in single paragraphs) risks the prose feeling self-consciously 'literary' rather than inevitable — a distinction literary fiction readers are sensitive to.",
+          "Neel exists almost entirely as a surface Ananya reflects off of — his interiority is zero and his dialogue is functional rather than distinctive, which risks making him a prop rather than a presence whose absence Ananya genuinely mourns or fears."
+        ]
+      },
+      "sis": {
+        "avg": 43.6,
+        "scene_count": 4,
+        "curve_warnings": [
+          "Average SIS=43.6 is too low (<45) — chapter may feel flat",
+          "Scene before finale has SIS=49 (<60) — build momentum going into the climax"
+        ]
+      },
+      "hook": {
+        "ok": true,
+        "issue": ""
+      },
+      "genre_violations": [],
+      "emotion": {
+        "dominant": "sadness",
+        "intensity": 0.6,
+        "consistency": 0.729
+      },
+      "language_check": {
+        "ok": true,
+        "scripts": {
+          "devanagari_chars": 0,
+          "latin_chars": 9827,
+          "spanish_marker_chars": 0,
+          "primary": "latin"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.env.*
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+node_modules/
+.streamlit/secrets.toml
+
+# === Added for open source ===
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+.env.bak*
+*.bak
+*.backup
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+.npm
+.next/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
